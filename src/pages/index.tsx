@@ -1,11 +1,12 @@
 import React, { Dispatch, SetStateAction } from "react";
 import { Client as Styletron } from "styletron-engine-atomic";
 import { Provider as StyletronProvider } from "styletron-react";
-import { LightTheme, BaseProvider, styled } from "baseui";
+import { LightTheme, BaseProvider, styled, Theme, useStyletron } from "baseui";
 import * as ButtonGroup from "baseui/button-group";
 import * as Button from "baseui/button";
 import * as FormControl from "baseui/form-control";
 import * as Accordion from "baseui/accordion";
+import * as Checkbox from "baseui/checkbox";
 import * as Table from "baseui/table-semantic";
 
 import JSONData from "../../content/test.json";
@@ -17,6 +18,12 @@ export default function Index() {
     key: "bet-0",
     defaultValue: defaultBet,
   });
+  const [doneMatches, setDoneMatches] = useLocalStorage({
+    key: "done-0",
+    defaultValue: defaultDoneMatches,
+  });
+  const [css, theme] = useStyletron();
+
   const [engine, setEngine] = React.useState(null);
 
   React.useEffect(() => {
@@ -46,6 +53,17 @@ export default function Index() {
     setSelected(stringArr.join(""));
   }
 
+  function toggleDone(i: number) {
+    const stringArr = Array.from(doneMatches);
+    const now = stringArr[i];
+    if (now === "1") {
+      stringArr[i] = "0";
+    } else {
+      stringArr[i] = "1";
+    }
+    setDoneMatches(stringArr.join(""));
+  }
+
   return (
     <StyletronProvider value={engine}>
       <BaseProvider theme={LightTheme}>
@@ -57,26 +75,39 @@ export default function Index() {
                   key={i}
                   label={`${i + 1}: ${teams[i][1]} vs ${teams[i][2]}`}
                 >
-                  <ButtonGroup.ButtonGroup>
-                    <Button.Button
-                      isSelected={selected[i] === "1"}
-                      onClick={() => handleClick(i, "1")}
-                    >
-                      1
-                    </Button.Button>
-                    <Button.Button
-                      isSelected={selected[i] === "X"}
-                      onClick={() => handleClick(i, "X")}
-                    >
-                      x
-                    </Button.Button>
-                    <Button.Button
-                      isSelected={selected[i] === "2"}
-                      onClick={() => handleClick(i, "2")}
-                    >
-                      2
-                    </Button.Button>
-                  </ButtonGroup.ButtonGroup>
+                  <MatchTitleWrapper>
+                    <ButtonGroup.ButtonGroup>
+                      <Button.Button
+                        isSelected={selected[i] === "1"}
+                        onClick={() => handleClick(i, "1")}
+                      >
+                        1
+                      </Button.Button>
+                      <Button.Button
+                        isSelected={selected[i] === "X"}
+                        onClick={() => handleClick(i, "X")}
+                      >
+                        x
+                      </Button.Button>
+                      <Button.Button
+                        isSelected={selected[i] === "2"}
+                        onClick={() => handleClick(i, "2")}
+                      >
+                        2
+                      </Button.Button>
+                    </ButtonGroup.ButtonGroup>
+                    <Checkbox.Checkbox
+                      overrides={{
+                        Root: {
+                          style: ({ $theme }) => ({
+                            alignItems: "center",
+                          }),
+                        },
+                      }}
+                      checked={doneMatches[i] === "1"}
+                      onChange={(e) => toggleDone(i)}
+                    />
+                  </MatchTitleWrapper>
                 </FormControl.FormControl>
               );
             })}
@@ -85,6 +116,7 @@ export default function Index() {
             <Accordion.Accordion accordion={false}>
               {[13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0].map((correct) => {
                 const lineNos = result[correct];
+
                 return (
                   <Accordion.Panel
                     expanded={
@@ -100,14 +132,24 @@ export default function Index() {
                       overrides={{
                         TableHeadCell: {
                           style: ({ $theme }) => ({
-                            padding: "5px",
+                            ...padding("5px"),
                             textAlign: "center",
                           }),
                         },
                         TableBodyCell: {
-                          style: ({ $theme }) => ({
-                            padding: "5px",
+                          style: ({ $colIndex, $rowIndex, $theme }) => ({
+                            ...padding("5px"),
                             textAlign: "center",
+                            backgroundColor:
+                              lineNos != null
+                                ? calculateBackgroundColor({
+                                    doneMatches,
+                                    index: $colIndex - 1,
+                                    selected: selected,
+                                    theme: $theme,
+                                    tip: tips[lineNos[$rowIndex]],
+                                  })
+                                : "auto",
                           }),
                         },
                       }}
@@ -117,13 +159,24 @@ export default function Index() {
                       ]}
                       data={lineNos?.map((lineNo) => [
                         lineNo + 1,
-                        ...Array.from(tips[lineNo]).map((tip, tipIndex) => {
-                          const correct = selected[tipIndex] === tip;
-                          if (correct) {
-                            return <CorrectBet>{tip} </CorrectBet>;
+                        ...Array.from(tips[lineNo]).map(
+                          (singleTip, tipIndex) => {
+                            const textColor = calculateBackgroundColor({
+                              doneMatches,
+                              index: tipIndex,
+                              selected,
+                              theme,
+                              tip: tips[lineNo],
+                              text: true,
+                            });
+
+                            return (
+                              <BetNumber $textColor={textColor}>
+                                {singleTip}
+                              </BetNumber>
+                            );
                           }
-                          return <IncorrectBet>{tip} </IncorrectBet>;
-                        }),
+                        ),
                       ])}
                     />
                   </Accordion.Panel>
@@ -199,7 +252,8 @@ const matches = [
   { label: "" },
 ];
 
-const defaultBet = "1111111111111";
+const defaultBet = "XXXXXXXXXXXXX";
+const defaultDoneMatches = "0000000000000";
 
 function useLocalStorage({
   key,
@@ -235,6 +289,49 @@ function getLocalStorageObject({
   return localStorageJson ? localStorageJson : defaultValue;
 }
 
+function padding(val: string) {
+  return {
+    paddingTop: val,
+    paddingBottom: val,
+    paddingRight: val,
+    paddingLeft: val,
+  };
+}
+
+function calculateBackgroundColor({
+  index,
+  doneMatches,
+  tip,
+  selected,
+  theme,
+  text = false,
+}: {
+  index: number;
+  doneMatches: string;
+  tip: string;
+  selected: string;
+  theme: Theme;
+  text?: boolean;
+}) {
+  const isCorrect = selected[index] === tip[index];
+  const isMatchDone = doneMatches[index] === "1";
+  if (!isMatchDone) {
+    if (text) {
+      return isCorrect ? theme.colors.positive : theme.colors.negative;
+    }
+    return "auto";
+  }
+
+  if (text) {
+    return theme.colors.white;
+  }
+
+  if (isCorrect) {
+    return theme.colors.positive;
+  }
+  return theme.colors.negative;
+}
+
 const Wrapper = styled("div", {
   display: "flex",
   gap: "20px",
@@ -244,10 +341,11 @@ const ResultWrapper = styled("div", {
   minWidth: "500px",
 });
 
-const CorrectBet = styled("span", ({ $theme }) => ({
-  color: $theme.colors.positive,
+const BetNumber = styled<{ $textColor: string }>("span", ({ $textColor }) => ({
+  color: $textColor,
 }));
 
-const IncorrectBet = styled("span", ({ $theme }) => ({
-  color: $theme.colors.negative,
+const MatchTitleWrapper = styled("div", ({ $theme }) => ({
+  display: "flex",
+  gap: "10px",
 }));
