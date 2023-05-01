@@ -17,9 +17,6 @@ const config: GatsbyConfig = {
       prefix: "_",
     },
   },],
-  flags: {
-    DEV_SSR: true
-  },
 };
 
 export default config;

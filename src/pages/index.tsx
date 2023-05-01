@@ -1,20 +1,23 @@
 import React, { Dispatch, SetStateAction } from "react";
+import { Client as Styletron } from "styletron-engine-atomic";
 import { Provider as StyletronProvider } from "styletron-react";
 import { LightTheme, BaseProvider, styled } from "baseui";
 import * as ButtonGroup from "baseui/button-group";
 import * as Button from "baseui/button";
 import * as FormControl from "baseui/form-control";
 import * as Accordion from "baseui/accordion";
+import * as Table from "baseui/table-semantic";
+
+import JSONData from "../../content/test.json";
 
 const isBrowser = typeof window !== "undefined";
 
 export default function Index() {
-  const [engine, setEngine] = React.useState(null);
-
   const [selected, setSelected] = useLocalStorage({
     key: "bet-0",
     defaultValue: defaultBet,
   });
+  const [engine, setEngine] = React.useState(null);
 
   React.useEffect(() => {
     // Load the `styletron-engine-atomic` package dynamically.
@@ -29,7 +32,13 @@ export default function Index() {
 
   if (!engine) return null;
 
-  const result = prepareResult(selected);
+  const tips = JSONData.bets.map((inden) =>
+    Array.from(inden)
+      .map((x) => convertBet(x))
+      .join("")
+  );
+  const teams = JSONData.teams;
+  const result = prepareResult(selected, tips);
 
   function handleClick(i: number, value: string) {
     const stringArr = Array.from(selected);
@@ -46,7 +55,7 @@ export default function Index() {
               return (
                 <FormControl.FormControl
                   key={i}
-                  label={`${i + 1}: ${match.label}`}
+                  label={`${i + 1}: ${teams[i][1]} vs ${teams[i][2]}`}
                 >
                   <ButtonGroup.ButtonGroup>
                     <Button.Button
@@ -72,6 +81,56 @@ export default function Index() {
               );
             })}
           </div>
+          <ResultWrapper>
+            <Accordion.Accordion accordion={false}>
+              {[13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0].map((correct) => {
+                const lineNos = result[correct];
+                return (
+                  <Accordion.Panel
+                    expanded={
+                      +correct >= 10 && lineNos != null && lineNos.length > 0
+                    }
+                    title={`${correct} rigtige [${
+                      lineNos?.length ?? 0
+                    }] ${formatLinenumbers(lineNos)}`}
+                  >
+                    <Table.Table
+                      size={Table.SIZE.compact}
+                      divider={Table.DIVIDER.vertical}
+                      overrides={{
+                        TableHeadCell: {
+                          style: ({ $theme }) => ({
+                            padding: "5px",
+                            textAlign: "center",
+                          }),
+                        },
+                        TableBodyCell: {
+                          style: ({ $theme }) => ({
+                            padding: "5px",
+                            textAlign: "center",
+                          }),
+                        },
+                      }}
+                      columns={[
+                        "Nr",
+                        ...teams.map((match, matchID) => matchID + 1),
+                      ]}
+                      data={lineNos?.map((lineNo) => [
+                        lineNo + 1,
+                        ...Array.from(tips[lineNo]).map((tip, tipIndex) => {
+                          const correct = selected[tipIndex] === tip;
+                          if (correct) {
+                            return <CorrectBet>{tip} </CorrectBet>;
+                          }
+                          return <IncorrectBet>{tip} </IncorrectBet>;
+                        }),
+                      ])}
+                    />
+                  </Accordion.Panel>
+                );
+              })}
+            </Accordion.Accordion>
+          </ResultWrapper>
         </Wrapper>
       </BaseProvider>
     </StyletronProvider>
@@ -79,16 +138,19 @@ export default function Index() {
 }
 
 function formatLinenumbers(lines: number[]) {
-  let res = lines?.slice(0, Math.min(lines.length, 10))?.join(",") ?? "";
+  let res =
+    lines
+      ?.slice(0, Math.min(lines.length, 10))
+      .map((line) => line + 1)
+      ?.join(",") ?? "";
   if (lines?.length > 10) {
     res += "...";
   }
   return res;
 }
 
-function prepareResult(currentStatus: string) {
+function prepareResult(currentStatus: string, tips: string[]) {
   const result: { [k: number]: number[] } = {};
-
   tips.forEach((bets, betsIndex) => {
     let correct = 0;
     for (let i = 0; i < bets.length; i++) {
@@ -108,6 +170,19 @@ function prepareResult(currentStatus: string) {
   return result;
 }
 
+function convertBet(bet_indency: string) {
+  switch (bet_indency) {
+    case "0":
+      return "1";
+    case "1":
+      return "X";
+    case "2":
+      return "2";
+    default:
+      return "U";
+  }
+}
+
 const matches = [
   { label: "" },
   { label: "" },
@@ -124,13 +199,6 @@ const matches = [
   { label: "" },
 ];
 
-const copy =
-  "11112111X21212.111121X21112X3.111212XX2111X4.11X112X11211X5.11XXX21X12X2X6.11X221X11X2217.11211XX11X11X8.11211211221219.1121X11112X2210.112121112212111.112121211112112.11212X121212113.11212211X212214.112122X1112X115.112XX1111212116.112XXX1X1212117.11221X111112118.1X11111X1222119.1X21211X212X220.1X2XX1111222121.1X2XX1211X1X122.1X2X2X111X12123.1211X21X1112124.121X121112X2X25.12X1X2121122126.1221111X1212127.12211X111212128.1221X11X1112129.1221221122X2130.122X2111112X131.1222X2111112232.X1111X11112X133.X111X1X112X1134.X11XX111XXX2135.X1121X1X1111X36.X1X1XX112212137.X1X1XXX22X12138.X1XXXX121212139.X1X221X11122140.X12112111211141.X121X1222111X42.X12121112XXX143.X12121X11112244.X12121X112X2145.X12121211212146.X1212211111XX47.XX11122212X1148.XXXX22111211X49.XX2122111212250.XX2122X21211151.X2X1XXXX11X1152.X2X12XX122X1X53.X2X122XX1212154.211X1XX11X12155.211XXX212X1X156.211XX21X111X157.211X222X12XX158.21X1111X1122X59.21X1XX1X1121160.21X12X1112X2261.21X122X11212162.21XXX2X1X112163.21XX22211X11164.21X22XX11212165.2121XX11X112166.212121121111167.212121X11212268.2121221X1112269.212X22111X22170.2XX12X111121171.2X211211X2X2272.2X2121111X12173.2X212112X112174.221122XX1211175.22X11X1112221";
-
-const tips = copy
-  .toUpperCase()
-  .split(".")
-  .map((tip) => tip.slice(0, 13));
 const defaultBet = "1111111111111";
 
 function useLocalStorage({
@@ -177,6 +245,9 @@ const ResultWrapper = styled("div", {
 });
 
 const CorrectBet = styled("span", ({ $theme }) => ({
-  minWidth: "500px",
   color: $theme.colors.positive,
+}));
+
+const IncorrectBet = styled("span", ({ $theme }) => ({
+  color: $theme.colors.negative,
 }));
