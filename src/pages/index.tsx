@@ -45,7 +45,7 @@ export default function Index() {
       .join("")
   );
   const teams = JSONData.teams;
-  const result = prepareResult(selected, tips);
+  const result = prepareResult(doneMatches, selected, tips);
 
   function handleClick(i: number, value: string) {
     const stringArr = Array.from(selected);
@@ -56,10 +56,12 @@ export default function Index() {
   function toggleDone(i: number) {
     const stringArr = Array.from(doneMatches);
     const now = stringArr[i];
-    if (now === "1") {
-      stringArr[i] = "0";
-    } else {
+    if (now === "0") {
       stringArr[i] = "1";
+    } else if (now === "1") {
+      stringArr[i] = "2";
+    } else {
+      stringArr[i] = "0";
     }
     setDoneMatches(stringArr.join(""));
   }
@@ -69,34 +71,57 @@ export default function Index() {
       <BaseProvider theme={LightTheme}>
         <Wrapper>
           <div>
-            {matches.map((match, i) => {
-              return (
-                <FormControl.FormControl
-                  key={i}
-                  label={`${i + 1}: ${teams[i][1]} vs ${teams[i][2]}`}
-                >
-                  <MatchTitleWrapper>
-                    <ButtonGroup.ButtonGroup>
+            <Button.Button
+              size={Button.SIZE.mini}
+              kind={Button.KIND.secondary}
+              onClick={() => {
+                setDoneMatches(defaultDoneMatches);
+                setSelected(defaultBet);
+              }}
+            >
+              Reset selection
+            </Button.Button>
+            <div style={{ marginTop: "20px" }}>
+              {matches.map((match, i) => {
+                return (
+                  <div key={i}>
+                    <div style={{ display: "flex", justifyContent: "right" }}>
                       <Button.Button
-                        isSelected={selected[i] === "1"}
-                        onClick={() => handleClick(i, "1")}
+                        size={Button.SIZE.mini}
+                        onClick={() => toggleDone(i)}
                       >
-                        1
+                        {gameStateConfigMap[doneMatches[i]].label}
                       </Button.Button>
-                      <Button.Button
-                        isSelected={selected[i] === "X"}
-                        onClick={() => handleClick(i, "X")}
-                      >
-                        x
-                      </Button.Button>
-                      <Button.Button
-                        isSelected={selected[i] === "2"}
-                        onClick={() => handleClick(i, "2")}
-                      >
-                        2
-                      </Button.Button>
-                    </ButtonGroup.ButtonGroup>
-                    <Checkbox.Checkbox
+                    </div>
+                    <FormControl.FormControl
+                      label={
+                        <span>
+                          {`${i + 1}: ${teams[i][1]} vs ${teams[i][2]} `}
+                        </span>
+                      }
+                    >
+                      <MatchTitleWrapper>
+                        <ButtonGroup.ButtonGroup>
+                          <Button.Button
+                            isSelected={selected[i] === "1"}
+                            onClick={() => handleClick(i, "1")}
+                          >
+                            1
+                          </Button.Button>
+                          <Button.Button
+                            isSelected={selected[i] === "X"}
+                            onClick={() => handleClick(i, "X")}
+                          >
+                            x
+                          </Button.Button>
+                          <Button.Button
+                            isSelected={selected[i] === "2"}
+                            onClick={() => handleClick(i, "2")}
+                          >
+                            2
+                          </Button.Button>
+                        </ButtonGroup.ButtonGroup>
+                        {/* <Checkbox.Checkbox
                       overrides={{
                         Root: {
                           style: ({ $theme }) => ({
@@ -106,11 +131,13 @@ export default function Index() {
                       }}
                       checked={doneMatches[i] === "1"}
                       onChange={(e) => toggleDone(i)}
-                    />
-                  </MatchTitleWrapper>
-                </FormControl.FormControl>
-              );
-            })}
+                    /> */}
+                      </MatchTitleWrapper>
+                    </FormControl.FormControl>
+                  </div>
+                );
+              })}
+            </div>
           </div>
           <ResultWrapper>
             <Accordion.Accordion accordion={false}>
@@ -202,14 +229,18 @@ function formatLinenumbers(lines: number[]) {
   return res;
 }
 
-function prepareResult(currentStatus: string, tips: string[]) {
+function prepareResult(
+  doneMatches: string,
+  currentStatus: string,
+  tips: string[]
+) {
   const result: { [k: number]: number[] } = {};
   tips.forEach((bets, betsIndex) => {
     let correct = 0;
     for (let i = 0; i < bets.length; i++) {
       const bet = bets[i];
       const curr = currentStatus[i];
-      if (bet === curr) {
+      if (bet === curr && doneMatches[i] !== "0") {
         correct++;
       }
     }
@@ -251,6 +282,12 @@ const matches = [
   { label: "" },
   { label: "" },
 ];
+
+const gameStateConfigMap = {
+  "0": { label: "Pre game", order: 0 },
+  "1": { label: "Playing", order: 1 },
+  "2": { label: "Done", order: 2 },
+};
 
 const defaultBet = "XXXXXXXXXXXXX";
 const defaultDoneMatches = "0000000000000";
@@ -314,8 +351,15 @@ function calculateBackgroundColor({
   text?: boolean;
 }) {
   const isCorrect = selected[index] === tip[index];
-  const isMatchDone = doneMatches[index] === "1";
+  const isMatchDone = doneMatches[index] === "2";
+  const isPreMatch = doneMatches[index] === "0";
   if (!isMatchDone) {
+    if (isPreMatch) {
+      if (text) {
+        return theme.colors.borderOpaque;
+      }
+    }
+
     if (text) {
       return isCorrect ? theme.colors.positive : theme.colors.negative;
     }
