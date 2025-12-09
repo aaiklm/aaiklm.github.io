@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Archivo Narrow';
+  src: url('./assets/fonts/ArchivoNarrow-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Archivo Narrow';
+  src: url('./assets/fonts/ArchivoNarrow-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+:root {
+  font-family: 'Archivo Narrow', system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #000;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

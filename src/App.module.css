@@ -1,0 +1,12 @@
+:root {
+  --design-width: 1920;
+  --design-height: 1080;
+}
+
+.appRoot {
+  width: calc(var(--design-width) * 1px);
+  height: calc(var(--design-height) * 1px);
+  overflow: hidden;
+  background-color: white;
+  flex-shrink: 0;
+}
