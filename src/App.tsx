@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className={styles.appRoot} style={{ zoom }}>
-      Hello World
+      Hello World2
     </div>
   );
 }

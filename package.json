@@ -9,7 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "test:visual": "playwright test",
+    "test:visual:update": "playwright test --update-snapshots"
   },
   "dependencies": {
     "react": "^19.2.0",
@@ -17,6 +19,10 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+    "@playwright/test": "^1.57.0",
+    "@storybook/addon-docs": "^10.1.0",
+    "@storybook/react-vite": "^10.1.0",
+    "@storybook/test": "^8.6.14",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
@@ -25,6 +31,7 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
+    "storybook": "^10.1.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "typescript-plugin-css-modules": "^5.2.0",
