@@ -111,3 +111,11 @@
   font-weight: 600;
   font-variant-numeric: tabular-nums;
 }
+
+.dateCountLabel {
+  font-size: 10px;
+  fill: #6e7681;
+  text-anchor: middle;
+  font-family: "Archivo Narrow", system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+}

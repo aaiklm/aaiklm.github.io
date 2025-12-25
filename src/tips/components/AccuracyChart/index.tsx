@@ -271,6 +271,16 @@ export function AccuracyChart({
               >
                 {correctCount}
               </text>
+              {/* Date count below x-axis label */}
+              {segments.length > 0 && (
+                <text
+                  x={x + barWidth / 2}
+                  y={chartHeight - paddingBottom + 35}
+                  className={styles.dateCountLabel}
+                >
+                  ({segments.length})
+                </text>
+              )}
             </g>
           );
         })}
