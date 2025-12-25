@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 /**
  * Script to download football match data from FBref using Puppeteer
- * Source: https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
+ * Sources:
+ *   - Premier League: https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
+ *   - Championship: https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures
  * Run with: node scripts/downloadTeamData.mjs
  */
 
@@ -13,31 +15,67 @@ import puppeteer from "puppeteer";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "../src/assets/data/teams");
 
-// Historical seasons URLs (FBref format)
-const SEASON_URLS = [
+// League configurations
+const LEAGUES = [
   {
-    year: "2025-26",
-    url: "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
+    name: "Premier League",
+    slug: "premier-league",
+    seasons: [
+      {
+        year: "2025-26",
+        url: "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
+      },
+      {
+        year: "2024-25",
+        url: "https://fbref.com/en/comps/9/2024-2025/schedule/2024-2025-Premier-League-Scores-and-Fixtures",
+      },
+      {
+        year: "2023-24",
+        url: "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
+      },
+      {
+        year: "2022-23",
+        url: "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures",
+      },
+      {
+        year: "2021-22",
+        url: "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures",
+      },
+      {
+        year: "2020-21",
+        url: "https://fbref.com/en/comps/9/2020-2021/schedule/2020-2021-Premier-League-Scores-and-Fixtures",
+      },
+    ],
   },
   {
-    year: "2024-25",
-    url: "https://fbref.com/en/comps/9/2024-2025/schedule/2024-2025-Premier-League-Scores-and-Fixtures",
-  },
-  {
-    year: "2023-24",
-    url: "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
-  },
-  {
-    year: "2022-23",
-    url: "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures",
-  },
-  {
-    year: "2021-22",
-    url: "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures",
-  },
-  {
-    year: "2020-21",
-    url: "https://fbref.com/en/comps/9/2020-2021/schedule/2020-2021-Premier-League-Scores-and-Fixtures",
+    name: "Championship",
+    slug: "championship",
+    seasons: [
+      {
+        year: "2025-26",
+        url: "https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures",
+      },
+      {
+        year: "2024-25",
+        url: "https://fbref.com/en/comps/10/2024-2025/schedule/2024-2025-Championship-Scores-and-Fixtures",
+      },
+      {
+        year: "2023-24",
+        url: "https://fbref.com/en/comps/10/2023-2024/schedule/2023-2024-Championship-Scores-and-Fixtures",
+      },
+      {
+        year: "2022-23",
+        url: "https://fbref.com/en/comps/10/2022-2023/schedule/2022-2023-Championship-Scores-and-Fixtures",
+      },
+      {
+        year: "2021-22",
+        url: "https://fbref.com/en/comps/10/2021-2022/schedule/2021-2022-Championship-Scores-and-Fixtures",
+      },
+      {
+        year: "2020-21",
+        url: "https://fbref.com/en/comps/10/2020-2021/schedule/2020-2021-Championship-Scores-and-Fixtures",
+      },
+    ],
   },
 ];
 
@@ -45,7 +83,7 @@ const SEASON_URLS = [
  * Parse FBref HTML to extract match data
  * Only extracts matches that have been played (have scores)
  */
-function parseFBrefHTML(html) {
+function parseFBrefHTML(html, league) {
   const matches = [];
 
   // Split by table rows
@@ -107,6 +145,7 @@ function parseFBrefHTML(html) {
       awayGoals,
       result,
       round: week ? `Matchday ${week}` : null,
+      league: league,
     });
   }
 
@@ -123,8 +162,8 @@ function cleanTeamName(name) {
     .trim();
 }
 
-async function fetchSeasonData(browser, seasonInfo) {
-  console.log(`  Fetching ${seasonInfo.year} from FBref...`);
+async function fetchSeasonData(browser, seasonInfo, leagueName) {
+  console.log(`    Fetching ${seasonInfo.year}...`);
 
   try {
     const page = await browser.newPage();
@@ -148,10 +187,10 @@ async function fetchSeasonData(browser, seasonInfo) {
 
     await page.close();
 
-    const matches = parseFBrefHTML(html);
+    const matches = parseFBrefHTML(html, leagueName);
     return matches;
   } catch (error) {
-    console.log(`  ⚠️  Error: ${error.message}`);
+    console.log(`    ⚠️  Error: ${error.message}`);
     return [];
   }
 }
@@ -189,6 +228,7 @@ function filterByTeam(matches, teamName) {
         goalsFor,
         goalsAgainst,
         result,
+        league: m.league,
       };
     });
 
@@ -215,9 +255,9 @@ function getAllTeams(matches) {
 
 async function main() {
   console.log("⚽ Football Data Downloader (FBref + Puppeteer)\n");
-  console.log(
-    "Source: fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures\n"
-  );
+  console.log("Sources:");
+  console.log("  - Premier League: fbref.com/en/comps/9/schedule/");
+  console.log("  - Championship: fbref.com/en/comps/10/schedule/\n");
 
   // Create output directory
   mkdirSync(DATA_DIR, { recursive: true });
@@ -229,17 +269,38 @@ async function main() {
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
 
-  // Fetch all Premier League data
-  console.log("📥 Fetching Premier League data from FBref...\n");
   const allMatches = [];
 
-  for (const season of SEASON_URLS) {
-    const matches = await fetchSeasonData(browser, season);
-    console.log(`  ✓ ${season.year}: ${matches.length} completed matches`);
-    allMatches.push(...matches);
+  // Fetch data for each league
+  for (const league of LEAGUES) {
+    console.log(`📥 Fetching ${league.name} data...\n`);
+    let leagueMatches = [];
 
-    // Add delay between requests to be respectful to FBref servers
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    for (const season of league.seasons) {
+      const matches = await fetchSeasonData(browser, season, league.name);
+      console.log(`    ✓ ${season.year}: ${matches.length} completed matches`);
+      leagueMatches.push(...matches);
+
+      // Add delay between requests to be respectful to FBref servers
+      await new Promise((resolve) => setTimeout(resolve, 2000));
+    }
+
+    console.log(`  📊 ${league.name} total: ${leagueMatches.length} matches\n`);
+
+    // Save league-specific file
+    const leagueData = {
+      league: league.name,
+      seasons: league.seasons.map((s) => s.year),
+      totalMatches: leagueMatches.length,
+      matches: leagueMatches,
+      fetchedAt: new Date().toISOString(),
+    };
+
+    const leagueFile = join(DATA_DIR, `${league.slug}-all.json`);
+    writeFileSync(leagueFile, JSON.stringify(leagueData, null, 2));
+    console.log(`  💾 Saved: ${leagueFile}\n`);
+
+    allMatches.push(...leagueMatches);
   }
 
   // Close browser
@@ -248,29 +309,28 @@ async function main() {
   // Sort by date (newest first)
   allMatches.sort((a, b) => b.date.localeCompare(a.date));
 
-  console.log(`\n📊 Total: ${allMatches.length} completed matches\n`);
+  console.log(`\n📊 Grand Total: ${allMatches.length} completed matches\n`);
 
   if (allMatches.length === 0) {
     console.log("❌ No matches found. Check if FBref HTML structure changed.");
     return;
   }
 
-  // Save full season data
-  const seasonData = {
-    league: "Premier League",
-    seasons: SEASON_URLS.map((s) => s.year),
+  // Save combined data
+  const allData = {
+    leagues: LEAGUES.map((l) => l.name),
     totalMatches: allMatches.length,
     matches: allMatches,
     fetchedAt: new Date().toISOString(),
   };
 
-  const seasonFile = join(DATA_DIR, "premier-league-all.json");
-  writeFileSync(seasonFile, JSON.stringify(seasonData, null, 2));
-  console.log(`💾 Saved: ${seasonFile}`);
+  const allFile = join(DATA_DIR, "all-leagues.json");
+  writeFileSync(allFile, JSON.stringify(allData, null, 2));
+  console.log(`💾 Saved combined data: ${allFile}`);
 
   // Get all teams
   const teams = getAllTeams(allMatches);
-  console.log(`\n🏟️  Found ${teams.length} teams\n`);
+  console.log(`\n🏟️  Found ${teams.length} teams across all leagues\n`);
 
   // Save individual team files
   console.log("📁 Saving individual team files...\n");

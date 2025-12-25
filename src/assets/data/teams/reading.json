@@ -1,0 +1,2497 @@
+{
+  "teamName": "Reading",
+  "matches": [
+    {
+      "date": "2023-05-08",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-05-08",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-29",
+      "opponent": "Wigan Athletic",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-29",
+      "opponent": "Wigan Athletic",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-22",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-22",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-19",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-19",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-15",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-15",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-10",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-10",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-07",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-07",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-01",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-04-01",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-18",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-18",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-15",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-15",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-11",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-11",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-07",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-07",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-04",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-03-04",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-25",
+      "opponent": "Blackpool",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-25",
+      "opponent": "Blackpool",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-17",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-17",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-14",
+      "opponent": "Rotherham United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-14",
+      "opponent": "Rotherham United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-11",
+      "opponent": "Sunderland",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-11",
+      "opponent": "Sunderland",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-04",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-02-04",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-21",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-21",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-14",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-14",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-02",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2023-01-02",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-30",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-30",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-27",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-27",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-16",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-16",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-10",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-12-10",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-12",
+      "opponent": "Hull City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-12",
+      "opponent": "Hull City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-08",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-08",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-04",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-04",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-01",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-11-01",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-29",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-29",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-22",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-22",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-18",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-18",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-15",
+      "opponent": "West Brom",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-15",
+      "opponent": "West Brom",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-07",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-07",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-04",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-04",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-01",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-10-01",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-17",
+      "opponent": "Wigan Athletic",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-17",
+      "opponent": "Wigan Athletic",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-14",
+      "opponent": "Sunderland",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-14",
+      "opponent": "Sunderland",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-04",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-09-04",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-30",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-30",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-27",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-27",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-20",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-20",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-17",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-17",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-13",
+      "opponent": "Rotherham United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-13",
+      "opponent": "Rotherham United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-06",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-08-06",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-07-30",
+      "opponent": "Blackpool",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-07-30",
+      "opponent": "Blackpool",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-05-07",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-05-07",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-30",
+      "opponent": "West Brom",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-30",
+      "opponent": "West Brom",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-23",
+      "opponent": "Hull City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-23",
+      "opponent": "Hull City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-18",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-18",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-15",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-15",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-09",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-09",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-05",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-05",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-02",
+      "opponent": "Barnsley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-04-02",
+      "opponent": "Barnsley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-19",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-19",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-15",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-15",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-12",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-12",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-05",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-03-05",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-26",
+      "opponent": "Blackpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-26",
+      "opponent": "Blackpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-22",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-22",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-19",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-19",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-16",
+      "opponent": "P'borough United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-16",
+      "opponent": "P'borough United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-12",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-12",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-09",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-02-09",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-29",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-29",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-22",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-22",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-19",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-19",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-15",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-15",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-11",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 7,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-11",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 7,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-03",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2022-01-03",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-12-11",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-12-11",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-12-04",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-12-04",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-27",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-27",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-23",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-23",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-20",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-20",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-06",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-06",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-02",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-11-02",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-30",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-30",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-23",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-23",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-20",
+      "opponent": "Blackpool",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-20",
+      "opponent": "Blackpool",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-16",
+      "opponent": "Barnsley",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-16",
+      "opponent": "Barnsley",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-02",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-10-02",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-29",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-29",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-25",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-25",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-18",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-18",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-14",
+      "opponent": "P'borough United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-14",
+      "opponent": "P'borough United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-11",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-09-11",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-28",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-28",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-21",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-21",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-17",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-17",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-14",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-14",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-07",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-08-07",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-05-08",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-05-08",
+      "opponent": "Huddersfield",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-05-01",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-05-01",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-25",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-25",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-21",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-21",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-16",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-16",
+      "opponent": "Cardiff City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-09",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-09",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-05",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-05",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-02",
+      "opponent": "Barnsley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-04-02",
+      "opponent": "Barnsley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-20",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-20",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-17",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-17",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-13",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-13",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-06",
+      "opponent": "Sheffield Weds",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-06",
+      "opponent": "Sheffield Weds",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-02",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-03-02",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-27",
+      "opponent": "Rotherham United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-27",
+      "opponent": "Rotherham United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-23",
+      "opponent": "Wycombe",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-23",
+      "opponent": "Wycombe",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-20",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-20",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-16",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-16",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-13",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-13",
+      "opponent": "Millwall",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-10",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-10",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-06",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-02-06",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-29",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-29",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-24",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-24",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-19",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-19",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-02",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2021-01-02",
+      "opponent": "Huddersfield",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-30",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-30",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-26",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-26",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-19",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-19",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-16",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-16",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-12",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-12",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-09",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-09",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-05",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-05",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-02",
+      "opponent": "Sheffield Weds",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-12-02",
+      "opponent": "Sheffield Weds",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-28",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-28",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-25",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-25",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-21",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-21",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-07",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-07",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-04",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-11-04",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-30",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-30",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-27",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-27",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-24",
+      "opponent": "Rotherham United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-24",
+      "opponent": "Rotherham United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-20",
+      "opponent": "Wycombe",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-20",
+      "opponent": "Wycombe",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-17",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-17",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-03",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-10-03",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-26",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-26",
+      "opponent": "Cardiff City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-19",
+      "opponent": "Barnsley",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-19",
+      "opponent": "Barnsley",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-12",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2020-09-12",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    }
+  ],
+  "stats": {
+    "played": 276,
+    "wins": 90,
+    "draws": 64,
+    "losses": 122,
+    "goalsFor": 324,
+    "goalsAgainst": 418
+  }
+}

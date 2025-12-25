@@ -7,7 +7,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-12-13",
@@ -15,7 +16,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-12-06",
@@ -23,7 +25,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2025-12-03",
@@ -31,7 +34,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-11-30",
@@ -39,7 +43,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-11-23",
@@ -47,7 +52,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-11-08",
@@ -55,7 +61,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-11-01",
@@ -63,7 +70,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-10-26",
@@ -71,7 +79,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-10-18",
@@ -79,7 +88,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-10-04",
@@ -87,7 +97,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-09-28",
@@ -95,7 +106,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-09-21",
@@ -103,7 +115,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-09-13",
@@ -111,7 +124,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-08-31",
@@ -119,7 +133,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2025-08-23",
@@ -127,7 +142,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-08-17",
@@ -135,7 +151,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-05-25",
@@ -143,7 +160,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-05-18",
@@ -151,7 +169,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-05-11",
@@ -159,7 +178,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-05-03",
@@ -167,7 +187,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2025-04-23",
@@ -175,7 +196,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-04-20",
@@ -183,7 +205,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-04-12",
@@ -191,7 +214,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-04-05",
@@ -199,7 +223,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-04-01",
@@ -207,7 +232,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-03-16",
@@ -215,7 +241,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-03-09",
@@ -223,7 +250,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-02-26",
@@ -231,7 +259,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-02-22",
@@ -239,7 +268,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2025-02-15",
@@ -247,7 +277,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-02-02",
@@ -255,7 +286,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-01-25",
@@ -263,7 +295,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-01-18",
@@ -271,7 +304,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-01-15",
@@ -279,7 +313,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2025-01-04",
@@ -287,7 +322,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2025-01-01",
@@ -295,7 +331,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-12-27",
@@ -303,7 +340,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-12-21",
@@ -311,7 +349,8 @@
       "isHome": false,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-12-14",
@@ -319,7 +358,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-12-08",
@@ -327,7 +367,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-12-04",
@@ -335,7 +376,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-11-30",
@@ -343,7 +385,8 @@
       "isHome": false,
       "goalsFor": 5,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-11-23",
@@ -351,7 +394,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-11-10",
@@ -359,7 +403,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-11-02",
@@ -367,7 +412,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2024-10-27",
@@ -375,7 +421,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-10-19",
@@ -383,7 +430,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2024-10-05",
@@ -391,7 +439,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-09-28",
@@ -399,7 +448,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-09-22",
@@ -407,7 +457,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-09-15",
@@ -415,7 +466,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-08-31",
@@ -423,7 +475,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-08-24",
@@ -431,7 +484,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-08-17",
@@ -439,7 +493,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-05-19",
@@ -447,7 +502,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-05-12",
@@ -455,7 +511,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-05-04",
@@ -463,7 +520,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-28",
@@ -471,7 +529,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-23",
@@ -479,7 +538,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-20",
@@ -487,7 +547,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-14",
@@ -495,7 +556,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-06",
@@ -503,7 +565,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-04-03",
@@ -511,7 +574,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-03-31",
@@ -519,7 +583,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2024-03-09",
@@ -527,7 +592,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-03-04",
@@ -535,7 +601,8 @@
       "isHome": false,
       "goalsFor": 6,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-02-24",
@@ -543,7 +610,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-02-17",
@@ -551,7 +619,8 @@
       "isHome": false,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-02-11",
@@ -559,7 +628,8 @@
       "isHome": false,
       "goalsFor": 6,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-02-04",
@@ -567,7 +637,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-01-30",
@@ -575,7 +646,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2024-01-20",
@@ -583,7 +655,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-31",
@@ -591,7 +664,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-28",
@@ -599,7 +673,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-23",
@@ -607,7 +682,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-17",
@@ -615,7 +691,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-09",
@@ -623,7 +700,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-05",
@@ -631,7 +709,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 3,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-12-02",
@@ -639,7 +718,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-11-25",
@@ -647,7 +727,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-11-11",
@@ -655,7 +736,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-11-04",
@@ -663,7 +745,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-10-28",
@@ -671,7 +754,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-10-21",
@@ -679,7 +763,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-10-08",
@@ -687,7 +772,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-09-30",
@@ -695,7 +781,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-09-24",
@@ -703,7 +790,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-09-17",
@@ -711,7 +799,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-09-03",
@@ -719,7 +808,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-08-26",
@@ -727,7 +817,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-08-21",
@@ -735,7 +826,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-08-12",
@@ -743,7 +835,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-05-28",
@@ -751,7 +844,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-05-20",
@@ -759,7 +853,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-05-14",
@@ -767,7 +862,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-05-07",
@@ -775,7 +871,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-05-02",
@@ -783,7 +880,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-04-26",
@@ -791,7 +889,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 4,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-04-21",
@@ -799,7 +898,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 3,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-04-16",
@@ -807,7 +907,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-04-09",
@@ -815,7 +916,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-04-01",
@@ -823,7 +925,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-03-19",
@@ -831,7 +934,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-03-12",
@@ -839,7 +943,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-03-04",
@@ -847,7 +952,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-03-01",
@@ -855,7 +961,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-02-25",
@@ -863,7 +970,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-02-18",
@@ -871,7 +979,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-02-15",
@@ -879,7 +988,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-02-11",
@@ -887,7 +997,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2023-02-04",
@@ -895,7 +1006,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2023-01-22",
@@ -903,7 +1015,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-01-15",
@@ -911,7 +1024,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2023-01-03",
@@ -919,7 +1033,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2022-12-31",
@@ -927,7 +1042,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-12-26",
@@ -935,7 +1051,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-11-12",
@@ -943,7 +1060,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-11-06",
@@ -951,7 +1069,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-10-30",
@@ -959,7 +1078,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-10-23",
@@ -967,7 +1087,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2022-10-16",
@@ -975,7 +1096,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-10-09",
@@ -983,7 +1105,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-10-01",
@@ -991,7 +1114,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-09-18",
@@ -999,7 +1123,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-09-04",
@@ -1007,7 +1132,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-08-31",
@@ -1015,7 +1141,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-08-27",
@@ -1023,7 +1150,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-08-20",
@@ -1031,7 +1159,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-08-13",
@@ -1039,7 +1168,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-08-05",
@@ -1047,7 +1177,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-05-22",
@@ -1055,7 +1186,8 @@
       "isHome": true,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-05-16",
@@ -1063,7 +1195,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-05-12",
@@ -1071,7 +1204,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-05-08",
@@ -1079,7 +1213,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-05-01",
@@ -1087,7 +1222,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-04-23",
@@ -1095,7 +1231,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-04-20",
@@ -1103,7 +1240,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-04-16",
@@ -1111,7 +1249,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-04-09",
@@ -1119,7 +1258,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-04-04",
@@ -1127,7 +1267,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-03-19",
@@ -1135,7 +1276,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-03-16",
@@ -1143,7 +1285,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2022-03-13",
@@ -1151,7 +1294,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-03-06",
@@ -1159,7 +1303,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-02-24",
@@ -1167,7 +1312,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-02-19",
@@ -1175,7 +1321,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-02-10",
@@ -1183,7 +1330,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2022-01-23",
@@ -1191,7 +1339,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2022-01-01",
@@ -1199,7 +1348,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-26",
@@ -1207,7 +1357,8 @@
       "isHome": false,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-18",
@@ -1215,7 +1366,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-15",
@@ -1223,7 +1375,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-11",
@@ -1231,7 +1384,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-06",
@@ -1239,7 +1393,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-12-02",
@@ -1247,7 +1402,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-11-27",
@@ -1255,7 +1411,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-11-20",
@@ -1263,7 +1420,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 4,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-11-07",
@@ -1271,7 +1429,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-10-30",
@@ -1279,7 +1438,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-10-22",
@@ -1287,7 +1447,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-10-18",
@@ -1295,7 +1456,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-10-02",
@@ -1303,7 +1465,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-09-26",
@@ -1311,7 +1474,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-09-18",
@@ -1319,7 +1483,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-09-11",
@@ -1327,7 +1492,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-08-28",
@@ -1335,7 +1501,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 5,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-08-22",
@@ -1343,7 +1510,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-08-13",
@@ -1351,7 +1519,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-05-23",
@@ -1359,7 +1528,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-05-19",
@@ -1367,7 +1537,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-05-12",
@@ -1375,7 +1546,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-05-09",
@@ -1383,7 +1555,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-05-02",
@@ -1391,7 +1564,8 @@
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-04-23",
@@ -1399,7 +1573,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-04-18",
@@ -1407,7 +1582,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-04-11",
@@ -1415,7 +1591,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-04-03",
@@ -1423,7 +1600,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-03-21",
@@ -1431,7 +1609,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 3,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-03-14",
@@ -1439,7 +1618,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-03-06",
@@ -1447,7 +1627,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-02-28",
@@ -1455,7 +1636,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-02-21",
@@ -1463,7 +1645,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-02-14",
@@ -1471,7 +1654,8 @@
       "isHome": true,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-02-06",
@@ -1479,7 +1663,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-02-02",
@@ -1487,7 +1672,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2021-01-30",
@@ -1495,7 +1681,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-01-26",
@@ -1503,7 +1690,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-01-18",
@@ -1511,7 +1699,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2021-01-14",
@@ -1519,7 +1708,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2021-01-02",
@@ -1527,7 +1717,8 @@
       "isHome": false,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-29",
@@ -1535,7 +1726,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-26",
@@ -1543,7 +1735,8 @@
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-19",
@@ -1551,7 +1744,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-16",
@@ -1559,7 +1753,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-13",
@@ -1567,7 +1762,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-12-06",
@@ -1575,7 +1771,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-11-29",
@@ -1583,7 +1780,8 @@
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-11-22",
@@ -1591,7 +1789,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "result": "D"
+      "result": "D",
+      "league": "Premier League"
     },
     {
       "date": "2020-11-08",
@@ -1599,7 +1798,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-11-01",
@@ -1607,7 +1807,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-10-25",
@@ -1615,7 +1816,8 @@
       "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-10-17",
@@ -1623,7 +1825,8 @@
       "isHome": false,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-10-04",
@@ -1631,7 +1834,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-09-28",
@@ -1639,7 +1843,8 @@
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "result": "L"
+      "result": "L",
+      "league": "Premier League"
     },
     {
       "date": "2020-09-19",
@@ -1647,7 +1852,8 @@
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     },
     {
       "date": "2020-09-12",
@@ -1655,7 +1861,8 @@
       "isHome": false,
       "goalsFor": 3,
       "goalsAgainst": 0,
-      "result": "W"
+      "result": "W",
+      "league": "Premier League"
     }
   ],
   "stats": {
