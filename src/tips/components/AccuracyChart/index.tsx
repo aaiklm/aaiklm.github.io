@@ -7,8 +7,8 @@ const WINNING_THRESHOLD = 10;
 type AccuracyChartProps = {
   data: AccuracyResult[];
   title: string;
-  /** Remove the date with the largest winnings to avoid data skew */
-  excludeTopWinner?: boolean;
+  /** Number of top-winning dates to exclude to avoid data skew (default: 1) */
+  excludeTopWinners?: number;
 };
 
 /** Logarithmic scale parameters */
@@ -55,13 +55,13 @@ const DATE_COLORS = [
 export function AccuracyChart({
   data,
   title,
-  excludeTopWinner = true,
+  excludeTopWinners = 1,
 }: AccuracyChartProps) {
   if (data.length === 0) return null;
 
-  // Optionally find and remove the date with the largest total winnings to avoid data skew
+  // Optionally find and remove the top N dates by total winnings to avoid data skew
   let chartData = data;
-  if (excludeTopWinner && data.length > 1) {
+  if (excludeTopWinners > 0 && data.length > excludeTopWinners) {
     const dateWinnings = data.map((result) => {
       const totalWinnings = result.accuracy.reduce(
         (sum, count, correctCount) => {
@@ -73,12 +73,15 @@ export function AccuracyChart({
       return { date: result.date, winnings: totalWinnings };
     });
 
-    const maxWinningsDate = dateWinnings.reduce(
-      (max, curr) => (curr.winnings > max.winnings ? curr : max),
-      dateWinnings[0]
+    // Sort by winnings descending and get the top N dates to exclude
+    const sortedByWinnings = [...dateWinnings].sort(
+      (a, b) => b.winnings - a.winnings
+    );
+    const datesToExclude = new Set(
+      sortedByWinnings.slice(0, excludeTopWinners).map((d) => d.date)
     );
 
-    chartData = data.filter((result) => result.date !== maxWinningsDate.date);
+    chartData = data.filter((result) => !datesToExclude.has(result.date));
   }
 
   const matchCount = chartData[0].accuracy.length - 1; // e.g., 13 for 13 matches

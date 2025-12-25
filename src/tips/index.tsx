@@ -256,7 +256,7 @@ export function Tips() {
         <AccuracyChart
           data={activeChart.accuracy}
           title={activeChart.title}
-          // excludeTopWinner={false}
+          excludeTopWinners={3}
         />
       </div>
     </div>

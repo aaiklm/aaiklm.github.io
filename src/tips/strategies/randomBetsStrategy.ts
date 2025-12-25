@@ -20,7 +20,13 @@ function generateRandomBet(
     .join("");
 }
 
-export type RandomBetsStrategyOptions = BetsStrategyOptions;
+export type RandomBetsStrategyOptions = BetsStrategyOptions & {
+  /**
+   * Optional initial bets to start with.
+   * Map of date -> array of bet strings.
+   */
+  initialBets?: Map<string, string[]>;
+};
 
 /**
  * Counts the number of underdog picks in a bet.
@@ -52,13 +58,14 @@ function countUnderdogPicks(
  * Uses deterministic seeding for reproducible results.
  * Ensures all generated bets are unique (no duplicates).
  *
- * @param options - Configuration with data array, count, and optional seed
+ * @param options - Configuration with data array, count, optional seed, and optional initial bets
  * @returns Array of results, each containing the date and generated bets
  */
 export function randomBetsStrategy({
   data,
   count,
   seed,
+  initialBets,
 }: RandomBetsStrategyOptions): BetsResult[] {
   return data.map((dataFile) => {
     // Generate seed from date, optionally combined with provided seed
@@ -69,7 +76,9 @@ export function randomBetsStrategy({
 
     let currentSeed = effectiveSeed;
     let random = createSeededRandom(currentSeed);
-    const betsSet = new Set<string>();
+    // Initialize with existing bets if provided
+    const existingBets = initialBets?.get(dataFile.date) ?? [];
+    const betsSet = new Set<string>(existingBets);
 
     const maxIterationsPerSeed = 1000;
     const maxSeedAttempts = 100;
@@ -124,6 +133,7 @@ export type LimitedUnderdogBetsStrategyOptions = BetsStrategyOptions & {
 /**
  * Generates random bets with a limit on underdog picks.
  * Rejects bets that have too many low-probability (underdog) selections.
+ * Falls back to random bets if not enough valid bets are found.
  *
  * @param options - Configuration with data, count, seed, and underdog limits
  * @returns Array of results, each containing the date and generated bets
@@ -135,8 +145,10 @@ export function limitedUnderdogBetsStrategy({
   maxUnderdogPicks = 3,
   underdogProbabilityThreshold = 0.25,
 }: LimitedUnderdogBetsStrategyOptions): BetsResult[] {
-  return data.map((dataFile) => {
-    // Generate seed from date, optionally combined with provided seed
+  const initialBets = new Map<string, string[]>();
+
+  // First pass: try to find bets within underdog limit
+  for (const dataFile of data) {
     const dateHash = dataFile.date
       .split("")
       .reduce((acc, char) => acc + char.charCodeAt(0), 0);
@@ -152,7 +164,6 @@ export function limitedUnderdogBetsStrategy({
     let seedAttempts = 0;
     let totalAttempts = 0;
 
-    // Keep generating until we have enough unique bets within underdog limit
     while (betsSet.size < count) {
       const previousSize = betsSet.size;
       const bet = generateRandomBet(dataFile, random);
@@ -164,7 +175,6 @@ export function limitedUnderdogBetsStrategy({
 
       totalAttempts++;
 
-      // Only add bet if underdog count is within limit
       if (underdogCount <= maxUnderdogPicks) {
         betsSet.add(bet);
       }
@@ -176,9 +186,9 @@ export function limitedUnderdogBetsStrategy({
           seedAttempts++;
           if (seedAttempts >= maxSeedAttempts) {
             console.warn(
-              `[limitedUnderdogBetsStrategy] Hit break for ${dataFile.date}: ` +
+              `[limitedUnderdogBetsStrategy] Hit limit for ${dataFile.date}: ` +
                 `only found ${betsSet.size}/${count} bets with <= ${maxUnderdogPicks} underdogs (probability <= ${underdogProbabilityThreshold}) ` +
-                `after ${totalAttempts} attempts`
+                `after ${totalAttempts} attempts. Falling back to random bets.`
             );
             break;
           }
@@ -191,9 +201,14 @@ export function limitedUnderdogBetsStrategy({
       }
     }
 
-    return {
-      date: dataFile.date,
-      bets: Array.from(betsSet),
-    };
+    initialBets.set(dataFile.date, Array.from(betsSet));
+  }
+
+  // Use randomBetsStrategy to fill any remaining slots
+  return randomBetsStrategy({
+    data,
+    count,
+    seed,
+    initialBets,
   });
 }
