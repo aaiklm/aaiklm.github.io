@@ -24,6 +24,22 @@
   background-clip: text;
 }
 
+.profitPositive {
+  background: linear-gradient(90deg, #2ea043 0%, #56d364 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
+.profitNegative {
+  background: linear-gradient(90deg, #f85149 0%, #ff7b72 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
 .subtitle {
   margin: 0 0 24px 0;
   font-size: 0.9rem;
@@ -84,5 +100,14 @@
   fill: #c9d1d9;
   text-anchor: middle;
   font-family: "Archivo Narrow", system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.moneyLabel {
+  font-size: 10px;
+  fill: #2ea043;
+  text-anchor: middle;
+  font-family: "Archivo Narrow", system-ui, sans-serif;
+  font-weight: 600;
   font-variant-numeric: tabular-nums;
 }

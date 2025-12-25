@@ -5,6 +5,8 @@ export type AccuracyResult = {
   date: string;
   /** Array where index i contains the count of bets with exactly i correct predictions */
   accuracy: number[];
+  /** Money earned per correct count (e.g., { "10": 187 } means 10 correct pays 187) */
+  penge: Record<string, number>;
 };
 
 /**
@@ -44,6 +46,7 @@ export function calculateBetsAccuracy(
     return {
       date: dataFile.date,
       accuracy: accuracyCounts,
+      penge: dataFile.penge ?? {},
     };
   });
 }

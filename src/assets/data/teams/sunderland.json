@@ -1,0 +1,149 @@
+{
+  "teamName": "Sunderland",
+  "matches": [
+    {
+      "date": "2025-12-20",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2025-12-14",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-12-06",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2025-12-03",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-11-29",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2025-11-22",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-11-08",
+      "opponent": "Arsenal",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2025-11-03",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-10-25",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-10-18",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-10-04",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-09-27",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-09-21",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-09-13",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2025-08-30",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-08-23",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-08-16",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    }
+  ],
+  "stats": {
+    "played": 17,
+    "wins": 7,
+    "draws": 6,
+    "losses": 4,
+    "goalsFor": 19,
+    "goalsAgainst": 17
+  }
+}

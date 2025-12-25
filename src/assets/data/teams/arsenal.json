@@ -1,0 +1,1669 @@
+{
+  "teamName": "Arsenal",
+  "matches": [
+    {
+      "date": "2025-12-20",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-12-13",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-12-06",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-12-03",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-11-30",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-11-23",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-11-08",
+      "opponent": "Sunderland",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2025-11-01",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-10-26",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-10-18",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-10-04",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-09-28",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-09-21",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-09-13",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-08-31",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-08-23",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-08-17",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-25",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-18",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-05-11",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2025-05-03",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-23",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2025-04-20",
+      "opponent": "Ipswich Town",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-12",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-04-05",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-04-01",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-16",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-09",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-02-26",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2025-02-22",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-15",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-02",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-25",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-18",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2025-01-15",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-04",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2025-01-01",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-27",
+      "opponent": "Ipswich Town",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-21",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-14",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2024-12-08",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2024-12-04",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-30",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 5,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-23",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-10",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2024-11-02",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2024-10-27",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2024-10-19",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-10-05",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-28",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2024-09-22",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2024-09-15",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-08-31",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2024-08-24",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-08-17",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-05-19",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-05-12",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-05-04",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-04-28",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2024-04-23",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-04-20",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-04-14",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2024-04-06",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-04-03",
+      "opponent": "Luton Town",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-03-31",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2024-03-09",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-03-04",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 6,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-02-24",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-02-17",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-02-11",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 6,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2024-02-04",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-01-30",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2024-01-20",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-12-31",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2023-12-28",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2023-12-23",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2023-12-17",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-12-09",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2023-12-05",
+      "opponent": "Luton Town",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 3,
+      "result": "W"
+    },
+    {
+      "date": "2023-12-02",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-11-25",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-11-11",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-11-04",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2023-10-28",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-10-21",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2023-10-08",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-09-30",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-09-24",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2023-09-17",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-09-03",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-08-26",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2023-08-21",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-08-12",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-05-28",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-05-20",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2023-05-14",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2023-05-07",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-05-02",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-04-26",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    {
+      "date": "2023-04-21",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D"
+    },
+    {
+      "date": "2023-04-16",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2023-04-09",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2023-04-01",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-03-19",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2023-03-12",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-03-04",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2023-03-01",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-02-25",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-02-18",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2023-02-15",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2023-02-11",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2023-02-04",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2023-01-22",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2023-01-15",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2023-01-03",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2022-12-31",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2022-12-26",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-11-12",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-11-06",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-10-30",
+      "opponent": "Nottingham Forest",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-10-23",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2022-10-16",
+      "opponent": "Leeds United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-10-09",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2022-10-01",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-09-18",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-09-04",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2022-08-31",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-08-27",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-08-20",
+      "opponent": "Bournemouth",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-08-13",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2022-08-05",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-05-22",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-05-16",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2022-05-12",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2022-05-08",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-05-01",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-04-23",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-04-20",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2022-04-16",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2022-04-09",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2022-04-04",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2022-03-19",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-03-16",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2022-03-13",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-03-06",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2022-02-24",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-02-19",
+      "opponent": "Brentford",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2022-02-10",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2022-01-23",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2022-01-01",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-12-26",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-12-18",
+      "opponent": "Leeds United",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-12-15",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-12-11",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-12-06",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-12-02",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-11-27",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-11-20",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    {
+      "date": "2021-11-07",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-10-30",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-10-22",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-10-18",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2021-10-02",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2021-09-26",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-09-18",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-09-11",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-08-28",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L"
+    },
+    {
+      "date": "2021-08-22",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-08-13",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-05-23",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-05-19",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-05-12",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-05-09",
+      "opponent": "West Brom",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-05-02",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-04-23",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2021-04-18",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2021-04-11",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-04-03",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-03-21",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D"
+    },
+    {
+      "date": "2021-03-14",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-03-06",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2021-02-28",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-02-21",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2021-02-14",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2021-02-06",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2021-02-02",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-01-30",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2021-01-26",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2021-01-18",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-01-14",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2021-01-02",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2020-12-29",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2020-12-26",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2020-12-19",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-16",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2020-12-13",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-06",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-29",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-22",
+      "opponent": "Leeds United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2020-11-08",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-01",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2020-10-25",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2020-10-17",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2020-10-04",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2020-09-28",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2020-09-19",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    {
+      "date": "2020-09-12",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    }
+  ],
+  "stats": {
+    "played": 207,
+    "wins": 126,
+    "draws": 38,
+    "losses": 43,
+    "goalsFor": 395,
+    "goalsAgainst": 203
+  }
+}

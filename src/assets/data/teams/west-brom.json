@@ -1,0 +1,317 @@
+{
+  "teamName": "West Brom",
+  "matches": [
+    {
+      "date": "2021-05-23",
+      "opponent": "Leeds United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-05-19",
+      "opponent": "West Ham",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-05-16",
+      "opponent": "Liverpool",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-05-09",
+      "opponent": "Arsenal",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-05-03",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2021-04-25",
+      "opponent": "Aston Villa",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2021-04-22",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2021-04-12",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-04-03",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 5,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2021-03-13",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2021-03-07",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2021-03-04",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2021-02-27",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2021-02-20",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2021-02-14",
+      "opponent": "Manchester United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2021-02-07",
+      "opponent": "Tottenham",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-02-02",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-01-30",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    {
+      "date": "2021-01-26",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L"
+    },
+    {
+      "date": "2021-01-19",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2021-01-16",
+      "opponent": "Wolves",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    {
+      "date": "2021-01-02",
+      "opponent": "Arsenal",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-29",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-27",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2020-12-20",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-15",
+      "opponent": "Manchester City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2020-12-12",
+      "opponent": "Newcastle United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-12-06",
+      "opponent": "Crystal Palace",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 5,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-28",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    {
+      "date": "2020-11-21",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-08",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    {
+      "date": "2020-11-02",
+      "opponent": "Fulham",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-10-26",
+      "opponent": "Brighton",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    {
+      "date": "2020-10-19",
+      "opponent": "Burnley",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    {
+      "date": "2020-10-04",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    {
+      "date": "2020-09-26",
+      "opponent": "Chelsea",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D"
+    },
+    {
+      "date": "2020-09-19",
+      "opponent": "Everton",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 5,
+      "result": "L"
+    },
+    {
+      "date": "2020-09-13",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    }
+  ],
+  "stats": {
+    "played": 38,
+    "wins": 5,
+    "draws": 11,
+    "losses": 22,
+    "goalsFor": 35,
+    "goalsAgainst": 76
+  }
+}

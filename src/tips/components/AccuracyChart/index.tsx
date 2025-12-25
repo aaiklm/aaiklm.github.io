@@ -58,28 +58,52 @@ export function AccuracyChart({ data, title }: AccuracyChartProps) {
   // Calculate stacked data for each "correct count" bucket (0 to matchCount)
   const stackedData: {
     correctCount: number;
-    segments: { date: string; count: number; color: string }[];
+    segments: { date: string; count: number; color: string; money: number }[];
     total: number;
+    money: number;
   }[] = [];
 
+  let totalBets = 0;
+  let totalWinnings = 0;
+
   for (let correctCount = 0; correctCount <= matchCount; correctCount++) {
-    const segments: { date: string; count: number; color: string }[] = [];
+    const segments: {
+      date: string;
+      count: number;
+      color: string;
+      money: number;
+    }[] = [];
     let total = 0;
+    let money = 0;
 
     data.forEach((result, dateIndex) => {
       const count = result.accuracy[correctCount];
       if (count > 0) {
+        // Calculate money earned: count * penge value for this correctCount
+        const pengeValue = result.penge[String(correctCount)] ?? 0;
+        const segmentMoney = count * pengeValue;
         segments.push({
           date: result.date,
           count,
           color: DATE_COLORS[dateIndex % DATE_COLORS.length],
+          money: segmentMoney,
         });
         total += count;
+        money += segmentMoney;
       }
     });
 
-    stackedData.push({ correctCount, segments, total });
+    totalBets += total;
+    totalWinnings += money;
+    stackedData.push({ correctCount, segments, total, money });
   }
+
+  // Calculate profit/loss: winnings minus cost (each bet costs 1 kr)
+  const profitLoss = totalWinnings - totalBets;
+  const profitLossLabel =
+    profitLoss >= 0
+      ? `+${profitLoss.toLocaleString()} kr`
+      : `${profitLoss.toLocaleString()} kr`;
 
   // Chart dimensions (viewBox coordinates, SVG scales to fill container)
   const chartWidth = 1000;
@@ -95,7 +119,16 @@ export function AccuracyChart({ data, title }: AccuracyChartProps) {
 
   return (
     <div className={styles.container}>
-      <h3 className={styles.title}>{title}</h3>
+      <h3 className={styles.title}>
+        {title}{" "}
+        <span
+          className={
+            profitLoss >= 0 ? styles.profitPositive : styles.profitNegative
+          }
+        >
+          ({profitLossLabel})
+        </span>
+      </h3>
       <p className={styles.subtitle}>
         Correct predictions per bet — winning zone: {WINNING_THRESHOLD}+ correct
       </p>
@@ -137,7 +170,7 @@ export function AccuracyChart({ data, title }: AccuracyChartProps) {
         })}
 
         {/* Stacked bars with logarithmic total height */}
-        {stackedData.map(({ correctCount, segments, total }) => {
+        {stackedData.map(({ correctCount, segments, total, money }) => {
           const x = paddingLeft + correctCount * (barWidth + barGap);
           const totalLogHeight = toLogScale(total) * barAreaHeight;
           const barTopY = paddingTop + barAreaHeight - totalLogHeight;
@@ -165,20 +198,31 @@ export function AccuracyChart({ data, title }: AccuracyChartProps) {
                   >
                     <title>
                       {segment.date}: {segment.count} bets with {correctCount}{" "}
-                      correct
+                      correct — Won {segment.money.toLocaleString()} kr
                     </title>
                   </rect>
                 );
               })}
-              {/* Total count label on top of bar */}
+              {/* Total count and money label on top of bar */}
               {total > 0 && (
-                <text
-                  x={x + barWidth / 2}
-                  y={barTopY - 5}
-                  className={styles.barLabel}
-                >
-                  {total}
-                </text>
+                <>
+                  <text
+                    x={x + barWidth / 2}
+                    y={barTopY - (money > 0 ? 18 : 5)}
+                    className={styles.barLabel}
+                  >
+                    {total}
+                  </text>
+                  {money > 0 && (
+                    <text
+                      x={x + barWidth / 2}
+                      y={barTopY - 5}
+                      className={styles.moneyLabel}
+                    >
+                      ${money.toLocaleString()}
+                    </text>
+                  )}
+                </>
               )}
               {/* X-axis label */}
               <text
