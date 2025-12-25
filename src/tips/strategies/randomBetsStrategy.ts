@@ -24,24 +24,26 @@ export type RandomBetsStrategyOptions = BetsStrategyOptions;
 
 /**
  * Counts the number of underdog picks in a bet.
- * An underdog pick is when the selected outcome has odds >= threshold.
+ * An underdog pick is when the selected outcome has probability <= threshold.
  *
  * @param bet - The bet string (e.g., "0102201001211")
  * @param dataFile - The data file containing odds
- * @param oddsThreshold - Minimum odds to be considered an underdog
+ * @param probabilityThreshold - Maximum probability to be considered an underdog (e.g., 0.25 = 25%)
  * @returns The count of underdog picks
  */
 function countUnderdogPicks(
   bet: string,
   dataFile: DataFileWithResult,
-  oddsThreshold: number
+  probabilityThreshold: number
 ): number {
   return bet.split("").reduce((count, outcome, matchIndex) => {
     const outcomeIndex = parseInt(outcome, 10);
     // odds array is flat: [home0, draw0, away0, home1, draw1, away1, ...]
     const oddsIndex = matchIndex * 3 + outcomeIndex;
     const odds = dataFile.odds[oddsIndex];
-    return odds >= oddsThreshold ? count + 1 : count;
+    // Convert odds to implied probability: probability = 1 / odds
+    const probability = 1 / odds;
+    return probability <= probabilityThreshold ? count + 1 : count;
   }, 0);
 }
 
@@ -111,16 +113,17 @@ export type LimitedUnderdogBetsStrategyOptions = BetsStrategyOptions & {
    */
   maxUnderdogPicks?: number;
   /**
-   * Odds threshold to be considered an underdog pick.
-   * An outcome with odds >= this value is an underdog.
-   * Default: 4
+   * Probability threshold to be considered an underdog pick.
+   * An outcome with probability <= this value is an underdog.
+   * Example: 0.25 means 25% implied probability (equivalent to odds >= 4)
+   * Default: 0.25
    */
-  underdogOddsThreshold?: number;
+  underdogProbabilityThreshold?: number;
 };
 
 /**
  * Generates random bets with a limit on underdog picks.
- * Rejects bets that have too many high-odds (underdog) selections.
+ * Rejects bets that have too many low-probability (underdog) selections.
  *
  * @param options - Configuration with data, count, seed, and underdog limits
  * @returns Array of results, each containing the date and generated bets
@@ -130,7 +133,7 @@ export function limitedUnderdogBetsStrategy({
   count,
   seed,
   maxUnderdogPicks = 3,
-  underdogOddsThreshold = 4,
+  underdogProbabilityThreshold = 0.25,
 }: LimitedUnderdogBetsStrategyOptions): BetsResult[] {
   return data.map((dataFile) => {
     // Generate seed from date, optionally combined with provided seed
@@ -156,7 +159,7 @@ export function limitedUnderdogBetsStrategy({
       const underdogCount = countUnderdogPicks(
         bet,
         dataFile,
-        underdogOddsThreshold
+        underdogProbabilityThreshold
       );
 
       totalAttempts++;
@@ -174,7 +177,7 @@ export function limitedUnderdogBetsStrategy({
           if (seedAttempts >= maxSeedAttempts) {
             console.warn(
               `[limitedUnderdogBetsStrategy] Hit break for ${dataFile.date}: ` +
-                `only found ${betsSet.size}/${count} bets with <= ${maxUnderdogPicks} underdogs (odds >= ${underdogOddsThreshold}) ` +
+                `only found ${betsSet.size}/${count} bets with <= ${maxUnderdogPicks} underdogs (probability <= ${underdogProbabilityThreshold}) ` +
                 `after ${totalAttempts} attempts`
             );
             break;

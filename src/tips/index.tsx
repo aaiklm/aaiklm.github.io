@@ -175,8 +175,8 @@ const CHARTS: ChartConfig[] = [
       return limitedUnderdogBetsStrategy({
         data: biasedData,
         count: BETS_COUNT,
-        maxUnderdogPicks: 5, // Max 3 underdog picks per bet
-        underdogOddsThreshold: 2.2, // Odds >= 4 = underdog
+        maxUnderdogPicks: 5, // Max 5 underdog picks per bet
+        underdogProbabilityThreshold: 0.4, // Probability <= x% = underdog
       });
     },
   },
