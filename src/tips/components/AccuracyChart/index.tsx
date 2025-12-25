@@ -136,6 +136,11 @@ export function AccuracyChart({
       ? `+${profitLoss.toLocaleString()} kr`
       : `${profitLoss.toLocaleString()} kr`;
 
+  // Count winning bets (10+ correct)
+  const winningBets = stackedData
+    .filter((d) => d.correctCount >= WINNING_THRESHOLD)
+    .reduce((sum, d) => sum + d.total, 0);
+
   // Chart dimensions (viewBox coordinates, SVG scales to fill container)
   const chartWidth = 1000;
   const chartHeight = 500;
@@ -162,6 +167,7 @@ export function AccuracyChart({
       </h3>
       <p className={styles.subtitle}>
         Correct predictions per bet — winning zone: {WINNING_THRESHOLD}+ correct
+        ({winningBets.toLocaleString()} of {totalBets.toLocaleString()} bets)
       </p>
 
       <svg
