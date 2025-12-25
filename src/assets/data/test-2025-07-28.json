@@ -1,0 +1,25 @@
+{
+  "result": "0020201001002",
+  "penge": { "10": 16, "11": 30, "12": 1000, "13": 50000 },
+  "teams": [
+    { "1": "FC Midtjylland", "2": "Sønderjyske" },
+    { "1": "IF Elfsborg", "2": "IFK Göteborg" },
+    { "1": "Helsingborg", "2": "Varberg" },
+    { "1": "Västerås", "2": "Trelleborg" },
+    { "1": "Gnistan", "2": "HJK Helsinki" },
+    { "1": "FC Dobrudzha Dobrich", "2": "PFC Slavia Sofia" },
+    { "1": "PFC Montana 1921", "2": "Lokomotiv Plovdiv" },
+    { "1": "FC Botosani", "2": "FC Unirea 2004 Slobozia" },
+    { "1": "Universitatea Craiova 1948 Cs", "2": "FC Universitatea Cluj" },
+    { "1": "GKS Katowice", "2": "Kghm Zaglebie Lubin" },
+    { "1": "Deportivo Riestra Afbc", "2": "Atletico Tucuman" },
+    { "1": "CA Central Cordoba SE", "2": "Defensa Y Justicia" },
+    { "1": "CA Banfield", "2": "CA Barracas Central" }
+  ],
+  "odds": [
+    1.56, 4.75, 5.25, 2.15, 3.5, 3.15, 2.3, 3.15, 2.9, 1.65, 3.75, 4.5, 4.25, 3.85, 1.65, 2.7, 2.9,
+    2.48, 3.55, 3.05, 1.96, 2.15, 3.15, 3.15, 2.15, 3.25, 3, 2.25, 3.4, 3.15, 2.35, 2.8, 3.5, 2.25,
+    3, 3.4, 2.3, 2.8, 3.65
+  ],
+  "matches": []
+}

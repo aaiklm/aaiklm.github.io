@@ -1,0 +1,47 @@
+.wrapper {
+  height: 100%;
+  background: linear-gradient(145deg, #0a0c10 0%, #13161c 100%);
+  padding: 40px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-shrink: 0;
+}
+
+.navHint {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 14px;
+  font-family: monospace;
+}
+
+.navIndicator {
+  display: flex;
+  gap: 8px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease;
+}
+
+.dotActive {
+  background: #4ecdc4;
+  box-shadow: 0 0 10px rgba(78, 205, 196, 0.5);
+}
+
+.chartsContainer {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+}

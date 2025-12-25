@@ -16,6 +16,7 @@
   font-family: 'Archivo Narrow', system-ui, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  box-sizing: border-box;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

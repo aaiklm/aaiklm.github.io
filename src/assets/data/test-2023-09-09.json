@@ -1,0 +1,2002 @@
+{
+  "result": "1121121220012",
+  "penge": { "10": 847, "11": 4972, "12": 50000, "13": 50000 },
+  "matches": [
+    {
+      "Ukraine": [
+        {
+          "home": "Ukraine",
+          "away": "Malta",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Ukraine",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyskland",
+          "away": "Ukraine",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "England",
+          "away": "Ukraine",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Ukraine",
+          "away": "Skotland",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Armenien",
+          "away": "Ukraine",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Skotland",
+          "away": "Ukraine",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Ukraine",
+          "away": "Irland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Ukraine",
+          "away": "Armenien",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Irland",
+          "away": "Ukraine",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "England": [
+        {
+          "home": "England",
+          "away": "Nordmakedonien",
+          "homeGoals": 7,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Malta",
+          "away": "England",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "England",
+          "away": "Ukraine",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Italien",
+          "away": "England",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "England",
+          "away": "Frankrig",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "England",
+          "away": "Senegal",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wales",
+          "away": "England",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "England",
+          "away": "USA",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "England",
+          "away": "Iran",
+          "homeGoals": 6,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "England",
+          "away": "Tyskland",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Nordmakedonien": [
+        {
+          "home": "England",
+          "away": "Nordmakedonien",
+          "homeGoals": 7,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Ukraine",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Færøerne",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Malta",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Aserbajdsjan",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Finland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Saudi Arabien",
+          "away": "Nordmakedonien",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Bulgarien",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Georgien",
+          "away": "Nordmakedonien",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Nordmakedonien",
+          "away": "Gibraltar",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Italien": [
+        {
+          "home": "Holland",
+          "away": "Italien",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Spanien",
+          "away": "Italien",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Malta",
+          "away": "Italien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Italien",
+          "away": "England",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Østrig",
+          "away": "Italien",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Albanien",
+          "away": "Italien",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Ungarn",
+          "away": "Italien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Italien",
+          "away": "England",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyskland",
+          "away": "Italien",
+          "homeGoals": 5,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "England",
+          "away": "Italien",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Estland": [
+        {
+          "home": "Estland",
+          "away": "Belgien",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Aserbajdsjan",
+          "away": "Estland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Østrig",
+          "away": "Estland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Ungarn",
+          "away": "Estland",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finland",
+          "away": "Estland",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Island",
+          "away": "Estland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Estland",
+          "away": "Litauen",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Estland",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "San Marino",
+          "away": "Estland",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Estland",
+          "away": "Malta",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Sverige": [
+        {
+          "home": "Østrig",
+          "away": "Sverige",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sverige",
+          "away": "New Zealand",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sverige",
+          "away": "Aserbajdsjan",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sverige",
+          "away": "Belgien",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sverige",
+          "away": "Island",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sverige",
+          "away": "Finland",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sverige",
+          "away": "Algeriet",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mexico",
+          "away": "Sverige",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sverige",
+          "away": "Slovenien",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Serbien",
+          "away": "Sverige",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Kosovo": [
+        {
+          "home": "Hviderusland",
+          "away": "Kosovo",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kosovo",
+          "away": "Rumænien",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kosovo",
+          "away": "Andorra",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Israel",
+          "away": "Kosovo",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kosovo",
+          "away": "Færøerne",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kosovo",
+          "away": "Armenien",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kosovo",
+          "away": "Cypern",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordirland",
+          "away": "Kosovo",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Grækenland",
+          "away": "Kosovo",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kosovo",
+          "away": "Nordirland",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ],
+      "Schweiz": [
+        {
+          "home": "Schweiz",
+          "away": "Rumænien",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Andorra",
+          "away": "Schweiz",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Schweiz",
+          "away": "Israel",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hviderusland",
+          "away": "Schweiz",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Schweiz",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Serbien",
+          "away": "Schweiz",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Brasilien",
+          "away": "Schweiz",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Schweiz",
+          "away": "Cameroun",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Schweiz",
+          "away": "Ghana",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Schweiz",
+          "away": "Tjekkiet",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Rumænien": [
+        {
+          "home": "Schweiz",
+          "away": "Rumænien",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kosovo",
+          "away": "Rumænien",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Rumænien",
+          "away": "Hviderusland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Andorra",
+          "away": "Rumænien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Moldova",
+          "away": "Rumænien",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Rumænien",
+          "away": "Slovenien",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rumænien",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finland",
+          "away": "Rumænien",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Rumænien",
+          "away": "Montenegro",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rumænien",
+          "away": "Finland",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Israel": [
+        {
+          "home": "Israel",
+          "away": "Andorra",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hviderusland",
+          "away": "Israel",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Schweiz",
+          "away": "Israel",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Israel",
+          "away": "Kosovo",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Israel",
+          "away": "Cypern",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Israel",
+          "away": "Zambia",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Malta",
+          "away": "Israel",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Israel",
+          "away": "Albanien",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Island",
+          "away": "Israel",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Albanien",
+          "away": "Israel",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Exeter": [
+        {
+          "home": "Burton",
+          "away": "Exeter",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Exeter",
+          "away": "Stevenage",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Exeter",
+          "away": "Reading",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Carlisle",
+          "away": "Exeter",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Portsmouth",
+          "away": "Exeter",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Exeter",
+          "away": "Blackpool",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Exeter",
+          "away": "Crawley",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wycombe",
+          "away": "Exeter",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Exeter",
+          "away": "Coventry",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Exeter",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Leyton Orient": [
+        {
+          "home": "Gillingham",
+          "away": "Leyton Orient",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leyton Orient",
+          "away": "Stevenage",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leyton Orient",
+          "away": "Cambridge U",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Blackpool",
+          "away": "Leyton Orient",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wycombe",
+          "away": "Leyton Orient",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leyton Orient",
+          "away": "Portsmouth",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Plymouth",
+          "away": "Leyton Orient",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Charlton",
+          "away": "Leyton Orient",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bradford",
+          "away": "Leyton Orient",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leyton Orient",
+          "away": "Stockport County",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Stevenage": [
+        {
+          "home": "AFC Wimbledon",
+          "away": "Stevenage",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leyton Orient",
+          "away": "Stevenage",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Exeter",
+          "away": "Stevenage",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stevenage",
+          "away": "Portsmouth",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Reading",
+          "away": "Stevenage",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cambridge U",
+          "away": "Stevenage",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stevenage",
+          "away": "Shrewsbury",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stevenage",
+          "away": "Watford",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Northampton",
+          "away": "Stevenage",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stevenage",
+          "away": "Ipswich",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Carlisle": [
+        {
+          "home": "Accrington",
+          "away": "Carlisle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Carlisle",
+          "away": "Shrewsbury",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Port Vale",
+          "away": "Carlisle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Carlisle",
+          "away": "Exeter",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Carlisle",
+          "away": "Wigan",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Oxford",
+          "away": "Carlisle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Harrogate Town",
+          "away": "Carlisle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Carlisle",
+          "away": "Fleetwood",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Carlisle",
+          "away": "Stockport County",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Carlisle",
+          "away": "Bradford",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Accrington": [
+        {
+          "home": "Accrington",
+          "away": "Carlisle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Accrington",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Salford City",
+          "away": "Accrington",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Accrington",
+          "away": "Harrogate Town",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Accrington",
+          "away": "Barrow",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Gillingham",
+          "away": "Accrington",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Accrington",
+          "away": "Bradford",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Accrington",
+          "away": "Newport",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Accrington",
+          "away": "Blackburn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Accrington",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Mansfield": [
+        {
+          "home": "Mansfield",
+          "away": "Bradford",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Mansfield",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mansfield",
+          "away": "Stockport County",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Grimsby",
+          "away": "Mansfield",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Doncaster",
+          "away": "Mansfield",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mansfield",
+          "away": "Morecambe",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mansfield",
+          "away": "Grimsby",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Crewe",
+          "away": "Mansfield",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hearts",
+          "away": "Mansfield",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mansfield",
+          "away": "Rotherham",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "AFC Wimbledon": [
+        {
+          "home": "AFC Wimbledon",
+          "away": "Stevenage",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newport",
+          "away": "AFC Wimbledon",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Chelsea",
+          "away": "AFC Wimbledon",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Forest Green",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sutton United",
+          "away": "AFC Wimbledon",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Colchester",
+          "away": "AFC Wimbledon",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Wrexham",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Coventry",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Grimsby",
+          "away": "AFC Wimbledon",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Stockport County": [
+        {
+          "home": "Stockport County",
+          "away": "Crawley",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mansfield",
+          "away": "Stockport County",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stockport County",
+          "away": "Manchester United Academy",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stockport County",
+          "away": "Barrow",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stockport County",
+          "away": "Bradford",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Walsall",
+          "away": "Stockport County",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Stockport County",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stockport County",
+          "away": "Gillingham",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stockport County",
+          "away": "Preston",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stockport County",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Colchester": [
+        {
+          "home": "Walsall",
+          "away": "Colchester",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Gillingham",
+          "away": "Colchester",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Colchester",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Colchester",
+          "away": "AFC Wimbledon",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bradford",
+          "away": "Colchester",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cardiff",
+          "away": "Colchester",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Colchester",
+          "away": "Mansfield",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Doncaster",
+          "away": "Colchester",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Colchester",
+          "away": "Sutton United",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Crawley",
+          "away": "Colchester",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Tranmere": [
+        {
+          "home": "Fleetwood",
+          "away": "Tranmere",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tranmere",
+          "away": "Wrexham",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tranmere",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Tranmere",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tranmere",
+          "away": "Salford City",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tranmere",
+          "away": "Harrogate Town",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Tranmere",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Barnsley",
+          "away": "Tranmere",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tranmere",
+          "away": "Barrow",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tranmere",
+          "away": "Northampton",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Crawley": [
+        {
+          "home": "Crawley",
+          "away": "Charlton",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stockport County",
+          "away": "Crawley",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Swindon",
+          "away": "Crawley",
+          "homeGoals": 6,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Crawley",
+          "away": "Gillingham",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Crawley",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Salford City",
+          "away": "Crawley",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Exeter",
+          "away": "Crawley",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Crawley",
+          "away": "Bradford",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Crawley",
+          "away": "Crystal Palace",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swindon",
+          "away": "Crawley",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Newport": [
+        {
+          "home": "Newport",
+          "away": "AFC Wimbledon",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Newport",
+          "away": "Brentford",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Newport",
+          "away": "Sutton United",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Forest Green",
+          "away": "Newport",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Crewe",
+          "away": "Newport",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newport",
+          "away": "Doncaster",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Newport",
+          "away": "Charlton",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Accrington",
+          "away": "Newport",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Newport",
+          "homeGoals": 8,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newport",
+          "away": "Crewe",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Milton Keynes Dons": [
+        {
+          "home": "Crewe",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Chelsea Academy",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Doncaster",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Colchester",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Crawley",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Tranmere",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Wycombe",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wrexham",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 3,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Milton Keynes Dons",
+          "away": "Coventry",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burton",
+          "away": "Milton Keynes Dons",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Notts Co.": [
+        {
+          "home": "Notts Co.",
+          "away": "Accrington",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Tranmere",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Doncaster",
+          "away": "Notts Co.",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Morecambe",
+          "away": "Notts Co.",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Grimsby",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Lincoln City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sutton United",
+          "away": "Notts Co.",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Nottingham F.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Chesterfield",
+          "away": "Notts Co.",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Salford City": [
+        {
+          "home": "Bolton",
+          "away": "Salford City",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Morecambe",
+          "away": "Salford City",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Salford City",
+          "away": "Leeds",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Salford City",
+          "away": "Accrington",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tranmere",
+          "away": "Salford City",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Grimsby",
+          "away": "Salford City",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Salford City",
+          "away": "Crawley",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Preston",
+          "away": "Salford City",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Forest Green",
+          "away": "Salford City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Salford City",
+          "away": "West Bromwich",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ],
+      "Walsall": [
+        {
+          "home": "Walsall",
+          "away": "Colchester",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Walsall",
+          "away": "Grimsby",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Walsall",
+          "away": "Brighton &amp; Hove Albion Academy",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Crewe",
+          "away": "Walsall",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wrexham",
+          "away": "Walsall",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Walsall",
+          "away": "Stockport County",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Blackburn",
+          "away": "Walsall",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Morecambe",
+          "away": "Walsall",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Walsall",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Walsall",
+          "away": "Doncaster",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    }
+  ],
+  "bets": [
+    "0022000020202",
+    "0022000200200",
+    "0201000200220",
+    "0202000002200",
+    "0202000020020",
+    "0202000022020",
+    "0210000220000",
+    "0220000002020",
+    "0220000002200",
+    "0220000002220",
+    "0220000020020",
+    "0220000020022",
+    "0220000020220",
+    "0220000022020",
+    "0220000022200",
+    "0220000200020",
+    "0220000200200",
+    "0220000200220",
+    "0220000220000",
+    "0220000220020",
+    "0220000220200",
+    "0220000222000",
+    "0220002220000",
+    "0220020000200",
+    "0220020200200",
+    "0220020220000",
+    "0220200000022",
+    "0220200002200",
+    "0220200020020",
+    "0220200200200",
+    "2002000200200",
+    "2002000200202",
+    "2002000220200",
+    "2020000000022",
+    "2020000000220",
+    "2020000000222",
+    "2020000020020",
+    "2020000020220",
+    "2020000022020",
+    "2020000200002",
+    "2020000200220",
+    "2020000202000",
+    "2020000202020",
+    "2020000202200",
+    "2020000220000",
+    "2020000220020",
+    "2020000220200",
+    "2020020020020",
+    "2020020200020",
+    "2100000220020",
+    "2200000000022",
+    "2200000000222",
+    "2200000002022",
+    "2200000002202",
+    "2200000020020",
+    "2200000020220",
+    "2200000200020",
+    "2200000200022",
+    "2200000200200",
+    "2200000200220",
+    "2200000202020",
+    "2200000202200",
+    "2200000220000",
+    "2200000220002",
+    "2200000220020",
+    "2200000220200",
+    "2200002200020",
+    "2200002200200",
+    "2200020000020",
+    "2200020200020",
+    "2200200000200",
+    "2200200020200",
+    "2200200022000",
+    "2200200200000",
+    "2200200202000"
+  ],
+  "fav": [1, 2],
+  "teams": [
+    { "1": "Ukraine", "2": "England" },
+    { "1": "Nordmakedonien", "2": "Italien" },
+    { "1": "Estland", "2": "Sverige" },
+    { "1": "Kosovo", "2": "Schweiz" },
+    { "1": "Rumænien", "2": "Israel" },
+    { "1": "Exeter", "2": "Leyton Orient" },
+    { "1": "Stevenage", "2": "Carlisle" },
+    { "1": "Accrington Stanley", "2": "Mansfield" },
+    { "1": "AFC Wimbledon", "2": "Stockport" },
+    { "1": "Colchester", "2": "Tranmere" },
+    { "1": "Crawley", "2": "Newport" },
+    { "1": "MK Dons", "2": "Notts County" },
+    { "1": "Salford", "2": "Walsall" }
+  ],
+  "odds": [
+    8, 4.5, 1.4, 8.5, 4.7, 1.37, 7.8, 4.5, 1.4, 4.8, 3.7, 1.72, 2, 3.5, 3.65,
+    1.72, 3.7, 4.5, 1.72, 3.55, 4.8, 3, 3.45, 2.15, 2.8, 3.25, 2.35, 2.25, 3.25,
+    2.95, 3, 3.3, 2.2, 2.85, 3.65, 2.15, 2.15, 3.35, 3.05
+  ]
+}

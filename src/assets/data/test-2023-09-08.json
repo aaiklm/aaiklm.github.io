@@ -1,0 +1,1710 @@
+{
+  "result": "2021002022212",
+  "penge": { "10": 0, "11": 10, "12": 112, "13": 8333 },
+  "matches": [
+    {
+      "Slovakiet": [
+        {
+          "home": "Liechtenstein",
+          "away": "Slovakiet",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Island",
+          "away": "Slovakiet",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Luxembourg",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Chile",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Montenegro",
+          "away": "Slovakiet",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Hviderusland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Aserbajdsjan",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kasakhstan",
+          "away": "Slovakiet",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Aserbajdsjan",
+          "away": "Slovakiet",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Portugal": [
+        {
+          "home": "Island",
+          "away": "Portugal",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Portugal",
+          "homeGoals": 0,
+          "awayGoals": 6,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Liechtenstein",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Marokko",
+          "away": "Portugal",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Schweiz",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sydkorea",
+          "away": "Portugal",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Uruguay",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Portugal",
+          "away": "Ghana",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Portugal",
+          "away": "Nigeria",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Kroatien": [
+        {
+          "home": "Kroatien",
+          "away": "Spanien",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Holland",
+          "away": "Kroatien",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Kroatien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kroatien",
+          "away": "Wales",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kroatien",
+          "away": "Marokko",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Argentina",
+          "away": "Kroatien",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kroatien",
+          "away": "Brasilien",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Japan",
+          "away": "Kroatien",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kroatien",
+          "away": "Belgien",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kroatien",
+          "away": "Canada",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Letland": [
+        {
+          "home": "Armenien",
+          "away": "Letland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Tyrkiet",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wales",
+          "away": "Letland",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Irland",
+          "away": "Letland",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Island",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Letland",
+          "away": "Estland",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Andorra",
+          "away": "Letland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Moldova",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liechtenstein",
+          "away": "Letland",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Moldova",
+          "away": "Letland",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Cypern": [
+        {
+          "home": "Norge",
+          "away": "Cypern",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cypern",
+          "away": "Georgien",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Armenien",
+          "away": "Cypern",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Skotland",
+          "away": "Cypern",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Israel",
+          "away": "Cypern",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cypern",
+          "away": "Bulgarien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kosovo",
+          "away": "Cypern",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cypern",
+          "away": "Grækenland",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nordirland",
+          "away": "Cypern",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Grækenland",
+          "away": "Cypern",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Skotland": [
+        {
+          "home": "Skotland",
+          "away": "Georgien",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Norge",
+          "away": "Skotland",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Skotland",
+          "away": "Spanien",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Skotland",
+          "away": "Cypern",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Skotland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Ukraine",
+          "away": "Skotland",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Skotland",
+          "away": "Irland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Skotland",
+          "away": "Ukraine",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Armenien",
+          "away": "Skotland",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Irland",
+          "away": "Skotland",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Tyrkiet": [
+        {
+          "home": "Tyrkiet",
+          "away": "Wales",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Tyrkiet",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Kroatien",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Armenien",
+          "away": "Tyrkiet",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Tjekkiet",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Skotland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Færøerne",
+          "away": "Tyrkiet",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Luxembourg",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Litauen",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Tyrkiet",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "Armenien": [
+        {
+          "home": "Armenien",
+          "away": "Letland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wales",
+          "away": "Armenien",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Armenien",
+          "away": "Cypern",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Armenien",
+          "away": "Tyrkiet",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Albanien",
+          "away": "Armenien",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kosovo",
+          "away": "Armenien",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Irland",
+          "away": "Armenien",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Armenien",
+          "away": "Ukraine",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Armenien",
+          "away": "Skotland",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Ukraine",
+          "away": "Armenien",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Luxembourg": [
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Luxembourg",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Liechtenstein",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Malta",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Portugal",
+          "homeGoals": 0,
+          "awayGoals": 6,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Luxembourg",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Bulgarien",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Ungarn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Litauen",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tyrkiet",
+          "away": "Luxembourg",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Færøerne",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ],
+      "Island": [
+        {
+          "home": "Island",
+          "away": "Portugal",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Island",
+          "away": "Slovakiet",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liechtenstein",
+          "away": "Island",
+          "homeGoals": 0,
+          "awayGoals": 7,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Island",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sverige",
+          "away": "Island",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Island",
+          "away": "Estland",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Letland",
+          "away": "Island",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Litauen",
+          "away": "Island",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sydkorea",
+          "away": "Island",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Saudi Arabien",
+          "away": "Island",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Bosnien-Hercegovina": [
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Luxembourg",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portugal",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Slovakiet",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Island",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rumænien",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Montenegro",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Finland",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Montenegro",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bosnien-Hercegovina",
+          "away": "Rumænien",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finland",
+          "away": "Bosnien-Hercegovina",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Liechtenstein": [
+        {
+          "home": "Liechtenstein",
+          "away": "Slovakiet",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Luxembourg",
+          "away": "Liechtenstein",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liechtenstein",
+          "away": "Island",
+          "homeGoals": 0,
+          "awayGoals": 7,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Portugal",
+          "away": "Liechtenstein",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Gibraltar",
+          "away": "Liechtenstein",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Moldova",
+          "away": "Liechtenstein",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liechtenstein",
+          "away": "Andorra",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liechtenstein",
+          "away": "Letland",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Andorra",
+          "away": "Liechtenstein",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Letland",
+          "away": "Liechtenstein",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Levante": [
+        {
+          "home": "Levante",
+          "away": "Real Oviedo",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cartagena",
+          "away": "Levante",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Levante",
+          "away": "Burgos CF",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SD Amorebieta",
+          "away": "Levante",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Levante",
+          "away": "Nottingham F.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Levante",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Levante",
+          "away": "Deportivo Alaves",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Deportivo Alaves",
+          "away": "Levante",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Levante",
+          "away": "Albacete",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Albacete",
+          "away": "Levante",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ],
+      "Espanyol": [
+        {
+          "home": "Espanyol",
+          "away": "SD Amorebieta",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "CD Mirandes",
+          "away": "Espanyol",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Espanyol",
+          "away": "Racing Santander",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Albacete",
+          "away": "Espanyol",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Utrecht",
+          "away": "Espanyol",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Las Palmas",
+          "away": "Espanyol",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Espanyol",
+          "away": "Cadiz",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Espanyol",
+          "away": "Almeria",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Valencia",
+          "away": "Espanyol",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Espanyol",
+          "away": "Atletico Madrid",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Willem II": [
+        {
+          "home": "FC Groningen",
+          "away": "Willem II",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Willem II",
+          "away": "FC Dordrecht",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Eindhoven",
+          "away": "Willem II",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Willem II",
+          "away": "Sparta Rotterdam",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Westerlo",
+          "away": "Willem II",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Willem II",
+          "away": "VVV-Venlo",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "VVV-Venlo",
+          "away": "Willem II",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Roda",
+          "away": "Willem II",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Willem II",
+          "away": "Jong FC Utrecht",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Telstar",
+          "away": "Willem II",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "MVV Maastricht": [
+        {
+          "home": "MVV Maastricht",
+          "away": "Jong Ajax",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Dordrecht",
+          "away": "MVV Maastricht",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "VVV-Venlo",
+          "away": "MVV Maastricht",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "MVV Maastricht",
+          "away": "Breda",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Breda",
+          "away": "MVV Maastricht",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Almere City FC",
+          "away": "MVV Maastricht",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "MVV Maastricht",
+          "away": "Telstar",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "De Graafschap",
+          "away": "MVV Maastricht",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "MVV Maastricht",
+          "away": "Jong AZ Alkmaar",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Jong PSV",
+          "away": "MVV Maastricht",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Bray Wanderers": [
+        {
+          "home": "Kerry FC",
+          "away": "Bray Wanderers",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Waterford FC",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Dundalk",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cobh Ramblers",
+          "away": "Bray Wanderers",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Longford Town",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Athlone Town",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Galway United FC",
+          "away": "Bray Wanderers",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cockhill Celtic",
+          "away": "Bray Wanderers",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Wexford FC",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Bray Wanderers",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Galway United FC": [
+        {
+          "home": "Longford Town",
+          "away": "Galway United FC",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Galway United FC",
+          "away": "Cobh Ramblers",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "UC Dublin FC",
+          "away": "Galway United FC",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Galway United FC",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Galway United FC",
+          "away": "Treaty United",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Galway United FC",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Galway United FC",
+          "away": "Bray Wanderers",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Galway United FC",
+          "away": "Bangor Celtic",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Athlone Town",
+          "away": "Galway United FC",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cobh Ramblers",
+          "away": "Galway United FC",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Finn Harps": [
+        {
+          "home": "Wexford FC",
+          "away": "Finn Harps",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Longford Town",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Skerries Town",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Treaty United",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Athlone Town",
+          "away": "Finn Harps",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Galway United FC",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Finn Harps",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kilbarrack United",
+          "away": "Finn Harps",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Cobh Ramblers",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Bray Wanderers",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Waterford FC": [
+        {
+          "home": "Waterford FC",
+          "away": "Athlone Town",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Treaty United",
+          "away": "Waterford FC",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Waterford FC",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cork City",
+          "away": "Waterford FC",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Galway United FC",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wexford FC",
+          "away": "Waterford FC",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Kerry FC",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Athlone Town",
+          "away": "Waterford FC",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "St Michael's",
+          "away": "Waterford FC",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Longford Town",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ]
+    },
+    {
+      "Kerry FC": [
+        {
+          "home": "Kerry FC",
+          "away": "Bray Wanderers",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Treaty United",
+          "away": "Kerry FC",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Drogheda United",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wexford FC",
+          "away": "Kerry FC",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Cobh Ramblers",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Kerry FC",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Finn Harps",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Ringmahon Rangers",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Longford Town",
+          "away": "Kerry FC",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Kerry FC",
+          "away": "Treaty United",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ],
+      "Longford Town": [
+        {
+          "home": "Longford Town",
+          "away": "Galway United FC",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Finn Harps",
+          "away": "Longford Town",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Longford Town",
+          "away": "Athlone Town",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bray Wanderers",
+          "away": "Longford Town",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Treaty United",
+          "away": "Longford Town",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Longford Town",
+          "away": "Cobh Ramblers",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Longford Town",
+          "away": "St. Patrick's Athletic",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Longford Town",
+          "away": "Kerry FC",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Waterford FC",
+          "away": "Longford Town",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Longford Town",
+          "away": "Wexford FC",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ]
+    }
+  ],
+  "fav": [0, 2],
+  "teams": [
+    { "1": "Slovakiet", "2": "Portugal" },
+    { "1": "Kroatien", "2": "Letland" },
+    { "1": "Cypern", "2": "Skotland" },
+    { "1": "Tyrkiet", "2": "Armenien" },
+    { "1": "Luxembourg", "2": "Island" },
+    { "1": "Bosnien-Hercegovina", "2": "Liechtenstein" },
+    { "1": "Levante", "2": "Espanyol" },
+    { "1": "Willem II", "2": "Maastricht" },
+    { "1": "Cesena", "2": "SPAL" },
+    { "1": "Bray Wanderers", "2": "Galway FC" },
+    { "1": "Finn Harps", "2": "Waterford" },
+    { "1": "Kerry", "2": "Longford" },
+    { "1": "Treaty United", "2": "Wexford" }
+  ],
+  "odds": [
+    7.5, 4.5, 1.42, 1.09, 8.8, 24, 11, 5.3, 1.28, 1.25, 5.6, 12, 2.75, 3.15,
+    2.65, 1.03, 16, 38, 2.4, 3.15, 3, 1.37, 4.7, 6.6, 2.4, 3.15, 3, 6.8, 4.7,
+    1.35, 10.5, 5.4, 1.23, 4.7, 4.1, 1.55, 2.4, 3.45, 2.55
+  ],
+  "bets": [
+    "0000200022220",
+    "0010000002220",
+    "0012000022220",
+    "0020000000222",
+    "0020000002202",
+    "0020000002220",
+    "0020000002222",
+    "0020000020220",
+    "0020000022220",
+    "0020000202202",
+    "0020002002220",
+    "0020200002200",
+    "0020200002220",
+    "0020202000200",
+    "0020202002200",
+    "0021000002220",
+    "0021000002222",
+    "0021000020220",
+    "0021200002220",
+    "0022000002220",
+    "0220000002220",
+    "1000000002220",
+    "1000002002222",
+    "1000202002220",
+    "1010000002222",
+    "1020000002020",
+    "1020000002200",
+    "1020000002202",
+    "1020000002220",
+    "1020000002222",
+    "1020000022220",
+    "1020002002220",
+    "1020020002220",
+    "1020200000220",
+    "1020200002200",
+    "2000000002220",
+    "2000000020202",
+    "2000000022200",
+    "2000000022220",
+    "2000000202200",
+    "2000000222200",
+    "2000002002200",
+    "2000002002220",
+    "2000200002220",
+    "2001200002220",
+    "2010000000220",
+    "2010000002220",
+    "2010000022220",
+    "2010002002200",
+    "2010200002202",
+    "2010200002220",
+    "2020000000220",
+    "2020000000222",
+    "2020000002020",
+    "2020000002022",
+    "2020000002200",
+    "2020000002202",
+    "2020000002220",
+    "2020000020202",
+    "2020000020220",
+    "2020000022002",
+    "2020000022020",
+    "2020000022200",
+    "2020000200220",
+    "2020000202020",
+    "2020000202200",
+    "2020002000220",
+    "2020002002000",
+    "2020002002020",
+    "2020002002200",
+    "2020200000220",
+    "2020200002020",
+    "2020200002200",
+    "2020200202000",
+    "2020202002000"
+  ]
+}

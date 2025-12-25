@@ -1,0 +1,23 @@
+{
+  "teams": [
+    { "1": "Brighton", "2": "Tottenham" },
+    { "1": "Burnley", "2": "Nottingham Forest" },
+    { "1": "West Ham", "2": "Crystal Palace" },
+    { "1": "Wolverhampton", "2": "Leeds" },
+    { "1": "Blackburn", "2": "Ipswich" },
+    { "1": "Derby", "2": "Preston" },
+    { "1": "Hull", "2": "Southampton" },
+    { "1": "Norwich", "2": "Wrexham" },
+    { "1": "Portsmouth", "2": "Sheffield W" },
+    { "1": "Sheffield U", "2": "Charlton" },
+    { "1": "FC Midtjylland", "2": "Viborg" },
+    { "1": "Manchester United", "2": "Chelsea" },
+    { "1": "RB Leipzig", "2": "FC Köln" }
+  ],
+  "odds": [
+    2.31, 3.55, 2.95, 3.35, 3.35, 2.21, 3.15, 3.3, 2.3, 2.75, 3.1, 2.75, 3.85,
+    3.4, 2, 2.35, 3.15, 3.25, 3, 3.65, 2.25, 1.93, 3.65, 3.85, 1.54, 4.25, 6,
+    1.87, 3.5, 4.25, 1.61, 4.5, 4.75, 2.55, 3.6, 2.6, 1.86, 4, 3.8
+  ],
+  "matches": []
+}

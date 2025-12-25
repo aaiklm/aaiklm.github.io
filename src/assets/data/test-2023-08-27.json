@@ -1,0 +1,2077 @@
+{
+  "result": "2220222011210",
+  "penge": { "10": 16, "11": 47, "12": 714, "13": 43000 },
+  "matches_wrong": [
+    {
+      "Sheffield U.": [
+        {
+          "home": "Nottingham F.",
+          "away": "Sheffield U.",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "Crystal Palace",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "VfB Stuttgart",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Derby",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "Girona",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Estoril",
+          "away": "Sheffield U.",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Chesterfield",
+          "away": "Sheffield U.",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Birmingham",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Huddersfield",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Manchester City": [
+        {
+          "home": "Nottingham F.",
+          "away": "Sheffield U.",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "Crystal Palace",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "VfB Stuttgart",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Derby",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield U.",
+          "away": "Girona",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Estoril",
+          "away": "Sheffield U.",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chesterfield",
+          "away": "Sheffield U.",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Birmingham",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Huddersfield",
+          "away": "Sheffield U.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Newcastle": [
+        {
+          "home": "Manchester City",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Newcastle",
+          "away": "Aston Villa",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Villarreal",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Fiorentina",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Brighton",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Chelsea",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Newcastle",
+          "away": "Aston Villa",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rangers",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Gateshead",
+          "away": "Newcastle",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Chelsea",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Liverpool": [
+        {
+          "home": "Manchester City",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Aston Villa",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Villarreal",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Fiorentina",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Brighton",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chelsea",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Aston Villa",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rangers",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Gateshead",
+          "away": "Newcastle",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chelsea",
+          "away": "Newcastle",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Burnley": [
+        {
+          "home": "Burnley",
+          "away": "Manchester City",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Burnley",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Real Betis",
+          "away": "Burnley",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Benfica",
+          "away": "Burnley",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Genk",
+          "away": "Burnley",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Burnley",
+          "away": "Cardiff",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Burnley",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Blackburn",
+          "away": "Burnley",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Burnley",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Burnley",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "Aston Villa": [
+        {
+          "home": "Burnley",
+          "away": "Manchester City",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Burnley",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Real Betis",
+          "away": "Burnley",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Benfica",
+          "away": "Burnley",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Genk",
+          "away": "Burnley",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burnley",
+          "away": "Cardiff",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Burnley",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "Burnley",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burnley",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Burnley",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "FC Nordsjælland": [
+        {
+          "home": "FC Nordsjælland",
+          "away": "Partizan Belgrade",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Silkeborg IF",
+          "away": "FC Nordsjælland",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "FCSB",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Randers FC",
+          "away": "FC Nordsjælland",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FCSB",
+          "away": "FC Nordsjælland",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Brøndby IF",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "AGF",
+          "away": "FC Nordsjælland",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Viborg",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Magdeburg",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Olympiacos",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "FC Midtjylland": [
+        {
+          "home": "FC Nordsjælland",
+          "away": "Partizan Belgrade",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Silkeborg IF",
+          "away": "FC Nordsjælland",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "FCSB",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Randers FC",
+          "away": "FC Nordsjælland",
+          "homeGoals": 0,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FCSB",
+          "away": "FC Nordsjælland",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Brøndby IF",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "AGF",
+          "away": "FC Nordsjælland",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Viborg",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Magdeburg",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Nordsjælland",
+          "away": "Olympiacos",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Hvidovre": [
+        {
+          "home": "Hvidovre",
+          "away": "FC København",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Viborg",
+          "away": "Hvidovre",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hvidovre",
+          "away": "AGF",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Randers FC",
+          "away": "Hvidovre",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Midtjylland",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Lyngby",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Næstved",
+          "away": "Hvidovre",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Nykøbing FC",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hvidovre",
+          "away": "SV Eichede",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hillerød Fodbold",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "OB": [
+        {
+          "home": "Hvidovre",
+          "away": "FC København",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Viborg",
+          "away": "Hvidovre",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hvidovre",
+          "away": "AGF",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Randers FC",
+          "away": "Hvidovre",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Midtjylland",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lyngby",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Næstved",
+          "away": "Hvidovre",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nykøbing FC",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hvidovre",
+          "away": "SV Eichede",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hillerød Fodbold",
+          "away": "Hvidovre",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Villarreal": [
+        {
+          "home": "Mallorca",
+          "away": "Villarreal",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Villarreal",
+          "away": "Real Betis",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Villarreal",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Nice",
+          "away": "Villarreal",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Villarreal",
+          "away": "Sporting CP",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Feyenoord",
+          "away": "Villarreal",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hannover 96",
+          "away": "Villarreal",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Altach",
+          "away": "Villarreal",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Villarreal",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Villarreal",
+          "away": "Atletico Madrid",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ],
+      "Barcelona": [
+        {
+          "home": "Mallorca",
+          "away": "Villarreal",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Villarreal",
+          "away": "Real Betis",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Villarreal",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Nice",
+          "away": "Villarreal",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Villarreal",
+          "away": "Sporting CP",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Feyenoord",
+          "away": "Villarreal",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hannover 96",
+          "away": "Villarreal",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Altach",
+          "away": "Villarreal",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Villarreal",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Villarreal",
+          "away": "Atletico Madrid",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Valencia": [
+        {
+          "home": "Valencia",
+          "away": "Las Palmas",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sevilla",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Valencia",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Valencia",
+          "away": "Deportivo Alaves",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Spartak Trnava",
+          "away": "Valencia",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Valencia",
+          "away": "Nottingham F.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Real Betis",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Valencia",
+          "away": "Espanyol",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mallorca",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Osasuna": [
+        {
+          "home": "Valencia",
+          "away": "Las Palmas",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sevilla",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Valencia",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Valencia",
+          "away": "Deportivo Alaves",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Spartak Trnava",
+          "away": "Valencia",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Valencia",
+          "away": "Nottingham F.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Real Betis",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Valencia",
+          "away": "Espanyol",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mallorca",
+          "away": "Valencia",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Athletic Bilbao": [
+        {
+          "home": "Osasuna",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Athletic Bilbao",
+          "away": "Real Madrid",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Athletic Bilbao",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Athletic Bilbao",
+          "away": "Eibar",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Celtic",
+          "away": "Athletic Bilbao",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "RS Gimnastica",
+          "away": "Athletic Bilbao",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Racing Santander",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Necaxa",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "CD Guadalajara",
+          "away": "Athletic Bilbao",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Athletic Bilbao",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Real Betis": [
+        {
+          "home": "Osasuna",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Athletic Bilbao",
+          "away": "Real Madrid",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Athletic Bilbao",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Athletic Bilbao",
+          "away": "Eibar",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Celtic",
+          "away": "Athletic Bilbao",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "RS Gimnastica",
+          "away": "Athletic Bilbao",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Racing Santander",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Necaxa",
+          "away": "Athletic Bilbao",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "CD Guadalajara",
+          "away": "Athletic Bilbao",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Athletic Bilbao",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Juventus": [
+        {
+          "home": "Udinese",
+          "away": "Juventus",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Juventus",
+          "away": "Atalanta",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Real Madrid",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "AC Milan",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Udinese",
+          "away": "Juventus",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Juventus",
+          "away": "AC Milan",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Empoli",
+          "away": "Juventus",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sevilla",
+          "away": "Juventus",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Juventus",
+          "away": "Cremonese",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Sevilla",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Bologna": [
+        {
+          "home": "Udinese",
+          "away": "Juventus",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Atalanta",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Real Madrid",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "AC Milan",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Udinese",
+          "away": "Juventus",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "AC Milan",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Empoli",
+          "away": "Juventus",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sevilla",
+          "away": "Juventus",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Cremonese",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Juventus",
+          "away": "Sevilla",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "SSC Napoli": [
+        {
+          "home": "Frosinone",
+          "away": "SSC Napoli",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Apollon Limassol",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Augsburg",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Girona",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Hatayspor",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "SPAL 2013",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Anaune",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Sampdoria",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bologna",
+          "away": "SSC Napoli",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Inter",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Sassuolo": [
+        {
+          "home": "Frosinone",
+          "away": "SSC Napoli",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Apollon Limassol",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Augsburg",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Girona",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Hatayspor",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "SPAL 2013",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Anaune",
+          "homeGoals": 6,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Sampdoria",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bologna",
+          "away": "SSC Napoli",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SSC Napoli",
+          "away": "Inter",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Lazio": [
+        {
+          "home": "Lecce",
+          "away": "Lazio",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Latina",
+          "away": "Lazio",
+          "homeGoals": 0,
+          "awayGoals": 9,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Girona",
+          "away": "Lazio",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Lazio",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Lazio",
+          "away": "NK Bravo",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "Triestina",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Frosinone",
+          "away": "Lazio",
+          "homeGoals": 10,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Lazio",
+          "away": "Primorje",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "CS Auronzo",
+          "homeGoals": 16,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Empoli",
+          "away": "Lazio",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "Genoa": [
+        {
+          "home": "Lecce",
+          "away": "Lazio",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Latina",
+          "away": "Lazio",
+          "homeGoals": 0,
+          "awayGoals": 9,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Girona",
+          "away": "Lazio",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Lazio",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "NK Bravo",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "Triestina",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Frosinone",
+          "away": "Lazio",
+          "homeGoals": 10,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "Primorje",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lazio",
+          "away": "CS Auronzo",
+          "homeGoals": 16,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Empoli",
+          "away": "Lazio",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Mainz 05": [
+        {
+          "home": "Union Berlin",
+          "away": "Mainz 05",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Elversberg",
+          "away": "Mainz 05",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Burnley",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Mainz 05",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "TuS Koblenz",
+          "away": "Mainz 05",
+          "homeGoals": 1,
+          "awayGoals": 6,
+          "isHomeTeam": false
+        },
+        {
+          "home": "SG Gensingen/Grolsheim",
+          "away": "Mainz 05",
+          "homeGoals": 0,
+          "awayGoals": 16,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Borussia Dortmund",
+          "away": "Mainz 05",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mainz 05",
+          "away": "VfB Stuttgart",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Eintracht Frankfurt",
+          "away": "Mainz 05",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Schalke 04",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ],
+      "Eintracht Frankfurt": [
+        {
+          "home": "Union Berlin",
+          "away": "Mainz 05",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Elversberg",
+          "away": "Mainz 05",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Burnley",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC St. Gallen",
+          "away": "Mainz 05",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "TuS Koblenz",
+          "away": "Mainz 05",
+          "homeGoals": 1,
+          "awayGoals": 6,
+          "isHomeTeam": true
+        },
+        {
+          "home": "SG Gensingen/Grolsheim",
+          "away": "Mainz 05",
+          "homeGoals": 0,
+          "awayGoals": 16,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Borussia Dortmund",
+          "away": "Mainz 05",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Mainz 05",
+          "away": "VfB Stuttgart",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Eintracht Frankfurt",
+          "away": "Mainz 05",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Mainz 05",
+          "away": "Schalke 04",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Bayern München": [
+        {
+          "home": "Werder Bremen",
+          "away": "Bayern München",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Monaco",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Kawasaki Frontale",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Manchester City",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Rottach-Egern",
+          "away": "Bayern München",
+          "homeGoals": 0,
+          "awayGoals": 27,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Köln",
+          "away": "Bayern München",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Schalke 04",
+          "homeGoals": 6,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Augsburg": [
+        {
+          "home": "Werder Bremen",
+          "away": "Bayern München",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Monaco",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Kawasaki Frontale",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Manchester City",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Rottach-Egern",
+          "away": "Bayern München",
+          "homeGoals": 0,
+          "awayGoals": 27,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Köln",
+          "away": "Bayern München",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "RB Leipzig",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Schalke 04",
+          "homeGoals": 6,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    }
+  ],
+  "bets": [
+    "2000000000000",
+    "2000000000020",
+    "2000000200000",
+    "2000002000000",
+    "2000020000000",
+    "2000020000020",
+    "2000020002000",
+    "2000020010000",
+    "2000020100020",
+    "2000020200020",
+    "2000022000000",
+    "2000022200020",
+    "2000100100000",
+    "2000120002010",
+    "2000200000000",
+    "2000200000020",
+    "2000200000120",
+    "2000200001000",
+    "2000200020000",
+    "2000200020020",
+    "2000200100020",
+    "2000200100200",
+    "2000200200000",
+    "2000200200020",
+    "2000201000020",
+    "2000202200020",
+    "2000210002020",
+    "2000220000000",
+    "2000220000020",
+    "2000220000100",
+    "2000220000120",
+    "2000220000220",
+    "2000220020000",
+    "2000220100000",
+    "2000220200000",
+    "2000220200200",
+    "2001220000000",
+    "2001220200200",
+    "2002000200200",
+    "2002020000000",
+    "2002020020000",
+    "2002200000000",
+    "2002200000020",
+    "2002200200010",
+    "2002220000000",
+    "2002220000010",
+    "2010000000000",
+    "2010001000000",
+    "2010020010200",
+    "2010020020200",
+    "2010100000000",
+    "2010200000000",
+    "2010200010100",
+    "2010210000010",
+    "2010220000200",
+    "2010220000220",
+    "2012220000000",
+    "2020000000000",
+    "2020000000020",
+    "2020000200020",
+    "2020000200200",
+    "2020012000000",
+    "2020020000000",
+    "2020020000200",
+    "2020020000220",
+    "2020020002000",
+    "2020020010000",
+    "2020020020020",
+    "2020020100020",
+    "2020020200020",
+    "2020020200200",
+    "2020020200220",
+    "2020021000100",
+    "2020022000000",
+    "2020022000020",
+    "2020100200000",
+    "2020120000000",
+    "2020120000020",
+    "2020200000000",
+    "2020200000010",
+    "2020200000020",
+    "2020200000120",
+    "2020200000200",
+    "2020200110220",
+    "2020200200000",
+    "2020200200020",
+    "2020201100000",
+    "2020202000010",
+    "2020202000020",
+    "2020202020000",
+    "2020220000000",
+    "2020220000020",
+    "2020220000120",
+    "2020220001000",
+    "2020220002000",
+    "2020220010000",
+    "2020220020000",
+    "2020220100000",
+    "2020220200000",
+    "2020220220000",
+    "2020221000200",
+    "2021020000020",
+    "2021202000000",
+    "2022000000000",
+    "2022000020100",
+    "2022020000000",
+    "2022020020010",
+    "2022022000000",
+    "2022200000000",
+    "2022200010200",
+    "2022200011000",
+    "2022220000020",
+    "2100000000000",
+    "2100022000000",
+    "2100200000020",
+    "2100202000000",
+    "2100220200000",
+    "2120100000000",
+    "2120200000000",
+    "2121010000000",
+    "2200000100000",
+    "2200020200000",
+    "2200100020000",
+    "2200200000000",
+    "2200200000020",
+    "2200200020000",
+    "2200200201000",
+    "2200220000020",
+    "2201020000000",
+    "2201020000020",
+    "2201220000000",
+    "2202220020000",
+    "2210002000000",
+    "2210200001000",
+    "2220000000000",
+    "2220000000010",
+    "2220000020020",
+    "2220002200000",
+    "2220020000000",
+    "2220020000010",
+    "2220020010000",
+    "2220020020020",
+    "2220022000000",
+    "2220202000000",
+    "2220202020000",
+    "2220220000000",
+    "2220220001000",
+    "2220220200000",
+    "2222020000000",
+    "2222020000200"
+  ],
+  "fav": [0, 2],
+  "teams": [
+    { "1": "Sheffield U", "2": "Manchester City" },
+    { "1": "Newcastle", "2": "Liverpool" },
+    { "1": "Burnley", "2": "Aston Villa" },
+    { "1": "FC Nordsjælland", "2": "FC Midtjylland" },
+    { "1": "Hvidovre", "2": "OB" },
+    { "1": "Villarreal", "2": "FC Barcelona" },
+    { "1": "Valencia", "2": "Osasuna" },
+    { "1": "Athletic Bilbao", "2": "Betis" },
+    { "1": "Juventus", "2": "Bologna" },
+    { "1": "Napoli", "2": "Sassuolo" },
+    { "1": "Lazio", "2": "Genoa" },
+    { "1": "Mainz", "2": "Frankfurt" },
+    { "1": "Bayern München", "2": "Augsburg" }
+  ],
+  "odds": [
+    16, 7, 1.18, 2.2, 3.8, 3, 3.15, 3.6, 2.2, 1.75, 3.85, 4.6, 3.25, 3.7, 2.1,
+    3.15, 3.85, 2.1, 1.77, 3.5, 5, 1.92, 3.5, 4.1, 1.62, 3.9, 5.4, 1.32, 5.5,
+    8.35, 1.7, 3.75, 4.9, 2.4, 3.5, 2.8, 1.09, 10.5, 25
+  ]
+}

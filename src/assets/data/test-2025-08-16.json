@@ -1,0 +1,155 @@
+{
+  "result": "0102202001011",
+  "penge": { "10": 187, "11": 642, "12": 20000, "13": 50000 },
+  "filename": "test-2025-08-16.json",
+  "teams": [
+    {
+      "1": "Tottenham",
+      "2": "Burnley"
+    },
+    {
+      "1": "Brighton",
+      "2": "Fulham"
+    },
+    {
+      "1": "Sunderland",
+      "2": "West Ham"
+    },
+    {
+      "1": "Blackburn",
+      "2": "Birmingham"
+    },
+    {
+      "1": "Millwall",
+      "2": "Middlesbrough"
+    },
+    {
+      "1": "Preston",
+      "2": "Leicester"
+    },
+    {
+      "1": "Sheffield W",
+      "2": "Stoke"
+    },
+    {
+      "1": "Swansea",
+      "2": "Sheffield U"
+    },
+    {
+      "1": "Watford",
+      "2": "Queens Park R"
+    },
+    {
+      "1": "Barnsley",
+      "2": "Bolton"
+    },
+    {
+      "1": "Blackpool",
+      "2": "Huddersfield"
+    },
+    {
+      "1": "Doncaster",
+      "2": "Wycombe"
+    },
+    {
+      "1": "Leyton Orient",
+      "2": "Stockport"
+    }
+  ],
+  "odds": [
+    1.54, 4.25, 5.75, 1.98, 3.65, 3.65, 3.3, 3.2, 2.28, 3.25, 3.25, 2.3, 2.25, 3.25, 3.4, 3.65, 3.4,
+    2.05, 3.25, 3.4, 2.25, 2.7, 3.25, 2.75, 2.05, 3.4, 3.75, 2.7, 3.5, 2.42, 2.85, 3.3, 2.41, 2.29,
+    3.3, 3.05, 2.95, 3.2, 2.37
+  ],
+  "bets": [
+    "0022100002022",
+    "0022002000200",
+    "0020022000000",
+    "0000000000222",
+    "0122100002200",
+    "0020100000000",
+    "0000000000000",
+    "0000020001002",
+    "0010000000100",
+    "0000221100020",
+    "0020000222001",
+    "0000020000122",
+    "0001001201020",
+    "0122011000021",
+    "0011202202001",
+    "0100021001011",
+    "0001220002200",
+    "0200010100010",
+    "0120012001002",
+    "1110110102020",
+    "0202102012220",
+    "0112020002110",
+    "0010012202012",
+    "0102000100202",
+    "0010201000212"
+  ],
+  "total_patterns": 25,
+  "optimized_parameters": {
+    "odds_weight": 0.4896678568130605,
+    "team_weight": 0.07314458754443082,
+    "form_weight": 0.5171508893127652,
+    "default_patterns": 25,
+    "high_confidence_threshold": 0.65,
+    "medium_confidence_threshold": 0.55,
+    "max_confidence": 0.95,
+    "form_win_weight": 3.0,
+    "form_draw_weight": 1.0,
+    "form_loss_weight": 0.0,
+    "form_window": 5,
+    "home_bias_min_odds": 1.3,
+    "home_bias_max_odds": 8.800457333334151,
+    "home_bias_factor": 1.9730854204260997,
+    "winning_streak_boost": 2.213710485348089,
+    "losing_streak_penalty": 1.1519152454790418,
+    "streak_length": 2,
+    "home_form_boost": 2.3803712969944426,
+    "away_form_boost": 0.3991165595896968,
+    "strong_form_threshold": 0.7,
+    "base_form_weight": 0.1215701838754732,
+    "opponent_pattern_weight": 0.2400390870183152,
+    "head_to_head_weight": 0.3302078514271048,
+    "tendency_weight": 0.3,
+    "contextual_weight": 0.022888173843157326,
+    "consistency_base_weight": 0.5693705271877012,
+    "consistency_h2h_weight": 0.3895108333231705,
+    "consistency_opponent_weight": 0.1,
+    "form_sensitivity": 0.6797473195276237,
+    "draw_sensitivity": 0.4778327729429446,
+    "odds_diff_weight": 0.0941195882323623,
+    "equal_match_boost": 1.2637342799189542,
+    "favorite_performance_boost": 1.1178679175497517,
+    "underdog_performance_boost": 1.7153312164953691,
+    "odds_diff_threshold_tight": 0.5456718455958025,
+    "odds_diff_threshold_moderate": 0.5450008651613042,
+    "odds_diff_sensitivity": 0.5663393120825839,
+    "odds_diff_window": 10,
+    "odds_bracket_weight": 0.13999115466652073,
+    "odds_bracket_window": 90.05743986059629,
+    "min_bracket_samples": 6.5557355688195695,
+    "ideal_bracket_samples": 17.681582304086497,
+    "bracket_confidence_boost": 2.461570216121773,
+    "bracket_dynamic_weight": 0.8544213379024281
+  },
+  "random_seed": 42,
+  "expected_roi": "+1724.3%",
+  "improvement_over_previous": "+1649.7 percentage points",
+  "data_leakage_prevented": true,
+  "excluded_from_training": "test-2025-08-16.json",
+  "enhanced_features": [
+    "Opponent pattern analysis",
+    "Head-to-head historical records",
+    "Team tendency tracking",
+    "Contextual form analysis",
+    "Deep opponent awareness",
+    "\ud83c\udd95 Odds difference analysis",
+    "\ud83c\udd95 Equal match performance tracking",
+    "\ud83c\udd95 Favorite/underdog pattern analysis",
+    "\ud83c\udd95 Odds bracket pattern analysis",
+    "\ud83d\udee1\ufe0f Data leakage prevention"
+  ]
+}

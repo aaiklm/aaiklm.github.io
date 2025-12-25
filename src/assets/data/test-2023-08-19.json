@@ -1,0 +1,2077 @@
+{
+  "penge": { "10": 29, "11": 82, "12": 1015, "13": 50000 },
+  "result": "0022220122001",
+  "bets": [
+    "0000000000000",
+    "0000000000002",
+    "0000000000020",
+    "0000000000200",
+    "0000000002000",
+    "0000000002200",
+    "0000000020000",
+    "0000000020002",
+    "0000000020200",
+    "0000000022000",
+    "0000000022002",
+    "0000000022200",
+    "0000000200000",
+    "0000000222000",
+    "0000002000200",
+    "0000002002222",
+    "0000020000000",
+    "0000020200000",
+    "0000200000000",
+    "0000200000200",
+    "0000200002000",
+    "0000202000020",
+    "0000220020200",
+    "0001000002000",
+    "0001000022000",
+    "0002000000000",
+    "0002000000020",
+    "0002000000200",
+    "0002000000202",
+    "0002000002000",
+    "0002000002002",
+    "0002000020000",
+    "0002000020002",
+    "0002000020020",
+    "0002000020200",
+    "0002000020202",
+    "0002000022000",
+    "0002000022002",
+    "0002000200020",
+    "0002002000000",
+    "0002002000200",
+    "0002002020000",
+    "0002002022000",
+    "0002020000000",
+    "0002020000200",
+    "0002020002000",
+    "0002020020000",
+    "0002022000000",
+    "0002022020000",
+    "0002120022000",
+    "0002200002000",
+    "0002200002020",
+    "0002200020000",
+    "0002200020200",
+    "0002200200000",
+    "0002220000000",
+    "0020000000000",
+    "0020000000200",
+    "0020000020000",
+    "0020000020002",
+    "0020000020020",
+    "0020000022000",
+    "0020000022002",
+    "0020000220000",
+    "0020002020000",
+    "0020020000000",
+    "0020020000002",
+    "0020020000202",
+    "0020020020200",
+    "0020020220000",
+    "0020022000000",
+    "0020200000000",
+    "0022000000000",
+    "0022000000002",
+    "0022000020000",
+    "0022000020002",
+    "0022000020020",
+    "0022020000000",
+    "0022020020000",
+    "0022020020020",
+    "0022020222000",
+    "0022200000000",
+    "0201200000002",
+    "0202000000000",
+    "0202000020000",
+    "0202200002002",
+    "2000000000000",
+    "2000000000002",
+    "2000000000200",
+    "2000000002200",
+    "2000000020000",
+    "2000000020020",
+    "2000000020200",
+    "2000000022000",
+    "2000000022002",
+    "2000000200000",
+    "2000000220000",
+    "2000002000000",
+    "2000020000020",
+    "2000020020000",
+    "2000020022000",
+    "2000020220000",
+    "2000200000000",
+    "2000222000000",
+    "2002000000000",
+    "2002000000002",
+    "2002000002002",
+    "2002000002020",
+    "2002000020000",
+    "2002000020002",
+    "2002000020020",
+    "2002000020200",
+    "2002000022000",
+    "2002000022200",
+    "2002000200000",
+    "2002000202000",
+    "2002020002000",
+    "2002020020000",
+    "2002020020002",
+    "2002020022000",
+    "2002020022200",
+    "2002022020200",
+    "2002022022000",
+    "2002100020002",
+    "2002100020200",
+    "2002200020000",
+    "2002200022000",
+    "2002202020020",
+    "2002202020200",
+    "2020000000002",
+    "2020000000020",
+    "2020000002000",
+    "2020000020000",
+    "2020000020002",
+    "2020000020222",
+    "2020002020000",
+    "2020020022000",
+    "2022000000002",
+    "2022000020000",
+    "2022000020200",
+    "2022000220000",
+    "2022002000000",
+    "2022002020000",
+    "2022020000000",
+    "2022020020000",
+    "2022100000020",
+    "2022200020000",
+    "2022200020200",
+    "2202000020000",
+    "2202000022000"
+  ],
+  "matches_wrong": [
+    {
+      "Tottenham": [
+        {
+          "home": "Brentford",
+          "away": "Tottenham",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Barcelona",
+          "away": "Tottenham",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tottenham",
+          "away": "Shakhtar Donetsk",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lion City Sailors FC",
+          "away": "Tottenham",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tottenham",
+          "away": "West Ham",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leeds",
+          "away": "Tottenham",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tottenham",
+          "away": "Brentford",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Tottenham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Tottenham",
+          "away": "Crystal Palace",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Tottenham",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ],
+      "Manchester United": [
+        {
+          "home": "Brentford",
+          "away": "Tottenham",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Barcelona",
+          "away": "Tottenham",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tottenham",
+          "away": "Shakhtar Donetsk",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Lion City Sailors FC",
+          "away": "Tottenham",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tottenham",
+          "away": "West Ham",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leeds",
+          "away": "Tottenham",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tottenham",
+          "away": "Brentford",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Tottenham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Tottenham",
+          "away": "Crystal Palace",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Tottenham",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Liverpool": [
+        {
+          "home": "Chelsea",
+          "away": "Liverpool",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liverpool",
+          "away": "Darmstadt",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Greuther Fürth",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Karlsruher SC",
+          "away": "Liverpool",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Southampton",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liverpool",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Liverpool",
+          "away": "Brentford",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Bournemouth": [
+        {
+          "home": "Chelsea",
+          "away": "Liverpool",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Darmstadt",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bayern München",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Greuther Fürth",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Karlsruher SC",
+          "away": "Liverpool",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Southampton",
+          "away": "Liverpool",
+          "homeGoals": 4,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Brentford",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Fulham": [
+        {
+          "home": "Everton",
+          "away": "Fulham",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Fulham",
+          "away": "Hoffenheim",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chelsea",
+          "away": "Fulham",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Fulham",
+          "away": "Aston Villa",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Brentford",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Fulham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Fulham",
+          "away": "Crystal Palace",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Southampton",
+          "away": "Fulham",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Fulham",
+          "away": "Leicester",
+          "homeGoals": 5,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Fulham",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        }
+      ],
+      "Brentford": [
+        {
+          "home": "Everton",
+          "away": "Fulham",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Hoffenheim",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chelsea",
+          "away": "Fulham",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Aston Villa",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Brentford",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Fulham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Crystal Palace",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Southampton",
+          "away": "Fulham",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Leicester",
+          "homeGoals": 5,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Liverpool",
+          "away": "Fulham",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Wolverhampton": [
+        {
+          "home": "Manchester United",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Rennes",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Luton",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Celtic",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "FC Porto",
+          "away": "Wolverhampton",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Vitoria de Guimaraes",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Arsenal",
+          "away": "Wolverhampton",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Everton",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Wolverhampton",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ],
+      "Brighton": [
+        {
+          "home": "Manchester United",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Rennes",
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Luton",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Celtic",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "FC Porto",
+          "away": "Wolverhampton",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Vitoria de Guimaraes",
+          "away": "Wolverhampton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Arsenal",
+          "away": "Wolverhampton",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Everton",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Manchester United",
+          "away": "Wolverhampton",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Wolverhampton",
+          "away": "Aston Villa",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Blackburn": [
+        {
+          "home": "Rotherham",
+          "away": "Blackburn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Blackburn",
+          "away": "Walsall",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "West Bromwich",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "Girona",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stockport County",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Barnsley",
+          "away": "Blackburn",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Fleetwood",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hartberg",
+          "away": "Blackburn",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hartberg",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 6,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Accrington",
+          "away": "Blackburn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "Hull": [
+        {
+          "home": "Rotherham",
+          "away": "Blackburn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "Walsall",
+          "homeGoals": 4,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "West Bromwich",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Blackburn",
+          "away": "Girona",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stockport County",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Barnsley",
+          "away": "Blackburn",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fleetwood",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hartberg",
+          "away": "Blackburn",
+          "homeGoals": 1,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hartberg",
+          "away": "Blackburn",
+          "homeGoals": 0,
+          "awayGoals": 6,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Accrington",
+          "away": "Blackburn",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Bristol City": [
+        {
+          "home": "Millwall",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bristol City",
+          "away": "Oxford",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Preston",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portsmouth",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Cheltenham",
+          "away": "Bristol City",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bristol City",
+          "away": "Exeter",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Oxford",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Newport",
+          "homeGoals": 8,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Swindon",
+          "homeGoals": 7,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Queens P.R.",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        }
+      ],
+      "Birmingham": [
+        {
+          "home": "Millwall",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Oxford",
+          "homeGoals": 5,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Preston",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Portsmouth",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cheltenham",
+          "away": "Bristol City",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Exeter",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Oxford",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Newport",
+          "homeGoals": 8,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bristol City",
+          "away": "Swindon",
+          "homeGoals": 7,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Queens P.R.",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Leicester": [
+        {
+          "home": "Huddersfield",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Burton",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leicester",
+          "away": "Coventry",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "OH Leuven",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Northampton",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leicester",
+          "away": "West Ham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Leicester",
+          "homeGoals": 5,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ],
+      "Cardiff": [
+        {
+          "home": "Huddersfield",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burton",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Coventry",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "OH Leuven",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Northampton",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "West Ham",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Newcastle",
+          "away": "Leicester",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Leicester",
+          "away": "Liverpool",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Fulham",
+          "away": "Leicester",
+          "homeGoals": 5,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Middlesbrough": [
+        {
+          "home": "Coventry",
+          "away": "Middlesbrough",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Huddersfield",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Middlesbrough",
+          "away": "Millwall",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Auxerre",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Bradford",
+          "away": "Middlesbrough",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Middlesbrough",
+          "away": "Real Betis",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "York",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Hartlepool",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Vitoria de Guimaraes",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Huddersfield": [
+        {
+          "home": "Coventry",
+          "away": "Middlesbrough",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Huddersfield",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Middlesbrough",
+          "away": "Millwall",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Auxerre",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Bradford",
+          "away": "Middlesbrough",
+          "homeGoals": 3,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Middlesbrough",
+          "away": "Real Betis",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Rotherham",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "York",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hartlepool",
+          "away": "Middlesbrough",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Vitoria de Guimaraes",
+          "away": "Middlesbrough",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Queens P.R.": [
+        {
+          "home": "Queens P.R.",
+          "away": "Norwich",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cardiff",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Watford",
+          "away": "Queens P.R.",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Oxford",
+          "away": "Queens P.R.",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Reading",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Vorwärts Steyr",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sl. Prag",
+          "away": "Queens P.R.",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Queens P.R.",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Ipswich": [
+        {
+          "home": "Queens P.R.",
+          "away": "Norwich",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Cardiff",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Watford",
+          "away": "Queens P.R.",
+          "homeGoals": 4,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Oxford",
+          "away": "Queens P.R.",
+          "homeGoals": 5,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Reading",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "AFC Wimbledon",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Vorwärts Steyr",
+          "away": "Queens P.R.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sl. Prag",
+          "away": "Queens P.R.",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Queens P.R.",
+          "away": "Bristol City",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Sheffield W.": [
+        {
+          "home": "Hull",
+          "away": "Sheffield W.",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Stockport County",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Southampton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Luton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Doncaster",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Eldense",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Real Murcia",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chesterfield",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "York",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Barnsley",
+          "away": "Sheffield W.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        }
+      ],
+      "Preston": [
+        {
+          "home": "Hull",
+          "away": "Sheffield W.",
+          "homeGoals": 4,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Stockport County",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Southampton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Luton",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Doncaster",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Eldense",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sheffield W.",
+          "away": "Real Murcia",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Chesterfield",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "York",
+          "away": "Sheffield W.",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Barnsley",
+          "away": "Sheffield W.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Stoke": [
+        {
+          "home": "Ipswich",
+          "away": "Stoke",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stoke",
+          "away": "West Bromwich",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Rotherham",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Everton",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burton",
+          "away": "Stoke",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Derby",
+          "away": "Stoke",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Levante",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Watford",
+          "away": "Stoke",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stoke",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ],
+      "Watford": [
+        {
+          "home": "Ipswich",
+          "away": "Stoke",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "West Bromwich",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Rotherham",
+          "homeGoals": 4,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Stoke",
+          "away": "Everton",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Burton",
+          "away": "Stoke",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Derby",
+          "away": "Stoke",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Levante",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Notts Co.",
+          "away": "Stoke",
+          "homeGoals": 1,
+          "awayGoals": 5,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Watford",
+          "away": "Stoke",
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Stoke",
+          "away": "Queens P.R.",
+          "homeGoals": 0,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Sunderland": [
+        {
+          "home": "Preston",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sunderland",
+          "away": "Crewe",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sunderland",
+          "away": "Ipswich",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hartlepool",
+          "away": "Sunderland",
+          "homeGoals": 5,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Sunderland",
+          "away": "Mallorca",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "North Carolina FC",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "New Mexico United",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "San Antonio FC",
+          "away": "Sunderland",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Gateshead",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        },
+        {
+          "home": "South Shields",
+          "away": "Sunderland",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        }
+      ],
+      "Rotherham": [
+        {
+          "home": "Preston",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sunderland",
+          "away": "Crewe",
+          "homeGoals": null,
+          "awayGoals": null,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sunderland",
+          "away": "Ipswich",
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hartlepool",
+          "away": "Sunderland",
+          "homeGoals": 5,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Sunderland",
+          "away": "Mallorca",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "North Carolina FC",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "New Mexico United",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "San Antonio FC",
+          "away": "Sunderland",
+          "homeGoals": 1,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Gateshead",
+          "away": "Sunderland",
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        },
+        {
+          "home": "South Shields",
+          "away": "Sunderland",
+          "homeGoals": 3,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        }
+      ]
+    },
+    {
+      "Swansea": [
+        {
+          "home": "West Bromwich",
+          "away": "Swansea",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Swansea",
+          "away": "Northampton",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "Birmingham",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Reading",
+          "away": "Swansea",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Swansea",
+          "away": "Bristol Rovers",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Oxford",
+          "away": "Swansea",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Swansea",
+          "away": "Brøndby IF",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "West Bromwich",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hull",
+          "away": "Swansea",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": false
+        },
+        {
+          "home": "Norwich",
+          "away": "Swansea",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": false
+        }
+      ],
+      "Coventry": [
+        {
+          "home": "West Bromwich",
+          "away": "Swansea",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "Northampton",
+          "homeGoals": 3,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "Birmingham",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Reading",
+          "away": "Swansea",
+          "homeGoals": 0,
+          "awayGoals": 4,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "Bristol Rovers",
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Oxford",
+          "away": "Swansea",
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "Brøndby IF",
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Swansea",
+          "away": "West Bromwich",
+          "homeGoals": 3,
+          "awayGoals": 2,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Hull",
+          "away": "Swansea",
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "isHomeTeam": true
+        },
+        {
+          "home": "Norwich",
+          "away": "Swansea",
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "isHomeTeam": true
+        }
+      ]
+    }
+  ],
+  "fav": [1, 0],
+  "teams": [
+    { "1": "Tottenham", "2": "Manchester United" },
+    { "1": "Liverpool", "2": "Bournemouth" },
+    { "1": "Fulham", "2": "Brentford" },
+    { "1": "Wolverhampton", "2": "Brighton" },
+    { "1": "Blackburn", "2": "Hull" },
+    { "1": "Bristol C", "2": "Birmingham" },
+    { "1": "Leicester", "2": "Cardiff" },
+    { "1": "Middlesbrough", "2": "Huddersfield" },
+    { "1": "Queens PR", "2": "Ipswich" },
+    { "1": "Sheffield W", "2": "Preston" },
+    { "1": "Stoke", "2": "Watford" },
+    { "1": "Sunderland", "2": "Rotherham" },
+    { "1": "Swansea", "2": "Coventry" }
+  ],
+  "odds": [
+    2.8, 3.8, 2.3, 1.2, 7.35, 12.5, 2.7, 3.35, 2.6, 3.75, 3.85, 1.9, 1.82, 3.75,
+    4.1, 2.25, 3.15, 3.35, 1.52, 4.2, 6, 1.72, 3.85, 4.6, 4.2, 3.65, 1.82, 2.75,
+    3.15, 2.65, 2.2, 3.4, 3.2, 1.58, 4.1, 5.4, 2.35, 3.45, 2.9
+  ]
+}
