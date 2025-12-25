@@ -7,6 +7,8 @@ const WINNING_THRESHOLD = 10;
 type AccuracyChartProps = {
   data: AccuracyResult[];
   title: string;
+  /** Remove the date with the largest winnings to avoid data skew */
+  excludeTopWinner?: boolean;
 };
 
 /** Logarithmic scale parameters */
@@ -50,10 +52,36 @@ const DATE_COLORS = [
   "#95e1d3", // seafoam
 ];
 
-export function AccuracyChart({ data, title }: AccuracyChartProps) {
+export function AccuracyChart({
+  data,
+  title,
+  excludeTopWinner = true,
+}: AccuracyChartProps) {
   if (data.length === 0) return null;
 
-  const matchCount = data[0].accuracy.length - 1; // e.g., 13 for 13 matches
+  // Optionally find and remove the date with the largest total winnings to avoid data skew
+  let chartData = data;
+  if (excludeTopWinner && data.length > 1) {
+    const dateWinnings = data.map((result) => {
+      const totalWinnings = result.accuracy.reduce(
+        (sum, count, correctCount) => {
+          const pengeValue = result.penge[String(correctCount)] ?? 0;
+          return sum + count * pengeValue;
+        },
+        0
+      );
+      return { date: result.date, winnings: totalWinnings };
+    });
+
+    const maxWinningsDate = dateWinnings.reduce(
+      (max, curr) => (curr.winnings > max.winnings ? curr : max),
+      dateWinnings[0]
+    );
+
+    chartData = data.filter((result) => result.date !== maxWinningsDate.date);
+  }
+
+  const matchCount = chartData[0].accuracy.length - 1; // e.g., 13 for 13 matches
 
   // Calculate stacked data for each "correct count" bucket (0 to matchCount)
   const stackedData: {
@@ -76,7 +104,7 @@ export function AccuracyChart({ data, title }: AccuracyChartProps) {
     let total = 0;
     let money = 0;
 
-    data.forEach((result, dateIndex) => {
+    chartData.forEach((result, dateIndex) => {
       const count = result.accuracy[correctCount];
       if (count > 0) {
         // Calculate money earned: count * penge value for this correctCount
