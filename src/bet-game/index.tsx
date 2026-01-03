@@ -1,5 +1,27 @@
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useEffect, useRef } from "react";
 import styles from "./index.module.css";
+
+const STORAGE_KEY_PREFIX = "bet-game-selections-";
+
+// Helper to load saved selections from localStorage
+function loadSavedSelections(
+  date: string,
+  hasResult: boolean
+): Record<number, string> {
+  if (hasResult) return {};
+  try {
+    const saved = localStorage.getItem(`${STORAGE_KEY_PREFIX}${date}`);
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      if (typeof parsed === "object" && parsed !== null) {
+        return parsed;
+      }
+    }
+  } catch {
+    // Ignore parsing errors
+  }
+  return {};
+}
 
 // Import all data files
 const dataModules = import.meta.glob<{
@@ -78,10 +100,63 @@ export function BetGame() {
     dataFiles[0] ?? null
   );
 
-  // Manual results input - can be updated anytime
+  // Manual results input - initialized from localStorage
   const [manualResults, setManualResults] = useState<Record<number, string>>(
-    {}
+    () => {
+      const file = dataFiles[0];
+      if (!file) return {};
+      return loadSavedSelections(file.date, !!file.result);
+    }
   );
+
+  // Get storage key for current file
+  const storageKey = selectedFile
+    ? `${STORAGE_KEY_PREFIX}${selectedFile.date}`
+    : null;
+
+  // Track if component has mounted (to avoid saving on initial load)
+  const isMountedRef = useRef(false);
+
+  // Save selections to localStorage when they change (only if no result yet)
+  useEffect(() => {
+    // Skip first render to avoid overwriting loaded data
+    if (!isMountedRef.current) {
+      isMountedRef.current = true;
+      return;
+    }
+    if (!storageKey || selectedFile?.result) return;
+
+    if (Object.keys(manualResults).length === 0) {
+      localStorage.removeItem(storageKey);
+    } else {
+      localStorage.setItem(storageKey, JSON.stringify(manualResults));
+    }
+  }, [manualResults, storageKey, selectedFile?.result]);
+
+  // Sync across tabs using storage event
+  useEffect(() => {
+    if (!storageKey || selectedFile?.result) return;
+
+    const handleStorageChange = (e: StorageEvent) => {
+      if (e.key === storageKey) {
+        if (e.newValue === null) {
+          setManualResults({});
+        } else {
+          try {
+            const parsed = JSON.parse(e.newValue);
+            if (typeof parsed === "object" && parsed !== null) {
+              setManualResults(parsed);
+            }
+          } catch {
+            // Ignore parsing errors
+          }
+        }
+      }
+    };
+
+    window.addEventListener("storage", handleStorageChange);
+    return () => window.removeEventListener("storage", handleStorageChange);
+  }, [storageKey, selectedFile?.result]);
 
   // Get the actual outcome for a match
   const getOutcome = useCallback(
@@ -97,7 +172,6 @@ export function BetGame() {
     },
     [selectedFile?.result, manualResults]
   );
-
 
   // Set specific result
   const setResult = useCallback((matchIndex: number, result: string | null) => {
@@ -184,7 +258,10 @@ export function BetGame() {
   // Reset manual results
   const resetGame = useCallback(() => {
     setManualResults({});
-  }, []);
+    if (storageKey) {
+      localStorage.removeItem(storageKey);
+    }
+  }, [storageKey]);
 
   // File navigation
   const navigateFile = useCallback(
@@ -195,8 +272,12 @@ export function BetGame() {
       let newIndex = direction === "prev" ? currentIndex + 1 : currentIndex - 1;
       if (newIndex < 0) newIndex = dataFiles.length - 1;
       if (newIndex >= dataFiles.length) newIndex = 0;
-      setSelectedFile(dataFiles[newIndex]);
-      setManualResults({});
+
+      const newFile = dataFiles[newIndex];
+      const savedResults = loadSavedSelections(newFile.date, !!newFile.result);
+
+      setSelectedFile(newFile);
+      setManualResults(savedResults);
     },
     [selectedFile?.filename]
   );
