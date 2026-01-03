@@ -13,6 +13,7 @@
     "test:visual": "playwright test",
     "test:visual:update": "playwright test --update-snapshots",
     "download:teams": "node scripts/downloadTeamData.mjs",
+    "download:matches": "node scripts/downloadFlashscoreMatches.mjs",
     "add:lines": "node scripts/addLinesToFile.mjs"
   },
   "dependencies": {
