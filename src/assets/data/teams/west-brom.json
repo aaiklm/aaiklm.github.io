@@ -2,6 +2,33 @@
   "teamName": "West Brom",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Swansea City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Hull City",
       "isHome": false,
@@ -3891,11 +3918,11 @@
     }
   ],
   "stats": {
-    "played": 432,
-    "wins": 157,
+    "played": 435,
+    "wins": 158,
     "draws": 129,
-    "losses": 146,
-    "goalsFor": 538,
-    "goalsAgainst": 495
+    "losses": 148,
+    "goalsFor": 541,
+    "goalsAgainst": 499
   }
 }

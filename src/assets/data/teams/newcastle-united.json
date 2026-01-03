@@ -2,6 +2,24 @@
   "teamName": "Newcastle United",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Burnley",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Chelsea",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 88,
+    "played": 209,
+    "wins": 89,
     "draws": 50,
-    "losses": 69,
-    "goalsFor": 334,
-    "goalsAgainst": 288
+    "losses": 70,
+    "goalsFor": 337,
+    "goalsAgainst": 290
   }
 }

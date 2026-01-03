@@ -2,6 +2,24 @@
   "teamName": "Chelsea",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Newcastle United",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
+    "played": 209,
     "wins": 97,
-    "draws": 55,
-    "losses": 55,
-    "goalsFor": 342,
-    "goalsAgainst": 239
+    "draws": 56,
+    "losses": 56,
+    "goalsFor": 345,
+    "goalsAgainst": 243
   }
 }

@@ -2,6 +2,24 @@
   "teamName": "Nottingham Forest",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Manchester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-22",
       "opponent": "Fulham",
       "isHome": false,
@@ -2874,11 +2892,11 @@
     }
   ],
   "stats": {
-    "played": 319,
+    "played": 321,
     "wins": 116,
     "draws": 85,
-    "losses": 118,
-    "goalsFor": 388,
-    "goalsAgainst": 379
+    "losses": 120,
+    "goalsFor": 389,
+    "goalsAgainst": 383
   }
 }

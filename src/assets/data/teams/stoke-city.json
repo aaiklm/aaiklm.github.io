@@ -2,6 +2,33 @@
   "teamName": "Stoke City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Hull City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Watford",
       "isHome": false,
@@ -4341,11 +4368,11 @@
     }
   ],
   "stats": {
-    "played": 482,
-    "wins": 156,
-    "draws": 129,
-    "losses": 197,
-    "goalsFor": 540,
-    "goalsAgainst": 581
+    "played": 485,
+    "wins": 157,
+    "draws": 130,
+    "losses": 198,
+    "goalsFor": 542,
+    "goalsAgainst": 583
   }
 }

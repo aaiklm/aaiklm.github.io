@@ -2,6 +2,33 @@
   "teamName": "Hull City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Stoke City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Sheffield Weds",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "West Brom",
       "isHome": true,
@@ -3513,11 +3540,11 @@
     }
   ],
   "stats": {
-    "played": 390,
-    "wins": 129,
-    "draws": 106,
-    "losses": 155,
-    "goalsFor": 445,
-    "goalsAgainst": 493
+    "played": 393,
+    "wins": 130,
+    "draws": 107,
+    "losses": 156,
+    "goalsFor": 448,
+    "goalsAgainst": 496
   }
 }

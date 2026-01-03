@@ -2,6 +2,33 @@
   "teamName": "Watford",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Birmingham City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Stoke City",
       "isHome": true,
@@ -3855,11 +3882,11 @@
     }
   ],
   "stats": {
-    "played": 428,
-    "wins": 158,
+    "played": 431,
+    "wins": 161,
     "draws": 115,
     "losses": 155,
-    "goalsFor": 531,
-    "goalsAgainst": 515
+    "goalsFor": 537,
+    "goalsAgainst": 516
   }
 }

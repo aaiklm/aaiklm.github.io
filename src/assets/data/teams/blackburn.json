@@ -2,6 +2,33 @@
   "teamName": "Blackburn",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Wrexham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Sheffield Weds",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Middlesbrough",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Millwall",
       "isHome": true,
@@ -4332,11 +4359,11 @@
     }
   ],
   "stats": {
-    "played": 481,
+    "played": 484,
     "wins": 181,
-    "draws": 110,
-    "losses": 190,
+    "draws": 112,
+    "losses": 191,
     "goalsFor": 600,
-    "goalsAgainst": 586
+    "goalsAgainst": 588
   }
 }

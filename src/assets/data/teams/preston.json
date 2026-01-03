@@ -2,6 +2,33 @@
   "teamName": "Preston",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Sheffield Weds",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Wrexham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Norwich City",
       "isHome": true,
@@ -4341,11 +4368,11 @@
     }
   ],
   "stats": {
-    "played": 482,
-    "wins": 167,
-    "draws": 137,
-    "losses": 178,
-    "goalsFor": 530,
-    "goalsAgainst": 617
+    "played": 485,
+    "wins": 168,
+    "draws": 138,
+    "losses": 179,
+    "goalsFor": 534,
+    "goalsAgainst": 619
   }
 }

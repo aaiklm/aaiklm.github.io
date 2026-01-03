@@ -2,6 +2,24 @@
   "teamName": "Manchester United",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-21",
       "opponent": "Aston Villa",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 96,
-    "draws": 47,
+    "played": 209,
+    "wins": 97,
+    "draws": 48,
     "losses": 64,
-    "goalsFor": 320,
-    "goalsAgainst": 284
+    "goalsFor": 322,
+    "goalsAgainst": 285
   }
 }

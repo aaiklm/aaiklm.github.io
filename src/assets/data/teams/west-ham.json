@@ -2,6 +2,24 @@
   "teamName": "West Ham",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Manchester City",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
+    "played": 209,
     "wins": 74,
-    "draws": 47,
-    "losses": 86,
-    "goalsFor": 289,
-    "goalsAgainst": 324
+    "draws": 48,
+    "losses": 87,
+    "goalsFor": 291,
+    "goalsAgainst": 327
   }
 }

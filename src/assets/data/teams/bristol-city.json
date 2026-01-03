@@ -2,6 +2,33 @@
   "teamName": "Bristol City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Portsmouth",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Middlesbrough",
       "isHome": true,
@@ -4377,11 +4404,11 @@
     }
   ],
   "stats": {
-    "played": 486,
-    "wins": 167,
+    "played": 489,
+    "wins": 169,
     "draws": 122,
-    "losses": 197,
-    "goalsFor": 580,
-    "goalsAgainst": 650
+    "losses": 198,
+    "goalsFor": 588,
+    "goalsAgainst": 653
   }
 }

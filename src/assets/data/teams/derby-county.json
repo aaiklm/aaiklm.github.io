@@ -2,6 +2,33 @@
   "teamName": "Derby County",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Middlesbrough",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Leicester City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Birmingham City",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Portsmouth",
       "isHome": true,
@@ -2685,11 +2712,11 @@
     }
   ],
   "stats": {
-    "played": 298,
-    "wins": 84,
-    "draws": 77,
-    "losses": 137,
-    "goalsFor": 289,
-    "goalsAgainst": 364
+    "played": 301,
+    "wins": 85,
+    "draws": 78,
+    "losses": 138,
+    "goalsFor": 292,
+    "goalsAgainst": 367
   }
 }

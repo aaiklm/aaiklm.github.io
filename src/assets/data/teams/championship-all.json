@@ -8,7 +8,7 @@
     "2021-22",
     "2020-21"
   ],
-  "totalMatches": 5829,
+  "totalMatches": 5865,
   "matches": [
     {
       "date": "2025-08-08",
@@ -2638,6 +2638,366 @@
       "awayGoals": 0,
       "result": "H",
       "round": "Matchday 22",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Birmingham City",
+      "awayTeam": "Derby County",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Millwall",
+      "awayTeam": "Ipswich Town",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Blackburn",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "QPR",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Norwich City",
+      "awayTeam": "Charlton Ath",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Stoke City",
+      "awayTeam": "Preston",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Leicester City",
+      "awayTeam": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "West Brom",
+      "awayTeam": "Bristol City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Coventry City",
+      "awayTeam": "Swansea City",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Sheffield Weds",
+      "awayTeam": "Hull City",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "result": "D",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Sheffield United",
+      "homeGoals": 5,
+      "awayGoals": 3,
+      "result": "H",
+      "round": "Matchday 23",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Coventry City",
+      "awayTeam": "Ipswich Town",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Leicester City",
+      "awayTeam": "Derby County",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Charlton Ath",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Norwich City",
+      "awayTeam": "Watford",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "A",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Stoke City",
+      "awayTeam": "Sheffield United",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Millwall",
+      "awayTeam": "Bristol City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Hull City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "A",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "West Brom",
+      "awayTeam": "QPR",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Sheffield Weds",
+      "awayTeam": "Blackburn",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "D",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Swansea City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "A",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Preston",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "homeTeam": "Birmingham City",
+      "awayTeam": "Southampton",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "D",
+      "round": "Matchday 24",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Wrexham",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Southampton",
+      "awayTeam": "Millwall",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "D",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Swansea City",
+      "awayTeam": "West Brom",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Oxford United",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Derby County",
+      "awayTeam": "Middlesbrough",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Portsmouth",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "QPR",
+      "awayTeam": "Norwich City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "result": "A",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Hull City",
+      "awayTeam": "Stoke City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "A",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Preston",
+      "awayTeam": "Sheffield Weds",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Charlton Ath",
+      "awayTeam": "Coventry City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "result": "D",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Watford",
+      "awayTeam": "Birmingham City",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "result": "H",
+      "round": "Matchday 25",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-01",
+      "homeTeam": "Sheffield United",
+      "awayTeam": "Leicester City",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "result": "H",
+      "round": "Matchday 25",
       "league": "Championship"
     },
     {
@@ -58301,5 +58661,5 @@
       "league": "Championship"
     }
   ],
-  "fetchedAt": "2025-12-25T19:53:36.852Z"
+  "fetchedAt": "2026-01-02T15:12:36.370Z"
 }

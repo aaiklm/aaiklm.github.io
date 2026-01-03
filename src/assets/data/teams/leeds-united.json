@@ -2,6 +2,24 @@
   "teamName": "Leeds United",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-28",
+      "opponent": "Sunderland",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Crystal Palace",
       "isHome": true,
@@ -2892,11 +2910,11 @@
     }
   ],
   "stats": {
-    "played": 321,
+    "played": 323,
     "wins": 153,
-    "draws": 76,
+    "draws": 78,
     "losses": 92,
-    "goalsFor": 536,
-    "goalsAgainst": 390
+    "goalsFor": 537,
+    "goalsAgainst": 391
   }
 }

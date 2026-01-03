@@ -12,7 +12,8 @@
     "build-storybook": "storybook build",
     "test:visual": "playwright test",
     "test:visual:update": "playwright test --update-snapshots",
-    "download:teams": "node scripts/downloadTeamData.mjs"
+    "download:teams": "node scripts/downloadTeamData.mjs",
+    "add:lines": "node scripts/addLinesToFile.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",

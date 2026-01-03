@@ -2,6 +2,33 @@
   "teamName": "Wrexham",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Blackburn",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Preston",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-19",
       "opponent": "Swansea City",
       "isHome": false,
@@ -201,11 +228,11 @@
     }
   ],
   "stats": {
-    "played": 22,
-    "wins": 6,
+    "played": 25,
+    "wins": 9,
     "draws": 10,
     "losses": 6,
-    "goalsFor": 27,
-    "goalsAgainst": 27
+    "goalsFor": 36,
+    "goalsAgainst": 31
   }
 }

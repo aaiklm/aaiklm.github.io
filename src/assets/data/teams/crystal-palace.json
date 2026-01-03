@@ -2,6 +2,24 @@
   "teamName": "Crystal Palace",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Fulham",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-28",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Leeds United",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
+    "played": 209,
     "wins": 67,
-    "draws": 64,
-    "losses": 76,
-    "goalsFor": 260,
-    "goalsAgainst": 289
+    "draws": 65,
+    "losses": 77,
+    "goalsFor": 261,
+    "goalsAgainst": 291
   }
 }

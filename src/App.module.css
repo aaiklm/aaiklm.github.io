@@ -7,6 +7,43 @@
   width: calc(var(--design-width) * 1px);
   height: calc(var(--design-height) * 1px);
   overflow: hidden;
-  background-color: white;
+  background-color: #0a0c10;
   flex-shrink: 0;
+  position: relative;
+}
+
+.viewToggle {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 100;
+  display: flex;
+  gap: 4px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 4px;
+  border-radius: 8px;
+  backdrop-filter: blur(8px);
+}
+
+.viewButton {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.viewButton:hover {
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.viewButtonActive {
+  background: rgba(0, 212, 170, 0.2);
+  color: #00d4aa;
 }

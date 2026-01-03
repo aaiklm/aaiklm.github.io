@@ -2,6 +2,33 @@
   "teamName": "Oxford United",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Ipswich Town",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Charlton Ath",
       "isHome": false,
@@ -1029,11 +1056,11 @@
     }
   ],
   "stats": {
-    "played": 114,
-    "wins": 30,
+    "played": 117,
+    "wins": 31,
     "draws": 35,
-    "losses": 49,
-    "goalsFor": 120,
-    "goalsAgainst": 161
+    "losses": 51,
+    "goalsFor": 123,
+    "goalsAgainst": 165
   }
 }

@@ -1,0 +1,388 @@
+.wrapper {
+  height: 100%;
+  background: linear-gradient(165deg, #0d0f14 0%, #1a1d26 50%, #0d0f14 100%);
+  padding: 28px 32px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  overflow-y: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.title {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #f0f0f0;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.fileControls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.filenameForm {
+  display: flex;
+  gap: 8px;
+}
+
+.filenameInput {
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #fff;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  width: 180px;
+}
+
+.filenameInput::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.filenameInput:focus {
+  outline: none;
+  border-color: rgba(100, 180, 255, 0.5);
+}
+
+.loadButton {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: rgba(100, 180, 255, 0.2);
+  border: 1px solid rgba(100, 180, 255, 0.4);
+  color: #64b4ff;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.loadButton:hover {
+  background: rgba(100, 180, 255, 0.3);
+  border-color: rgba(100, 180, 255, 0.6);
+}
+
+.orDivider {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.fileSelect {
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #fff;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  min-width: 180px;
+}
+
+.fileSelect:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.fileSelect option {
+  background: #1a1d26;
+  color: #fff;
+}
+
+.emptyState {
+  text-align: center;
+  padding: 60px 20px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.emptyState h2 {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 20px;
+  margin-bottom: 12px;
+  color: #fff;
+}
+
+.emptyState code {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 12px 20px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 8px;
+  font-family: monospace;
+  color: #00d4aa;
+}
+
+.mainContent {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 32px;
+  flex: 1;
+  min-height: 0;
+}
+
+.sectionTitle {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.subTitle {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.4);
+  margin: 0 0 12px 0;
+}
+
+/* Grid Section */
+.gridSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.gridRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.cell {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  padding: 16px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.cell:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.cellCorrect {
+  background: linear-gradient(135deg, rgba(0, 212, 170, 0.15), rgba(0, 180, 140, 0.08));
+  border-color: rgba(0, 212, 170, 0.5);
+}
+
+.cellCorrect:hover {
+  border-color: rgba(0, 212, 170, 0.8);
+}
+
+.cellWrong {
+  background: linear-gradient(135deg, rgba(255, 75, 85, 0.12), rgba(200, 50, 60, 0.06));
+  border-color: rgba(255, 75, 85, 0.4);
+}
+
+.cellWrong:hover {
+  border-color: rgba(255, 75, 85, 0.7);
+}
+
+.cellPosition {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.3);
+  font-family: monospace;
+}
+
+.cellMatch {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.homeTeam,
+.awayTeam {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
+.vs {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.3);
+  text-transform: uppercase;
+}
+
+.cellPick {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.6);
+  padding-top: 4px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.cellPick strong {
+  color: #64b4ff;
+}
+
+.cellActual {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.cellActual strong {
+  color: #ffa726;
+}
+
+.cellStatus {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 4px;
+}
+
+.hint {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  margin-top: 12px;
+  font-style: italic;
+}
+
+/* Results Section */
+.resultsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.statCard {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  text-align: center;
+}
+
+.statLarge {
+  grid-column: span 2;
+}
+
+.statLabel {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+.statValue {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.statPositive {
+  background: rgba(0, 212, 170, 0.1);
+  border-color: rgba(0, 212, 170, 0.3);
+}
+
+.statPositive .statValue {
+  color: #00d4aa;
+}
+
+.statNegative {
+  background: rgba(255, 95, 109, 0.1);
+  border-color: rgba(255, 95, 109, 0.3);
+}
+
+.statNegative .statValue {
+  color: #ff5f6d;
+}
+
+/* Payout Reference */
+.payoutReference {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.payoutGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.payoutItem {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.5);
+  display: flex;
+  justify-content: space-between;
+}
+
+.payoutItem strong {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Lines Section */
+.linesSection {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.linesList {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.lineItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: rgba(0, 212, 170, 0.08);
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.linePath {
+  font-family: monospace;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.linePayout {
+  font-weight: 600;
+  color: #00d4aa;
+}
+

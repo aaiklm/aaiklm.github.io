@@ -1,21 +1,68 @@
 {
   "result": "0100211120220",
-  "penge": { "10": 83, "11": 296, "12": 5116, "13": 50000 },
-  "fav": [0, 1],
+  "penge": {
+    "10": 83,
+    "11": 296,
+    "12": 5116,
+    "13": 50000
+  },
+  "fav": [
+    0,
+    1
+  ],
   "teams": [
-    { "1": "Manchester United", "2": "Wolverhampton" },
-    { "1": "Chelsea", "2": "Nottingham Forest" },
-    { "1": "Aston Villa", "2": "Tottenham" },
-    { "1": "Crystal Palace", "2": "Bournemouth" },
-    { "1": "Southampton", "2": "Fulham" },
-    { "1": "Bolton", "2": "Barnsley" },
-    { "1": "Aberdeen", "2": "Hibernian" },
-    { "1": "St. Mirren", "2": "Hearts" },
-    { "1": "Dundee U", "2": "Ross County" },
-    { "1": "Kilmarnock", "2": "Livingston" },
-    { "1": "St.Johnstone", "2": "Motherwell" },
-    { "1": "Falkirk", "2": "Airdrieonians" },
-    { "1": "Hamilton", "2": "Alloa Athletic" }
+    {
+      "1": "Manchester United",
+      "2": "Wolverhampton"
+    },
+    {
+      "1": "Chelsea",
+      "2": "Nottingham Forest"
+    },
+    {
+      "1": "Aston Villa",
+      "2": "Tottenham"
+    },
+    {
+      "1": "Crystal Palace",
+      "2": "Bournemouth"
+    },
+    {
+      "1": "Southampton",
+      "2": "Fulham"
+    },
+    {
+      "1": "Bolton",
+      "2": "Barnsley"
+    },
+    {
+      "1": "Aberdeen",
+      "2": "Hibernian"
+    },
+    {
+      "1": "St. Mirren",
+      "2": "Hearts"
+    },
+    {
+      "1": "Dundee U",
+      "2": "Ross County"
+    },
+    {
+      "1": "Kilmarnock",
+      "2": "Livingston"
+    },
+    {
+      "1": "St.Johnstone",
+      "2": "Motherwell"
+    },
+    {
+      "1": "Falkirk",
+      "2": "Airdrieonians"
+    },
+    {
+      "1": "Hamilton",
+      "2": "Alloa Athletic"
+    }
   ],
   "bets": [
     "0000001020012",
@@ -95,8 +142,259 @@
     "2202200210200"
   ],
   "odds": [
-    1.37, 5, 8.5, 1.5, 4.4, 6.5, 2.35, 3.6, 2.85, 1.77, 3.85, 4.4, 2.85, 3.35,
-    2.5, 2.35, 3.2, 3, 1.95, 3.5, 3.65, 2.65, 3.3, 2.55, 2.25, 3.3, 3.1, 1.92,
-    3.35, 3.95, 2.8, 2.9, 2.7, 2, 3.55, 3.25, 2.1, 3.5, 3.05
-  ]
+    1.37,
+    5,
+    8.5,
+    1.5,
+    4.4,
+    6.5,
+    2.35,
+    3.6,
+    2.85,
+    1.77,
+    3.85,
+    4.4,
+    2.85,
+    3.35,
+    2.5,
+    2.35,
+    3.2,
+    3,
+    1.95,
+    3.5,
+    3.65,
+    2.65,
+    3.3,
+    2.55,
+    2.25,
+    3.3,
+    3.1,
+    1.92,
+    3.35,
+    3.95,
+    2.8,
+    2.9,
+    2.7,
+    2,
+    3.55,
+    3.25,
+    2.1,
+    3.5,
+    3.05
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      1,
+      3,
+      9,
+      6,
+      11,
+      12,
+      8,
+      2
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Wolverhampton",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 1,
+        "homeTeam": "Chelsea",
+        "awayTeam": "Nottingham Forest",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 3,
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Bournemouth",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 9,
+        "homeTeam": "Kilmarnock",
+        "awayTeam": "Livingston",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 6,
+        "homeTeam": "Aberdeen",
+        "awayTeam": "Hibernian",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 11,
+        "homeTeam": "Falkirk",
+        "awayTeam": "Airdrieonians",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 12,
+        "homeTeam": "Hamilton",
+        "awayTeam": "Alloa Athletic",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 8,
+        "homeTeam": "Dundee U",
+        "awayTeam": "Ross County",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 2,
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Tottenham",
+        "pick": "1"
+      }
+    ]
+  }
 }

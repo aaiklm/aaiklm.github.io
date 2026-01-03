@@ -2,6 +2,33 @@
   "teamName": "QPR",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "West Brom",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Portsmouth",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Leicester City",
       "isHome": true,
@@ -4341,11 +4368,11 @@
     }
   ],
   "stats": {
-    "played": 482,
+    "played": 485,
     "wins": 170,
-    "draws": 116,
-    "losses": 196,
-    "goalsFor": 554,
-    "goalsAgainst": 646
+    "draws": 117,
+    "losses": 198,
+    "goalsFor": 557,
+    "goalsAgainst": 651
   }
 }

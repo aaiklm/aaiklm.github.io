@@ -2,6 +2,24 @@
   "teamName": "Aston Villa",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Arsenal",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Chelsea",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-21",
       "opponent": "Manchester United",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 97,
+    "played": 209,
+    "wins": 98,
     "draws": 40,
-    "losses": 70,
-    "goalsFor": 319,
-    "goalsAgainst": 276
+    "losses": 71,
+    "goalsFor": 322,
+    "goalsAgainst": 281
   }
 }

@@ -2,6 +2,33 @@
   "teamName": "Leicester City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Sheffield United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "QPR",
       "isHome": false,
@@ -2397,11 +2424,11 @@
     }
   ],
   "stats": {
-    "played": 266,
-    "wins": 119,
+    "played": 269,
+    "wins": 120,
     "draws": 45,
-    "losses": 102,
-    "goalsFor": 423,
-    "goalsAgainst": 370
+    "losses": 104,
+    "goalsFor": 427,
+    "goalsAgainst": 376
   }
 }

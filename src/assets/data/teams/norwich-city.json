@@ -2,6 +2,33 @@
   "teamName": "Norwich City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "QPR",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Watford",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Charlton Ath",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Preston",
       "isHome": false,
@@ -3891,11 +3918,11 @@
     }
   ],
   "stats": {
-    "played": 432,
-    "wins": 171,
+    "played": 435,
+    "wins": 173,
     "draws": 107,
-    "losses": 154,
-    "goalsFor": 612,
-    "goalsAgainst": 571
+    "losses": 155,
+    "goalsFor": 615,
+    "goalsAgainst": 573
   }
 }

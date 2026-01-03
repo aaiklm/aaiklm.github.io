@@ -2,6 +2,24 @@
   "teamName": "Fulham",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-22",
       "opponent": "Nottingham Forest",
       "isHome": true,
@@ -2352,11 +2370,11 @@
     }
   ],
   "stats": {
-    "played": 261,
-    "wins": 109,
-    "draws": 57,
+    "played": 263,
+    "wins": 110,
+    "draws": 58,
     "losses": 95,
-    "goalsFor": 427,
-    "goalsAgainst": 333
+    "goalsFor": 429,
+    "goalsAgainst": 334
   }
 }

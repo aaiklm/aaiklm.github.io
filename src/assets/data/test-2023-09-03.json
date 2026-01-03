@@ -1,6 +1,11 @@
 {
   "result": "0000100202122",
-  "penge": { "10": 0, "11": 0, "12": 21.5, "13": 713 },
+  "penge": {
+    "10": 0,
+    "11": 0,
+    "12": 21.5,
+    "13": 713
+  },
   "matches": [
     {
       "Arsenal": [
@@ -1901,26 +1906,104 @@
       ]
     }
   ],
-  "fav": [3, 0],
+  "fav": [
+    3,
+    0
+  ],
   "teams": [
-    { "1": "Arsenal", "2": "Manchester United" },
-    { "1": "Liverpool", "2": "Aston Villa" },
-    { "1": "Crystal Palace", "2": "Wolverhampton" },
-    { "1": "FC København", "2": "Viborg" },
-    { "1": "FC Midtjylland", "2": "AGF" },
-    { "1": "Brøndby", "2": "Randers" },
-    { "1": "Inter", "2": "Fiorentina" },
-    { "1": "Empoli", "2": "Juventus" },
-    { "1": "Atletico Madrid", "2": "Sevilla" },
-    { "1": "Osasuna", "2": "FC Barcelona" },
-    { "1": "Frankfurt", "2": "FC Köln" },
-    { "1": "Union Berlin", "2": "RB Leipzig" },
-    { "1": "Lyon", "2": "Paris SG" }
+    {
+      "1": "Arsenal",
+      "2": "Manchester United"
+    },
+    {
+      "1": "Liverpool",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "Crystal Palace",
+      "2": "Wolverhampton"
+    },
+    {
+      "1": "FC København",
+      "2": "Viborg"
+    },
+    {
+      "1": "FC Midtjylland",
+      "2": "AGF"
+    },
+    {
+      "1": "Brøndby",
+      "2": "Randers"
+    },
+    {
+      "1": "Inter",
+      "2": "Fiorentina"
+    },
+    {
+      "1": "Empoli",
+      "2": "Juventus"
+    },
+    {
+      "1": "Atletico Madrid",
+      "2": "Sevilla"
+    },
+    {
+      "1": "Osasuna",
+      "2": "FC Barcelona"
+    },
+    {
+      "1": "Frankfurt",
+      "2": "FC Köln"
+    },
+    {
+      "1": "Union Berlin",
+      "2": "RB Leipzig"
+    },
+    {
+      "1": "Lyon",
+      "2": "Paris SG"
+    }
   ],
   "odds": [
-    1.8, 3.9, 4.2, 1.6, 4.6, 4.8, 1.92, 3.45, 4.2, 1.55, 4.3, 5.7, 2.6, 3.25,
-    2.8, 1.62, 4, 5.4, 1.72, 3.9, 4.5, 5.2, 3.9, 1.65, 1.52, 4.3, 6.2, 5.5, 4.2,
-    1.58, 2.2, 3.35, 3.25, 3.4, 3.55, 2.05, 5.1, 4.3, 1.58
+    1.8,
+    3.9,
+    4.2,
+    1.6,
+    4.6,
+    4.8,
+    1.92,
+    3.45,
+    4.2,
+    1.55,
+    4.3,
+    5.7,
+    2.6,
+    3.25,
+    2.8,
+    1.62,
+    4,
+    5.4,
+    1.72,
+    3.9,
+    4.5,
+    5.2,
+    3.9,
+    1.65,
+    1.52,
+    4.3,
+    6.2,
+    5.5,
+    4.2,
+    1.58,
+    2.2,
+    3.35,
+    3.25,
+    3.4,
+    3.55,
+    2.05,
+    5.1,
+    4.3,
+    1.58
   ],
   "bets": [
     "0000000022022",
@@ -2073,5 +2156,220 @@
     "2200000202002",
     "2200002202000",
     "2200200002002"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      8,
+      3,
+      9,
+      12,
+      1,
+      5,
+      7,
+      6,
+      0
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 8,
+        "homeTeam": "Atletico Madrid",
+        "awayTeam": "Sevilla",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 3,
+        "homeTeam": "FC København",
+        "awayTeam": "Viborg",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 9,
+        "homeTeam": "Osasuna",
+        "awayTeam": "FC Barcelona",
+        "pick": "2"
+      },
+      {
+        "position": 3,
+        "matchIndex": 12,
+        "homeTeam": "Lyon",
+        "awayTeam": "Paris SG",
+        "pick": "2"
+      },
+      {
+        "position": 4,
+        "matchIndex": 1,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Aston Villa",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 5,
+        "homeTeam": "Brøndby",
+        "awayTeam": "Randers",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 7,
+        "homeTeam": "Empoli",
+        "awayTeam": "Juventus",
+        "pick": "2"
+      },
+      {
+        "position": 7,
+        "matchIndex": 6,
+        "homeTeam": "Inter",
+        "awayTeam": "Fiorentina",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 0,
+        "homeTeam": "Arsenal",
+        "awayTeam": "Manchester United",
+        "pick": "1"
+      }
+    ]
+  }
 }

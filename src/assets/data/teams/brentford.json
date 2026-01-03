@@ -2,6 +2,24 @@
   "teamName": "Brentford",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Tottenham",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Bournemouth",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Wolves",
       "isHome": false,
@@ -2406,11 +2424,11 @@
     }
   ],
   "stats": {
-    "played": 267,
-    "wins": 113,
-    "draws": 70,
+    "played": 269,
+    "wins": 114,
+    "draws": 71,
     "losses": 84,
-    "goalsFor": 420,
-    "goalsAgainst": 337
+    "goalsFor": 424,
+    "goalsAgainst": 338
   }
 }

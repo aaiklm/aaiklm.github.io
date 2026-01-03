@@ -2,6 +2,33 @@
   "teamName": "Middlesbrough",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Bristol City",
       "isHome": false,
@@ -4377,11 +4404,11 @@
     }
   ],
   "stats": {
-    "played": 486,
+    "played": 489,
     "wins": 208,
-    "draws": 104,
-    "losses": 174,
+    "draws": 105,
+    "losses": 176,
     "goalsFor": 699,
-    "goalsAgainst": 580
+    "goalsAgainst": 582
   }
 }

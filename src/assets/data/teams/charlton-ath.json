@@ -2,6 +2,33 @@
   "teamName": "Charlton Ath",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Coventry City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Portsmouth",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Norwich City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Oxford United",
       "isHome": true,
@@ -201,11 +228,11 @@
     }
   ],
   "stats": {
-    "played": 22,
+    "played": 25,
     "wins": 7,
-    "draws": 7,
-    "losses": 8,
-    "goalsFor": 21,
-    "goalsAgainst": 26
+    "draws": 8,
+    "losses": 10,
+    "goalsFor": 23,
+    "goalsAgainst": 30
   }
 }

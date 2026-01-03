@@ -2,6 +2,33 @@
   "teamName": "Birmingham City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Watford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Southampton",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Sheffield United",
       "isHome": false,
@@ -3513,11 +3540,11 @@
     }
   ],
   "stats": {
-    "played": 390,
+    "played": 393,
     "wins": 110,
-    "draws": 103,
-    "losses": 177,
-    "goalsFor": 398,
-    "goalsAgainst": 547
+    "draws": 105,
+    "losses": 178,
+    "goalsFor": 400,
+    "goalsAgainst": 552
   }
 }

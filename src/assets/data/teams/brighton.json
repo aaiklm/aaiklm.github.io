@@ -2,6 +2,24 @@
   "teamName": "Brighton",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "West Ham",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Arsenal",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Sunderland",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
+    "played": 209,
     "wins": 73,
-    "draws": 68,
-    "losses": 66,
-    "goalsFor": 300,
-    "goalsAgainst": 287
+    "draws": 69,
+    "losses": 67,
+    "goalsFor": 303,
+    "goalsAgainst": 291
   }
 }

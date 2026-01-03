@@ -1,3 +1,50 @@
+# Game - Betting Strategy Tool
+
+## Scripts
+
+### Add Lines to Data File
+
+Adds 27 betting lines (3 bets each) to a data file using the ultraConservativeStrategy.
+
+```bash
+npm run add:lines -- <filename>
+```
+
+**Example:**
+```bash
+npm run add:lines -- 2025-08-23
+```
+
+This will:
+1. Read the data file from `src/assets/data/<filename>.json`
+2. Calculate probabilities from odds
+3. Select the best 9 matches (by confidence) for the 3×3 grid
+4. Pick favorites using ultra conservative strategy (heavy home bias, almost never draw)
+5. Generate 27 lines (col1→col2→col3 paths)
+6. Add `lines` and `grid` to the file
+
+**Grid Layout:**
+```
+  Col1    Col2    Col3
+   0       1       2     Row 0
+   3       4       5     Row 1
+   6       7       8     Row 2
+```
+
+Each line connects one cell from each column = 3×3×3 = **27 lines**.
+
+### Other Scripts
+
+| Script | Description |
+|--------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build for production |
+| `npm run storybook` | Run Storybook |
+| `npm run test:visual` | Run visual regression tests |
+| `npm run download:teams` | Download team data |
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

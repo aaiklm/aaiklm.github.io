@@ -2,6 +2,24 @@
   "teamName": "Liverpool",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Leeds United",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Wolves",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Tottenham",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 125,
-    "draws": 48,
+    "played": 209,
+    "wins": 126,
+    "draws": 49,
     "losses": 34,
-    "goalsFor": 437,
-    "goalsAgainst": 222
+    "goalsFor": 439,
+    "goalsAgainst": 223
   }
 }

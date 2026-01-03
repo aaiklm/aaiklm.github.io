@@ -2,6 +2,33 @@
   "teamName": "Sheffield United",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Wrexham",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 5,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Birmingham City",
       "isHome": true,
@@ -3441,11 +3468,11 @@
     }
   ],
   "stats": {
-    "played": 382,
-    "wins": 176,
+    "played": 385,
+    "wins": 178,
     "draws": 65,
-    "losses": 141,
-    "goalsFor": 497,
-    "goalsAgainst": 446
+    "losses": 142,
+    "goalsFor": 505,
+    "goalsAgainst": 453
   }
 }

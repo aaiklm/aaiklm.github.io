@@ -2,6 +2,24 @@
   "teamName": "Manchester City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Sunderland",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Nottingham Forest",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "West Ham",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 145,
-    "draws": 32,
+    "played": 209,
+    "wins": 146,
+    "draws": 33,
     "losses": 30,
-    "goalsFor": 485,
-    "goalsAgainst": 185
+    "goalsFor": 487,
+    "goalsAgainst": 186
   }
 }

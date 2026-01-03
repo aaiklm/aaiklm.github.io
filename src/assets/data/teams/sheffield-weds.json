@@ -2,6 +2,33 @@
   "teamName": "Sheffield Weds",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Preston",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Blackburn",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Ipswich Town",
       "isHome": false,
@@ -2676,11 +2703,11 @@
     }
   ],
   "stats": {
-    "played": 297,
+    "played": 300,
     "wins": 85,
-    "draws": 70,
-    "losses": 142,
-    "goalsFor": 304,
-    "goalsAgainst": 439
+    "draws": 72,
+    "losses": 143,
+    "goalsFor": 306,
+    "goalsAgainst": 444
   }
 }

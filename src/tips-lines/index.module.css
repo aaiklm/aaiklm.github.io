@@ -1,0 +1,402 @@
+.wrapper {
+  height: 100%;
+  background: linear-gradient(165deg, #0d0f14 0%, #1a1d26 50%, #0d0f14 100%);
+  padding: 28px 32px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow-y: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.title {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: #f0f0f0;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.headerStats {
+  display: flex;
+  gap: 16px;
+}
+
+.headerStat {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: monospace;
+}
+
+/* Section Titles */
+.sectionTitle {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Comparison Table */
+.comparisonSection {
+  flex-shrink: 0;
+}
+
+.comparisonTable {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  overflow: hidden;
+}
+
+.tableHeader {
+  display: grid;
+  grid-template-columns: 1.5fr repeat(7, 1fr);
+  gap: 8px;
+  padding: 12px 16px;
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tableHeader .tableCell {
+  font-size: 11px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tableRow {
+  display: grid;
+  grid-template-columns: 1.5fr repeat(7, 1fr);
+  gap: 8px;
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  transition: background 0.15s ease;
+}
+
+.tableRow:last-child {
+  border-bottom: none;
+}
+
+.tableRow:hover {
+  background: rgba(255, 255, 255, 0.03);
+  cursor: pointer;
+}
+
+.tableRowBest {
+  background: rgba(0, 212, 170, 0.08);
+}
+
+.tableRowBest:hover {
+  background: rgba(0, 212, 170, 0.12);
+}
+
+.tableRowSelected {
+  outline: 2px solid rgba(100, 180, 255, 0.6);
+  outline-offset: -2px;
+}
+
+.tableRowBest.tableRowSelected {
+  outline-color: rgba(0, 212, 170, 0.8);
+}
+
+.tableCell {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: "Archivo Narrow", sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.strategyName {
+  font-weight: 500;
+}
+
+.bestBadge {
+  font-size: 9px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: rgba(0, 212, 170, 0.25);
+  color: #00d4aa;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.selectedBadge {
+  font-size: 9px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: rgba(100, 180, 255, 0.2);
+  color: #64b4ff;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.positive {
+  color: #00d4aa;
+}
+
+.negative {
+  color: #ff5f6d;
+}
+
+/* Charts Grid */
+.chartsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+.chartCard {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.chartTitle {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chartSubtitle {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.barChart {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 100px;
+}
+
+.barGroup {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+}
+
+.barWrapper {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+}
+
+.bar {
+  width: 100%;
+  max-width: 24px;
+  background: linear-gradient(to top, rgba(100, 120, 150, 0.4), rgba(100, 120, 150, 0.6));
+  border-radius: 3px 3px 0 0;
+  min-height: 2px;
+  transition: all 0.3s ease;
+}
+
+.barHighlight {
+  background: linear-gradient(to top, rgba(0, 212, 170, 0.5), rgba(0, 212, 170, 0.8));
+}
+
+.barLabel {
+  font-size: 9px;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: monospace;
+}
+
+.barValue {
+  font-size: 8px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: monospace;
+  position: absolute;
+  top: -14px;
+  white-space: nowrap;
+}
+
+.chartFooter {
+  margin-top: 8px;
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+}
+
+/* Summary Section */
+.summarySection {
+  flex-shrink: 0;
+}
+
+.insightsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.insightCard {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  text-align: center;
+}
+
+.insightLabel {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+
+.insightValue {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.insightDetail {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Breakdown Section */
+.breakdownSection {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.breakdownList {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.breakdownItem {
+  display: grid;
+  grid-template-columns: 100px 80px 80px 100px 80px 100px;
+  gap: 12px;
+  padding: 8px 12px;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+  font-size: 12px;
+  align-items: center;
+}
+
+.breakdownItem:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.breakdownDate {
+  color: rgba(255, 255, 255, 0.7);
+  font-family: monospace;
+}
+
+.breakdownBets,
+.breakdownCost,
+.breakdownWinnings,
+.breakdownLines,
+.breakdownMaxPossible {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.breakdownProfit {
+  font-weight: 600;
+  font-family: "Archivo Narrow", sans-serif;
+}
+
+/* Strategy Selector - kept for potential future use */
+.strategySelector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.strategyButton {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-family: "Archivo Narrow", sans-serif;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.strategyButton:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.strategyButtonActive {
+  background: rgba(0, 212, 170, 0.15);
+  color: #00d4aa;
+  border-color: rgba(0, 212, 170, 0.4);
+}
+
+/* Grid styles - kept for potential future grid visualization */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  aspect-ratio: 1;
+}
+
+.cell {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.cellFree {
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.15), rgba(255, 165, 0, 0.08));
+  border-color: rgba(255, 215, 0, 0.3);
+}
+
+.cellCorrect {
+  background: linear-gradient(135deg, rgba(0, 212, 170, 0.2), rgba(0, 180, 140, 0.1));
+  border-color: rgba(0, 212, 170, 0.5);
+}
+
+.cellWrong {
+  background: linear-gradient(135deg, rgba(255, 75, 85, 0.15), rgba(200, 50, 60, 0.08));
+  border-color: rgba(255, 75, 85, 0.3);
+}

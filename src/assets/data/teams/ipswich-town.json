@@ -2,6 +2,33 @@
   "teamName": "Ipswich Town",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Oxford United",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Coventry City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Sheffield Weds",
       "isHome": true,
@@ -1371,11 +1398,11 @@
     }
   ],
   "stats": {
-    "played": 152,
-    "wins": 70,
-    "draws": 41,
+    "played": 155,
+    "wins": 72,
+    "draws": 42,
     "losses": 41,
-    "goalsFor": 258,
-    "goalsAgainst": 219
+    "goalsFor": 262,
+    "goalsAgainst": 220
   }
 }

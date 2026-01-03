@@ -2,6 +2,33 @@
   "teamName": "Portsmouth",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Charlton Ath",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "QPR",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Derby County",
       "isHome": false,
@@ -1029,11 +1056,11 @@
     }
   ],
   "stats": {
-    "played": 114,
-    "wins": 33,
-    "draws": 31,
-    "losses": 50,
-    "goalsFor": 134,
-    "goalsAgainst": 170
+    "played": 117,
+    "wins": 34,
+    "draws": 32,
+    "losses": 51,
+    "goalsFor": 137,
+    "goalsAgainst": 177
   }
 }

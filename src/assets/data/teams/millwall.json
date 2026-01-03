@@ -2,6 +2,33 @@
   "teamName": "Millwall",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Southampton",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Bristol City",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Ipswich Town",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Blackburn",
       "isHome": false,
@@ -4341,11 +4368,11 @@
     }
   ],
   "stats": {
-    "played": 482,
-    "wins": 182,
-    "draws": 137,
+    "played": 485,
+    "wins": 183,
+    "draws": 139,
     "losses": 163,
-    "goalsFor": 523,
-    "goalsAgainst": 533
+    "goalsFor": 525,
+    "goalsAgainst": 534
   }
 }

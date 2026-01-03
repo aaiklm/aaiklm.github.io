@@ -2,6 +2,24 @@
   "teamName": "Burnley",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Newcastle United",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Everton",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Bournemouth",
       "isHome": false,
@@ -2838,11 +2856,11 @@
     }
   ],
   "stats": {
-    "played": 315,
+    "played": 317,
     "wins": 139,
-    "draws": 94,
-    "losses": 82,
-    "goalsFor": 439,
-    "goalsAgainst": 322
+    "draws": 95,
+    "losses": 83,
+    "goalsFor": 440,
+    "goalsAgainst": 325
   }
 }

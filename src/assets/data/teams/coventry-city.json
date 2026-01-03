@@ -2,6 +2,33 @@
   "teamName": "Coventry City",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Charlton Ath",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-29",
+      "opponent": "Ipswich Town",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-26",
+      "opponent": "Swansea City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Southampton",
       "isHome": false,
@@ -4413,11 +4440,11 @@
     }
   ],
   "stats": {
-    "played": 490,
-    "wins": 188,
-    "draws": 138,
-    "losses": 164,
-    "goalsFor": 661,
-    "goalsAgainst": 595
+    "played": 493,
+    "wins": 189,
+    "draws": 139,
+    "losses": 165,
+    "goalsFor": 663,
+    "goalsAgainst": 598
   }
 }

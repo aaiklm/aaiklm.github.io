@@ -1,21 +1,68 @@
 {
   "result": "0002022020000",
-  "penge": { "10": 0, "11": 0, "12": 74, "13": 2599 },
-  "fav": [1, 0],
+  "penge": {
+    "10": 0,
+    "11": 0,
+    "12": 74,
+    "13": 2599
+  },
+  "fav": [
+    1,
+    0
+  ],
   "teams": [
-    { "1": "Liverpool", "2": "Brentford" },
-    { "1": "Manchester City", "2": "Leeds" },
-    { "1": "Tottenham", "2": "Crystal Palace" },
-    { "1": "Bournemouth", "2": "Chelsea" },
-    { "1": "Wolverhampton", "2": "Aston Villa" },
-    { "1": "Roma", "2": "Inter" },
-    { "1": "Werder Bremen", "2": "Bayern München" },
-    { "1": "Nice", "2": "Rennes" },
-    { "1": "Club Brugge", "2": "Union St Gilloise" },
-    { "1": "Hibernian", "2": "St. Mirren" },
-    { "1": "Motherwell", "2": "Kilmarnock" },
-    { "1": "Ross County", "2": "Livingston" },
-    { "1": "St.Johnstone", "2": "Dundee U" }
+    {
+      "1": "Liverpool",
+      "2": "Brentford"
+    },
+    {
+      "1": "Manchester City",
+      "2": "Leeds"
+    },
+    {
+      "1": "Tottenham",
+      "2": "Crystal Palace"
+    },
+    {
+      "1": "Bournemouth",
+      "2": "Chelsea"
+    },
+    {
+      "1": "Wolverhampton",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "Roma",
+      "2": "Inter"
+    },
+    {
+      "1": "Werder Bremen",
+      "2": "Bayern München"
+    },
+    {
+      "1": "Nice",
+      "2": "Rennes"
+    },
+    {
+      "1": "Club Brugge",
+      "2": "Union St Gilloise"
+    },
+    {
+      "1": "Hibernian",
+      "2": "St. Mirren"
+    },
+    {
+      "1": "Motherwell",
+      "2": "Kilmarnock"
+    },
+    {
+      "1": "Ross County",
+      "2": "Livingston"
+    },
+    {
+      "1": "St.Johnstone",
+      "2": "Dundee U"
+    }
   ],
   "bets": [
     "0000022010000",
@@ -95,8 +142,259 @@
     "2021222220201"
   ],
   "odds": [
-    1.47, 4.9, 6.1, 1.15, 8.35, 18, 1.85, 3.9, 4, 3.4, 3.45, 2.15, 3.1, 3.3,
-    2.35, 3, 3.05, 2.5, 9, 6, 1.28, 2.4, 3.5, 2.8, 2.15, 3.5, 3.05, 1.92, 3.4,
-    3.9, 2, 3.45, 3.55, 2.4, 3.2, 2.9, 2.35, 3.2, 3
-  ]
+    1.47,
+    4.9,
+    6.1,
+    1.15,
+    8.35,
+    18,
+    1.85,
+    3.9,
+    4,
+    3.4,
+    3.45,
+    2.15,
+    3.1,
+    3.3,
+    2.35,
+    3,
+    3.05,
+    2.5,
+    9,
+    6,
+    1.28,
+    2.4,
+    3.5,
+    2.8,
+    2.15,
+    3.5,
+    3.05,
+    1.92,
+    3.4,
+    3.9,
+    2,
+    3.45,
+    3.55,
+    2.4,
+    3.2,
+    2.9,
+    2.35,
+    3.2,
+    3
+  ],
+  "lines": [
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      1,
+      6,
+      0,
+      2,
+      9,
+      10,
+      3,
+      8,
+      4
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 1,
+        "homeTeam": "Manchester City",
+        "awayTeam": "Leeds",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 6,
+        "homeTeam": "Werder Bremen",
+        "awayTeam": "Bayern München",
+        "pick": "2"
+      },
+      {
+        "position": 2,
+        "matchIndex": 0,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Brentford",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 2,
+        "homeTeam": "Tottenham",
+        "awayTeam": "Crystal Palace",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 9,
+        "homeTeam": "Hibernian",
+        "awayTeam": "St. Mirren",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 10,
+        "homeTeam": "Motherwell",
+        "awayTeam": "Kilmarnock",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 3,
+        "homeTeam": "Bournemouth",
+        "awayTeam": "Chelsea",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 8,
+        "homeTeam": "Club Brugge",
+        "awayTeam": "Union St Gilloise",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 4,
+        "homeTeam": "Wolverhampton",
+        "awayTeam": "Aston Villa",
+        "pick": "1"
+      }
+    ]
+  }
 }

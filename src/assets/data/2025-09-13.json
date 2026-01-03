@@ -1,1 +1,23 @@
-{"teams":[{"1":"Bournemouth","2":"Brighton"},{"1":"Crystal Palace","2":"Sunderland"},{"1":"Everton","2":"Aston Villa"},{"1":"Fulham","2":"Leeds"},{"1":"Newcastle","2":"Wolverhampton"},{"1":"West Ham","2":"Tottenham"},{"1":"Coventry","2":"Norwich"},{"1":"Sheffield W","2":"Bristol C"},{"1":"Stoke","2":"Birmingham"},{"1":"Swansea","2":"Hull"},{"1":"Watford","2":"Blackburn"},{"1":"West Bromwich","2":"Derby"},{"1":"Wrexham","2":"Queens Park R"}],"odds":[2.39,3.5,2.85,1.73,3.6,5.25,2.6,3.2,2.85,2.03,3.4,3.75,1.4,5,7.75,3.3,3.5,2.14,1.77,4,4.25,3.65,3.65,1.98,3,3.25,2.5,1.83,3.5,4.5,2.4,3.25,3,1.78,3.5,5,1.98,3.5,3.85],"matches":[]}
+{
+  "teams": [
+    { "1": "Bournemouth", "2": "Brighton" },
+    { "1": "Crystal Palace", "2": "Sunderland" },
+    { "1": "Everton", "2": "Aston Villa" },
+    { "1": "Fulham", "2": "Leeds" },
+    { "1": "Newcastle", "2": "Wolverhampton" },
+    { "1": "West Ham", "2": "Tottenham" },
+    { "1": "Coventry", "2": "Norwich" },
+    { "1": "Sheffield W", "2": "Bristol C" },
+    { "1": "Stoke", "2": "Birmingham" },
+    { "1": "Swansea", "2": "Hull" },
+    { "1": "Watford", "2": "Blackburn" },
+    { "1": "West Bromwich", "2": "Derby" },
+    { "1": "Wrexham", "2": "Queens Park R" }
+  ],
+  "odds": [
+    2.39, 3.5, 2.85, 1.73, 3.6, 5.25, 2.6, 3.2, 2.85, 2.03, 3.4, 3.75, 1.4, 5,
+    7.75, 3.3, 3.5, 2.14, 1.77, 4, 4.25, 3.65, 3.65, 1.98, 3, 3.25, 2.5, 1.83,
+    3.5, 4.5, 2.4, 3.25, 3, 1.78, 3.5, 5, 1.98, 3.5, 3.85
+  ],
+  "matches": []
+}

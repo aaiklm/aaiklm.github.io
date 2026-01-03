@@ -2,6 +2,24 @@
   "teamName": "Tottenham",
   "matches": [
     {
+      "date": "2026-01-01",
+      "opponent": "Brentford",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-28",
+      "opponent": "Crystal Palace",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Liverpool",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 95,
-    "draws": 34,
+    "played": 209,
+    "wins": 96,
+    "draws": 35,
     "losses": 78,
-    "goalsFor": 371,
+    "goalsFor": 372,
     "goalsAgainst": 297
   }
 }

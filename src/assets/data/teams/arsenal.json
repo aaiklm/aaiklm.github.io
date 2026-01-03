@@ -2,6 +2,24 @@
   "teamName": "Arsenal",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Aston Villa",
+      "isHome": true,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Brighton",
+      "isHome": true,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Everton",
       "isHome": false,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
-    "wins": 126,
+    "played": 209,
+    "wins": 128,
     "draws": 38,
     "losses": 43,
-    "goalsFor": 395,
-    "goalsAgainst": 203
+    "goalsFor": 401,
+    "goalsAgainst": 205
   }
 }

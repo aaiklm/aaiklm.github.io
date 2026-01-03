@@ -2,6 +2,24 @@
   "teamName": "Wolves",
   "matches": [
     {
+      "date": "2025-12-30",
+      "opponent": "Manchester United",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Premier League"
+    },
+    {
+      "date": "2025-12-27",
+      "opponent": "Liverpool",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Premier League"
+    },
+    {
       "date": "2025-12-20",
       "opponent": "Brentford",
       "isHome": true,
@@ -1866,11 +1884,11 @@
     }
   ],
   "stats": {
-    "played": 207,
+    "played": 209,
     "wins": 63,
-    "draws": 38,
-    "losses": 106,
-    "goalsFor": 218,
-    "goalsAgainst": 324
+    "draws": 39,
+    "losses": 107,
+    "goalsFor": 220,
+    "goalsAgainst": 327
   }
 }
