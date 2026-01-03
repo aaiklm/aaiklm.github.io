@@ -1,100 +1,78 @@
 {
   "teams": [
     {
-      "1": "Tottenham",
-      "2": "Chelsea"
+      "1": "Aston Villa",
+      "2": "Nottingham Forest"
     },
     {
       "1": "Brighton",
-      "2": "Leeds"
+      "2": "Burnley"
     },
     {
-      "1": "Burnley",
+      "1": "Wolverhampton",
+      "2": "West Ham"
+    },
+    {
+      "1": "Bournemouth",
       "2": "Arsenal"
     },
     {
-      "1": "Crystal Palace",
-      "2": "Brentford"
-    },
-    {
-      "1": "Fulham",
-      "2": "Wolverhampton"
-    },
-    {
-      "1": "Nottingham Forest",
+      "1": "Leeds",
       "2": "Manchester United"
     },
     {
-      "1": "Charlton",
-      "2": "Swansea"
+      "1": "Fullham",
+      "2": "Liverpool"
     },
     {
-      "1": "Oxford",
-      "2": "Millwall"
+      "1": "Tottenham",
+      "2": "Sunderland"
     },
     {
-      "1": "Queens Park R",
-      "2": "Ipswich"
+      "1": "Everton",
+      "2": "Brentford"
     },
     {
-      "1": "Sheffield U",
-      "2": "Derby"
+      "1": "Newcastle",
+      "2": "Crystal Palace"
     },
     {
-      "1": "Southampton",
-      "2": "Preston"
-    },
-    {
-      "1": "Stoke",
-      "2": "Bristol C"
-    },
-    {
-      "1": "Watford",
-      "2": "Middlesbrough"
+      "1": "Manchester City",
+      "2": "Chelsea"
     }
   ],
   "odds": [
-    2.85,
-    3.45,
-    2.44,
-    1.99,
+    1.91,
     3.55,
-    3.7,
-    11,
-    5.75,
-    1.26,
-    2.05,
-    3.45,
-    3.6,
-    1.78,
-    3.65,
+    4,
+    1.46,
     4.5,
-    3.35,
-    3.65,
-    2.08,
-    2.15,
+    6.5,
+    2.55,
     3.25,
-    3.65,
-    2.6,
-    3.25,
-    2.75,
-    3.25,
-    3.5,
-    2.15,
-    1.8,
-    3.5,
-    4.75,
-    1.77,
-    3.75,
+    2.8,
+    6,
     4.5,
-    2.45,
-    3.25,
-    2.9,
-    2.5,
+    1.49,
+    2.55,
     3.4,
-    2.75
+    2.7,
+    3.5,
+    3.55,
+    2.05,
+    1.83,
+    3.55,
+    4.5,
+    2.34,
+    3.2,
+    3.2,
+    1.67,
+    3.95,
+    5,
+    1.64,
+    4.5,
+    4.5
   ],
-  "matches": [],
   "lines": [
     [
       "1",
@@ -187,125 +165,125 @@
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ],
     [
-      "2",
+      "1",
       "1",
       "1"
     ]
   ],
   "grid": {
     "selectedMatches": [
-      2,
-      10,
-      4,
-      9,
       1,
       3,
-      5,
+      9,
+      8,
       6,
-      8
+      0,
+      5,
+      7,
+      4
     ],
     "picks": [
       {
         "position": 0,
-        "matchIndex": 2,
-        "homeTeam": "Burnley",
-        "awayTeam": "Arsenal",
+        "matchIndex": 1,
+        "homeTeam": "Brighton",
+        "awayTeam": "Burnley",
         "pick": "1"
       },
       {
         "position": 1,
-        "matchIndex": 10,
-        "homeTeam": "Southampton",
-        "awayTeam": "Preston",
+        "matchIndex": 3,
+        "homeTeam": "Bournemouth",
+        "awayTeam": "Arsenal",
         "pick": "1"
       },
       {
         "position": 2,
-        "matchIndex": 4,
-        "homeTeam": "Fulham",
-        "awayTeam": "Wolverhampton",
+        "matchIndex": 9,
+        "homeTeam": "Manchester City",
+        "awayTeam": "Chelsea",
         "pick": "1"
       },
       {
         "position": 3,
-        "matchIndex": 9,
-        "homeTeam": "Sheffield U",
-        "awayTeam": "Derby",
+        "matchIndex": 8,
+        "homeTeam": "Newcastle",
+        "awayTeam": "Crystal Palace",
         "pick": "1"
       },
       {
         "position": 4,
-        "matchIndex": 1,
-        "homeTeam": "Brighton",
-        "awayTeam": "Leeds",
+        "matchIndex": 6,
+        "homeTeam": "Tottenham",
+        "awayTeam": "Sunderland",
         "pick": "1"
       },
       {
         "position": 5,
-        "matchIndex": 3,
-        "homeTeam": "Crystal Palace",
-        "awayTeam": "Brentford",
+        "matchIndex": 0,
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Nottingham Forest",
         "pick": "1"
       },
       {
         "position": 6,
         "matchIndex": 5,
-        "homeTeam": "Nottingham Forest",
-        "awayTeam": "Manchester United",
-        "pick": "2"
+        "homeTeam": "Fullham",
+        "awayTeam": "Liverpool",
+        "pick": "1"
       },
       {
         "position": 7,
-        "matchIndex": 6,
-        "homeTeam": "Charlton",
-        "awayTeam": "Swansea",
+        "matchIndex": 7,
+        "homeTeam": "Everton",
+        "awayTeam": "Brentford",
         "pick": "1"
       },
       {
         "position": 8,
-        "matchIndex": 8,
-        "homeTeam": "Queens Park R",
-        "awayTeam": "Ipswich",
+        "matchIndex": 4,
+        "homeTeam": "Leeds",
+        "awayTeam": "Manchester United",
         "pick": "1"
       }
     ],

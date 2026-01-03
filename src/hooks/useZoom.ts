@@ -1,6 +1,8 @@
 import * as React from "react";
 
-export function useZoom() {
+export type ZoomMode = "fit" | "width-only";
+
+export function useZoom(mode: ZoomMode = "fit") {
   const [zoom, setZoom] = React.useState(1);
 
   React.useEffect(() => {
@@ -12,13 +14,20 @@ export function useZoom() {
       );
       const scaleX = window.innerWidth / designWidth;
       const scaleY = window.innerHeight / designHeight;
-      setZoom(Math.min(scaleX, scaleY));
+
+      if (mode === "width-only") {
+        // Only scale by width - allows vertical scrolling
+        setZoom(scaleX);
+      } else {
+        // Fit mode - scale to fit both dimensions (no scroll)
+        setZoom(Math.min(scaleX, scaleY));
+      }
     };
 
     updateZoom();
     window.addEventListener("resize", updateZoom);
     return () => window.removeEventListener("resize", updateZoom);
-  }, []);
+  }, [mode]);
 
   return zoom;
 }

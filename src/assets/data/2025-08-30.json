@@ -99,11 +99,6 @@
     [
       "1",
       "1",
-      "2"
-    ],
-    [
-      "1",
-      "1",
       "1"
     ],
     [
@@ -124,66 +119,6 @@
     [
       "1",
       "1",
-      "1"
-    ],
-    [
-      "1",
-      "2",
-      "2"
-    ],
-    [
-      "1",
-      "2",
-      "1"
-    ],
-    [
-      "1",
-      "2",
-      "1"
-    ],
-    [
-      "2",
-      "1",
-      "2"
-    ],
-    [
-      "2",
-      "1",
-      "1"
-    ],
-    [
-      "2",
-      "1",
-      "1"
-    ],
-    [
-      "2",
-      "1",
-      "2"
-    ],
-    [
-      "2",
-      "1",
-      "1"
-    ],
-    [
-      "2",
-      "1",
-      "1"
-    ],
-    [
-      "2",
-      "2",
-      "2"
-    ],
-    [
-      "2",
-      "2",
-      "1"
-    ],
-    [
-      "2",
-      "2",
       "1"
     ],
     [
@@ -218,18 +153,83 @@
     ],
     [
       "1",
-      "2",
+      "1",
       "2"
     ],
     [
       "1",
-      "2",
+      "1",
       "1"
     ],
     [
       "1",
-      "2",
+      "1",
       "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
     ]
   ],
   "grid": {
@@ -264,14 +264,14 @@
         "matchIndex": 6,
         "homeTeam": "Sheffield W",
         "awayTeam": "Swansea",
-        "pick": "2"
+        "pick": "1"
       },
       {
         "position": 3,
         "matchIndex": 9,
         "homeTeam": "Blackpool",
         "awayTeam": "Bolton",
-        "pick": "2"
+        "pick": "1"
       },
       {
         "position": 4,
@@ -299,15 +299,28 @@
         "matchIndex": 7,
         "homeTeam": "Watford",
         "awayTeam": "Southampton",
-        "pick": "2"
+        "pick": "1"
       },
       {
         "position": 8,
         "matchIndex": 11,
         "homeTeam": "Reading",
         "awayTeam": "Port Vale",
-        "pick": "1"
+        "pick": "2"
       }
-    ]
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
   }
 }

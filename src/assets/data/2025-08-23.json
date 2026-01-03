@@ -308,6 +308,19 @@
         "awayTeam": "Middlesbrough",
         "pick": "1"
       }
-    ]
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
   }
 }

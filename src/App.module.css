@@ -3,34 +3,62 @@
   --design-height: 1080;
 }
 
+/* Fixed-size layout for desktop views (Tips, Lines, Grid) */
 .appRoot {
   width: calc(var(--design-width) * 1px);
-  height: calc(var(--design-height) * 1px);
-  overflow: hidden;
+  min-height: calc(var(--design-height) * 1px);
   background-color: #0a0c10;
   flex-shrink: 0;
   position: relative;
 }
 
+/* Responsive layout for Bet Game (mobile-friendly) */
+.appRootMobile {
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background-color: #0a0c10;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 .viewToggle {
-  position: absolute;
-  top: 16px;
-  right: 16px;
+  position: fixed;
+  top: 12px;
+  right: 12px;
   z-index: 100;
   display: flex;
   gap: 4px;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7);
   padding: 4px;
   border-radius: 8px;
   backdrop-filter: blur(8px);
 }
 
+/* Hide menu on mobile for bet-game (appRootMobile) */
+.appRootMobile .viewToggle {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .appRootMobile .viewToggle {
+    display: flex;
+  }
+}
+
+.appRoot .viewToggle {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
 .viewButton {
-  padding: 8px 16px;
+  padding: 8px 12px;
   border: none;
   border-radius: 6px;
   font-family: "Archivo Narrow", sans-serif;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
   background: transparent;
   color: rgba(255, 255, 255, 0.5);
@@ -46,4 +74,11 @@
 .viewButtonActive {
   background: rgba(0, 212, 170, 0.2);
   color: #00d4aa;
+}
+
+@media (min-width: 600px) {
+  .viewButton {
+    padding: 8px 16px;
+    font-size: 13px;
+  }
 }

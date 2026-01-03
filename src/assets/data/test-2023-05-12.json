@@ -1,21 +1,68 @@
 {
   "result": "0102000022002",
-  "penge": { "10": 0, "11": 0, "12": 108, "13": 16666 },
-  "fav": [2, 2],
+  "penge": {
+    "10": 0,
+    "11": 0,
+    "12": 108,
+    "13": 16666
+  },
+  "fav": [
+    2,
+    2
+  ],
   "teams": [
-    { "1": "FC Köln", "2": "Hertha Berlin" },
-    { "1": "Lazio", "2": "Lecce" },
-    { "1": "Mallorca", "2": "Cadiz" },
-    { "1": "Burgos", "2": "Leganes" },
-    { "1": "Lens", "2": "Reims" },
-    { "1": "Peterborough", "2": "Sheffield W" },
-    { "1": "Gil Vicente", "2": "Boavista FC" },
-    { "1": "Legia Warszawa", "2": "Jagiellonia Bialystok" },
-    { "1": "Queens Park FC", "2": "Partick Thistle" },
-    { "1": "Bohemians FC", "2": "Derry City" },
-    { "1": "Dundalk", "2": "Cork City" },
-    { "1": "St.Patricks", "2": "Drogheda United" },
-    { "1": "Univ. College Dublin", "2": "Shamrock Rovers" }
+    {
+      "1": "FC Köln",
+      "2": "Hertha Berlin"
+    },
+    {
+      "1": "Lazio",
+      "2": "Lecce"
+    },
+    {
+      "1": "Mallorca",
+      "2": "Cadiz"
+    },
+    {
+      "1": "Burgos",
+      "2": "Leganes"
+    },
+    {
+      "1": "Lens",
+      "2": "Reims"
+    },
+    {
+      "1": "Peterborough",
+      "2": "Sheffield W"
+    },
+    {
+      "1": "Gil Vicente",
+      "2": "Boavista FC"
+    },
+    {
+      "1": "Legia Warszawa",
+      "2": "Jagiellonia Bialystok"
+    },
+    {
+      "1": "Queens Park FC",
+      "2": "Partick Thistle"
+    },
+    {
+      "1": "Bohemians FC",
+      "2": "Derry City"
+    },
+    {
+      "1": "Dundalk",
+      "2": "Cork City"
+    },
+    {
+      "1": "St.Patricks",
+      "2": "Drogheda United"
+    },
+    {
+      "1": "Univ. College Dublin",
+      "2": "Shamrock Rovers"
+    }
   ],
   "bets": [
     "0000011202100",
@@ -120,8 +167,272 @@
     "2210111011222"
   ],
   "odds": [
-    1.85, 3.65, 4.1, 1.72, 3.45, 5.2, 2.2, 3, 3.8, 2.45, 2.85, 3.2, 1.52, 4.4,
-    5.7, 2.55, 3.25, 2.55, 2.25, 3.45, 2.95, 1.58, 4.2, 5.1, 2.9, 3.55, 2.15,
-    2.85, 2.95, 2.5, 2, 3.2, 3.6, 1.72, 3.55, 4.4, 19, 7.8, 1.11
-  ]
+    1.85,
+    3.65,
+    4.1,
+    1.72,
+    3.45,
+    5.2,
+    2.2,
+    3,
+    3.8,
+    2.45,
+    2.85,
+    3.2,
+    1.52,
+    4.4,
+    5.7,
+    2.55,
+    3.25,
+    2.55,
+    2.25,
+    3.45,
+    2.95,
+    1.58,
+    4.2,
+    5.1,
+    2.9,
+    3.55,
+    2.15,
+    2.85,
+    2.95,
+    2.5,
+    2,
+    3.2,
+    3.6,
+    1.72,
+    3.55,
+    4.4,
+    19,
+    7.8,
+    1.11
+  ],
+  "lines": [
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      12,
+      4,
+      7,
+      1,
+      11,
+      0,
+      10,
+      2,
+      8
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 12,
+        "homeTeam": "Univ. College Dublin",
+        "awayTeam": "Shamrock Rovers",
+        "pick": "2"
+      },
+      {
+        "position": 1,
+        "matchIndex": 4,
+        "homeTeam": "Lens",
+        "awayTeam": "Reims",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 7,
+        "homeTeam": "Legia Warszawa",
+        "awayTeam": "Jagiellonia Bialystok",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 1,
+        "homeTeam": "Lazio",
+        "awayTeam": "Lecce",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 11,
+        "homeTeam": "St.Patricks",
+        "awayTeam": "Drogheda United",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 0,
+        "homeTeam": "FC Köln",
+        "awayTeam": "Hertha Berlin",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 10,
+        "homeTeam": "Dundalk",
+        "awayTeam": "Cork City",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 2,
+        "homeTeam": "Mallorca",
+        "awayTeam": "Cadiz",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 8,
+        "homeTeam": "Queens Park FC",
+        "awayTeam": "Partick Thistle",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

@@ -1,26 +1,106 @@
 {
   "result": "0110110022022",
-  "penge": { "10": 27, "11": 76, "12": 1070, "13": 50000 },
+  "penge": {
+    "10": 27,
+    "11": 76,
+    "12": 1070,
+    "13": 50000
+  },
   "matches": [],
   "teams": [
-    { "1": "Arsenal", "2": "Brentford" },
-    { "1": "Bournemouth", "2": "Sheffield U" },
-    { "1": "Crystal Palace", "2": "Luton" },
-    { "1": "Wolverhampton", "2": "Fulham" },
-    { "1": "Blackburn", "2": "Plymouth" },
-    { "1": "Hull", "2": "Leicester" },
-    { "1": "Millwall", "2": "Birmingham" },
-    { "1": "Norwich", "2": "Rotherham" },
-    { "1": "Preston", "2": "Stoke" },
-    { "1": "Queens PR", "2": "Middlesbrough" },
-    { "1": "Southampton", "2": "Sunderland" },
-    { "1": "Watford", "2": "Coventry" },
-    { "1": "Bristol R", "2": "Derby" }
+    {
+      "1": "Arsenal",
+      "2": "Brentford"
+    },
+    {
+      "1": "Bournemouth",
+      "2": "Sheffield U"
+    },
+    {
+      "1": "Crystal Palace",
+      "2": "Luton"
+    },
+    {
+      "1": "Wolverhampton",
+      "2": "Fulham"
+    },
+    {
+      "1": "Blackburn",
+      "2": "Plymouth"
+    },
+    {
+      "1": "Hull",
+      "2": "Leicester"
+    },
+    {
+      "1": "Millwall",
+      "2": "Birmingham"
+    },
+    {
+      "1": "Norwich",
+      "2": "Rotherham"
+    },
+    {
+      "1": "Preston",
+      "2": "Stoke"
+    },
+    {
+      "1": "Queens PR",
+      "2": "Middlesbrough"
+    },
+    {
+      "1": "Southampton",
+      "2": "Sunderland"
+    },
+    {
+      "1": "Watford",
+      "2": "Coventry"
+    },
+    {
+      "1": "Bristol R",
+      "2": "Derby"
+    }
   ],
   "odds": [
-    1.22, 6.8, 13, 1.35, 5.3, 8.2, 1.82, 3.8, 4.2, 2.4, 3.5, 2.85, 1.85, 3.7, 4, 3.35, 3.5, 2.1,
-    2.2, 3.25, 3.35, 1.28, 5.5, 10.5, 2.4, 3.2, 3, 2.35, 3.4, 2.95, 1.37, 5, 7.65, 2.85, 3.4, 2.4,
-    3.75, 3.45, 1.95
+    1.22,
+    6.8,
+    13,
+    1.35,
+    5.3,
+    8.2,
+    1.82,
+    3.8,
+    4.2,
+    2.4,
+    3.5,
+    2.85,
+    1.85,
+    3.7,
+    4,
+    3.35,
+    3.5,
+    2.1,
+    2.2,
+    3.25,
+    3.35,
+    1.28,
+    5.5,
+    10.5,
+    2.4,
+    3.2,
+    3,
+    2.35,
+    3.4,
+    2.95,
+    1.37,
+    5,
+    7.65,
+    2.85,
+    3.4,
+    2.4,
+    3.75,
+    3.45,
+    1.95
   ],
   "bets": [
     "0000000000012",
@@ -98,5 +178,233 @@
     "0021221001022",
     "0022020000022",
     "0022022000022"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      7,
+      1,
+      10,
+      2,
+      4,
+      12,
+      5,
+      6
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "Arsenal",
+        "awayTeam": "Brentford",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 7,
+        "homeTeam": "Norwich",
+        "awayTeam": "Rotherham",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 1,
+        "homeTeam": "Bournemouth",
+        "awayTeam": "Sheffield U",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 10,
+        "homeTeam": "Southampton",
+        "awayTeam": "Sunderland",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 2,
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Luton",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 4,
+        "homeTeam": "Blackburn",
+        "awayTeam": "Plymouth",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 12,
+        "homeTeam": "Bristol R",
+        "awayTeam": "Derby",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 5,
+        "homeTeam": "Hull",
+        "awayTeam": "Leicester",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 6,
+        "homeTeam": "Millwall",
+        "awayTeam": "Birmingham",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

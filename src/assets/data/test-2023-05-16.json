@@ -1,21 +1,68 @@
 {
-  "penge": { "10": 0, "11": 12, "12": 177, "13": 25000 },
+  "penge": {
+    "10": 0,
+    "11": 12,
+    "12": 177,
+    "13": 25000
+  },
   "result": "0022002002000",
-  "fav": [0, 0],
+  "fav": [
+    0,
+    0
+  ],
   "teams": [
-    { "1": "Inter", "2": "Milan" },
-    { "1": "Luton", "2": "Sunderland" },
-    { "1": "Istanbulspor", "2": "Galatasaray" },
-    { "1": "Alanyaspor", "2": "Konyaspor" },
-    { "1": "Annan Athletic", "2": "Clyde" },
-    { "1": "Brann", "2": "Stabæk" },
-    { "1": "Lillestrøm", "2": "Sarpsborg" },
-    { "1": "Rosenborg", "2": "Haugesund" },
-    { "1": "Strømsgodset", "2": "Sandefjord" },
-    { "1": "Tromsø", "2": "Bodø/Glimt" },
-    { "1": "Viking", "2": "Odd" },
-    { "1": "Vålerenga", "2": "Ham-Kam" },
-    { "1": "Aalesund", "2": "Molde" }
+    {
+      "1": "Inter",
+      "2": "Milan"
+    },
+    {
+      "1": "Luton",
+      "2": "Sunderland"
+    },
+    {
+      "1": "Istanbulspor",
+      "2": "Galatasaray"
+    },
+    {
+      "1": "Alanyaspor",
+      "2": "Konyaspor"
+    },
+    {
+      "1": "Annan Athletic",
+      "2": "Clyde"
+    },
+    {
+      "1": "Brann",
+      "2": "Stabæk"
+    },
+    {
+      "1": "Lillestrøm",
+      "2": "Sarpsborg"
+    },
+    {
+      "1": "Rosenborg",
+      "2": "Haugesund"
+    },
+    {
+      "1": "Strømsgodset",
+      "2": "Sandefjord"
+    },
+    {
+      "1": "Tromsø",
+      "2": "Bodø/Glimt"
+    },
+    {
+      "1": "Viking",
+      "2": "Odd"
+    },
+    {
+      "1": "Vålerenga",
+      "2": "Ham-Kam"
+    },
+    {
+      "1": "Aalesund",
+      "2": "Molde"
+    }
   ],
   "bets": [
     "0000010000012",
@@ -170,8 +217,272 @@
     "2222100000212"
   ],
   "odds": [
-    2.15, 3.4, 3.4, 1.92, 3.4, 3.95, 8.8, 5.9, 1.25, 2.3, 3.7, 2.65, 1.8, 3.6,
-    3.9, 1.28, 5.5, 9.5, 1.8, 3.8, 4, 1.55, 4, 5.8, 1.82, 3.75, 3.95, 5.7, 4.2,
-    1.52, 1.65, 4, 4.8, 1.7, 3.85, 4.5, 6, 4.4, 1.48
-  ]
+    2.15,
+    3.4,
+    3.4,
+    1.92,
+    3.4,
+    3.95,
+    8.8,
+    5.9,
+    1.25,
+    2.3,
+    3.7,
+    2.65,
+    1.8,
+    3.6,
+    3.9,
+    1.28,
+    5.5,
+    9.5,
+    1.8,
+    3.8,
+    4,
+    1.55,
+    4,
+    5.8,
+    1.82,
+    3.75,
+    3.95,
+    5.7,
+    4.2,
+    1.52,
+    1.65,
+    4,
+    4.8,
+    1.7,
+    3.85,
+    4.5,
+    6,
+    4.4,
+    1.48
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      2,
+      5,
+      12,
+      9,
+      7,
+      10,
+      11,
+      6,
+      8
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 2,
+        "homeTeam": "Istanbulspor",
+        "awayTeam": "Galatasaray",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 5,
+        "homeTeam": "Brann",
+        "awayTeam": "Stabæk",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 12,
+        "homeTeam": "Aalesund",
+        "awayTeam": "Molde",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 9,
+        "homeTeam": "Tromsø",
+        "awayTeam": "Bodø/Glimt",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 7,
+        "homeTeam": "Rosenborg",
+        "awayTeam": "Haugesund",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 10,
+        "homeTeam": "Viking",
+        "awayTeam": "Odd",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 11,
+        "homeTeam": "Vålerenga",
+        "awayTeam": "Ham-Kam",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 6,
+        "homeTeam": "Lillestrøm",
+        "awayTeam": "Sarpsborg",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 8,
+        "homeTeam": "Strømsgodset",
+        "awayTeam": "Sandefjord",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

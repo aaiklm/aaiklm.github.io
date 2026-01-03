@@ -1,26 +1,106 @@
 {
   "result": "2022110002200",
-  "penge": { "10": 0, "11": 13, "12": 133, "13": 7350 },
+  "penge": {
+    "10": 0,
+    "11": 13,
+    "12": 133,
+    "13": 7350
+  },
   "odds": [
-    6.5, 5.25, 1.42, 1.76, 3.85, 4.5, 2.8, 3.4, 2.49, 4, 3.8, 1.84, 2, 3.6, 3.65, 2.95, 3.45, 2.36,
-    2.8, 3.25, 2.45, 2.4, 3.25, 2.9, 2.45, 3.25, 2.8, 3.15, 3.5, 2.15, 3.5, 3.5, 2, 1.83, 3.5, 4.25,
-    2.3, 3.75, 2.9
+    6.5,
+    5.25,
+    1.42,
+    1.76,
+    3.85,
+    4.5,
+    2.8,
+    3.4,
+    2.49,
+    4,
+    3.8,
+    1.84,
+    2,
+    3.6,
+    3.65,
+    2.95,
+    3.45,
+    2.36,
+    2.8,
+    3.25,
+    2.45,
+    2.4,
+    3.25,
+    2.9,
+    2.45,
+    3.25,
+    2.8,
+    3.15,
+    3.5,
+    2.15,
+    3.5,
+    3.5,
+    2,
+    1.83,
+    3.5,
+    4.25,
+    2.3,
+    3.75,
+    2.9
   ],
   "matches": [],
   "teams": [
-    { "1": "West Ham", "2": "Manchester City" },
-    { "1": "Brentford", "2": "Southampton" },
-    { "1": "Everton", "2": "Bournemouth" },
-    { "1": "Leicester", "2": "Aston Villa" },
-    { "1": "Nottingham Forest", "2": "Wolverhampton" },
-    { "1": "Ipswich", "2": "Fulham" },
-    { "1": "Derby", "2": "Bristol C" },
-    { "1": "Millwall", "2": "Sheffield W" },
-    { "1": "Oxford", "2": "Preston" },
-    { "1": "Plymouth", "2": "Stoke" },
-    { "1": "Portsmouth", "2": "Sunderland" },
-    { "1": "West Bromwich", "2": "Swansea" },
-    { "1": "AGF", "2": "FC Nordsjælland" }
+    {
+      "1": "West Ham",
+      "2": "Manchester City"
+    },
+    {
+      "1": "Brentford",
+      "2": "Southampton"
+    },
+    {
+      "1": "Everton",
+      "2": "Bournemouth"
+    },
+    {
+      "1": "Leicester",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "Nottingham Forest",
+      "2": "Wolverhampton"
+    },
+    {
+      "1": "Ipswich",
+      "2": "Fulham"
+    },
+    {
+      "1": "Derby",
+      "2": "Bristol C"
+    },
+    {
+      "1": "Millwall",
+      "2": "Sheffield W"
+    },
+    {
+      "1": "Oxford",
+      "2": "Preston"
+    },
+    {
+      "1": "Plymouth",
+      "2": "Stoke"
+    },
+    {
+      "1": "Portsmouth",
+      "2": "Sunderland"
+    },
+    {
+      "1": "West Bromwich",
+      "2": "Swansea"
+    },
+    {
+      "1": "AGF",
+      "2": "FC Nordsjælland"
+    }
   ],
   "bets": [
     "2010221211010",
@@ -98,5 +178,233 @@
     "2022222121001",
     "2022222222200",
     "2222221021100"
-  ]
+  ],
+  "lines": [
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      1,
+      3,
+      11,
+      4,
+      10,
+      9,
+      12,
+      5
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "West Ham",
+        "awayTeam": "Manchester City",
+        "pick": "2"
+      },
+      {
+        "position": 1,
+        "matchIndex": 1,
+        "homeTeam": "Brentford",
+        "awayTeam": "Southampton",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 3,
+        "homeTeam": "Leicester",
+        "awayTeam": "Aston Villa",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 11,
+        "homeTeam": "West Bromwich",
+        "awayTeam": "Swansea",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 4,
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Wolverhampton",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 10,
+        "homeTeam": "Portsmouth",
+        "awayTeam": "Sunderland",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 9,
+        "homeTeam": "Plymouth",
+        "awayTeam": "Stoke",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 12,
+        "homeTeam": "AGF",
+        "awayTeam": "FC Nordsjælland",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 5,
+        "homeTeam": "Ipswich",
+        "awayTeam": "Fulham",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

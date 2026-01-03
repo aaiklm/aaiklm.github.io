@@ -1,10 +1,51 @@
 {
   "result": "0000202111202",
-  "penge": { "10": 62, "11": 222, "12": 4250, "13": 50000 },
+  "penge": {
+    "10": 62,
+    "11": 222,
+    "12": 4250,
+    "13": 50000
+  },
   "odds": [
-    1.47, 5.5, 5.5, 1.59, 4.75, 4.75, 2.6, 3.85, 2.45, 2.5, 3.45, 2.85, 5.7, 4.3, 1.55, 3.85, 3.45,
-    2, 3.8, 3.95, 1.87, 2.8, 3.15, 2.6, 1.5, 4.4, 6.1, 2.4, 3.25, 3, 3.25, 3.5, 2.15, 2.75, 3.5,
-    2.45, 1.95, 3.45, 3.9
+    1.47,
+    5.5,
+    5.5,
+    1.59,
+    4.75,
+    4.75,
+    2.6,
+    3.85,
+    2.45,
+    2.5,
+    3.45,
+    2.85,
+    5.7,
+    4.3,
+    1.55,
+    3.85,
+    3.45,
+    2,
+    3.8,
+    3.95,
+    1.87,
+    2.8,
+    3.15,
+    2.6,
+    1.5,
+    4.4,
+    6.1,
+    2.4,
+    3.25,
+    3,
+    3.25,
+    3.5,
+    2.15,
+    2.75,
+    3.5,
+    2.45,
+    1.95,
+    3.45,
+    3.9
   ],
   "matches": [],
   "bets": [
@@ -210,18 +251,285 @@
     "2221212010211"
   ],
   "teams": [
-    { "1": "Liverpool", "2": "Tottenham" },
-    { "1": "Chelsea", "2": "West Ham" },
-    { "1": "Brighton", "2": "Aston Villa" },
-    { "1": "FC Midtjylland", "2": "Brøndby" },
-    { "1": "Silkeborg", "2": "FC København" },
-    { "1": "Lyngby", "2": "Randers" },
-    { "1": "Hvidovre", "2": "Viborg" },
-    { "1": "Roma", "2": "Juventus" },
-    { "1": "Milan", "2": "Genoa" },
-    { "1": "Empoli", "2": "Frosinone" },
-    { "1": "Frankfurt", "2": "Leverkusen" },
-    { "1": "Heidenheim", "2": "Mainz" },
-    { "1": "Union Berlin", "2": "Bochum" }
-  ]
+    {
+      "1": "Liverpool",
+      "2": "Tottenham"
+    },
+    {
+      "1": "Chelsea",
+      "2": "West Ham"
+    },
+    {
+      "1": "Brighton",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "FC Midtjylland",
+      "2": "Brøndby"
+    },
+    {
+      "1": "Silkeborg",
+      "2": "FC København"
+    },
+    {
+      "1": "Lyngby",
+      "2": "Randers"
+    },
+    {
+      "1": "Hvidovre",
+      "2": "Viborg"
+    },
+    {
+      "1": "Roma",
+      "2": "Juventus"
+    },
+    {
+      "1": "Milan",
+      "2": "Genoa"
+    },
+    {
+      "1": "Empoli",
+      "2": "Frosinone"
+    },
+    {
+      "1": "Frankfurt",
+      "2": "Leverkusen"
+    },
+    {
+      "1": "Heidenheim",
+      "2": "Mainz"
+    },
+    {
+      "1": "Union Berlin",
+      "2": "Bochum"
+    }
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      8,
+      4,
+      1,
+      6,
+      12,
+      5,
+      10,
+      9
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Tottenham",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 8,
+        "homeTeam": "Milan",
+        "awayTeam": "Genoa",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 4,
+        "homeTeam": "Silkeborg",
+        "awayTeam": "FC København",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 1,
+        "homeTeam": "Chelsea",
+        "awayTeam": "West Ham",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 6,
+        "homeTeam": "Hvidovre",
+        "awayTeam": "Viborg",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 12,
+        "homeTeam": "Union Berlin",
+        "awayTeam": "Bochum",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 5,
+        "homeTeam": "Lyngby",
+        "awayTeam": "Randers",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 10,
+        "homeTeam": "Frankfurt",
+        "awayTeam": "Leverkusen",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 9,
+        "homeTeam": "Empoli",
+        "awayTeam": "Frosinone",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

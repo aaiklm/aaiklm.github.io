@@ -1,26 +1,106 @@
 {
   "result": "2001201110110",
-  "penge": { "10": 18, "11": 47, "12": 590, "13": 35000 },
+  "penge": {
+    "10": 18,
+    "11": 47,
+    "12": 590,
+    "13": 35000
+  },
   "matches": [],
   "teams": [
-    { "1": "Manchester United", "2": "Manchester City" },
-    { "1": "Liverpool", "2": "Nottingham Forest" },
-    { "1": "Aston Villa", "2": "Luton" },
-    { "1": "Brighton", "2": "Fulham" },
-    { "1": "West Ham", "2": "Everton" },
-    { "1": "Brøndby", "2": "FC Nordsjælland" },
-    { "1": "Silkeborg", "2": "OB" },
-    { "1": "Vejle", "2": "Viborg" },
-    { "1": "Napoli", "2": "Milan" },
-    { "1": "Inter", "2": "Roma" },
-    { "1": "Athletic Bilbao", "2": "Valencia" },
-    { "1": "Frankfurt", "2": "Dortmund" },
-    { "1": "PSV Eindhoven", "2": "Ajax" }
+    {
+      "1": "Manchester United",
+      "2": "Manchester City"
+    },
+    {
+      "1": "Liverpool",
+      "2": "Nottingham Forest"
+    },
+    {
+      "1": "Aston Villa",
+      "2": "Luton"
+    },
+    {
+      "1": "Brighton",
+      "2": "Fulham"
+    },
+    {
+      "1": "West Ham",
+      "2": "Everton"
+    },
+    {
+      "1": "Brøndby",
+      "2": "FC Nordsjælland"
+    },
+    {
+      "1": "Silkeborg",
+      "2": "OB"
+    },
+    {
+      "1": "Vejle",
+      "2": "Viborg"
+    },
+    {
+      "1": "Napoli",
+      "2": "Milan"
+    },
+    {
+      "1": "Inter",
+      "2": "Roma"
+    },
+    {
+      "1": "Athletic Bilbao",
+      "2": "Valencia"
+    },
+    {
+      "1": "Frankfurt",
+      "2": "Dortmund"
+    },
+    {
+      "1": "PSV Eindhoven",
+      "2": "Ajax"
+    }
   ],
   "odds": [
-    5.1, 4, 1.65, 1.25, 6.5, 11, 1.25, 6.2, 11, 1.55, 4.5, 5.5, 2.15, 3.55, 3.3,
-    2.4, 3.6, 2.8, 1.55, 4.3, 5.8, 2.65, 3.4, 2.65, 2.2, 3.35, 3.25, 1.55, 4,
-    6.1, 1.62, 3.85, 5.7, 3.15, 3.75, 2.1, 1.28, 6, 9
+    5.1,
+    4,
+    1.65,
+    1.25,
+    6.5,
+    11,
+    1.25,
+    6.2,
+    11,
+    1.55,
+    4.5,
+    5.5,
+    2.15,
+    3.55,
+    3.3,
+    2.4,
+    3.6,
+    2.8,
+    1.55,
+    4.3,
+    5.8,
+    2.65,
+    3.4,
+    2.65,
+    2.2,
+    3.35,
+    3.25,
+    1.55,
+    4,
+    6.1,
+    1.62,
+    3.85,
+    5.7,
+    3.15,
+    3.75,
+    2.1,
+    1.28,
+    6,
+    9
   ],
   "bets": [
     "0000020110020",
@@ -98,5 +178,233 @@
     "2002120200020",
     "2002200220020",
     "2002220200020"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      1,
+      2,
+      12,
+      3,
+      6,
+      9,
+      10,
+      0,
+      11
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 1,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Nottingham Forest",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 2,
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Luton",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 12,
+        "homeTeam": "PSV Eindhoven",
+        "awayTeam": "Ajax",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 3,
+        "homeTeam": "Brighton",
+        "awayTeam": "Fulham",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 6,
+        "homeTeam": "Silkeborg",
+        "awayTeam": "OB",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 9,
+        "homeTeam": "Inter",
+        "awayTeam": "Roma",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 10,
+        "homeTeam": "Athletic Bilbao",
+        "awayTeam": "Valencia",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 0,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Manchester City",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 11,
+        "homeTeam": "Frankfurt",
+        "awayTeam": "Dortmund",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

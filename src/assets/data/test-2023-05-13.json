@@ -186,7 +186,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -201,7 +201,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -216,7 +216,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -231,7 +231,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -246,7 +246,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -261,7 +261,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -276,7 +276,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -291,7 +291,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -306,7 +306,7 @@
     [
       "1",
       "1",
-      "1"
+      "X"
     ],
     [
       "1",
@@ -351,7 +351,7 @@
         "matchIndex": 3,
         "homeTeam": "Crystal Palace",
         "awayTeam": "Bournemouth",
-        "pick": "1"
+        "pick": "X"
       },
       {
         "position": 3,
@@ -395,6 +395,19 @@
         "awayTeam": "Tottenham",
         "pick": "1"
       }
-    ]
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
   }
 }

@@ -1,21 +1,68 @@
 {
-  "penge": { "10": 308, "11": 1150, "12": 16600, "13": 50000 },
+  "penge": {
+    "10": 308,
+    "11": 1150,
+    "12": 16600,
+    "13": 50000
+  },
   "result": "1021112020010",
-  "fav": [0, 0],
+  "fav": [
+    0,
+    0
+  ],
   "teams": [
-    { "1": "Liverpool", "2": "Aston Villa" },
-    { "1": "Nottingham Forest", "2": "Arsenal" },
-    { "1": "Bournemouth", "2": "Manchester United" },
-    { "1": "Fulham", "2": "Crystal Palace" },
-    { "1": "Wolverhampton", "2": "Everton" },
-    { "1": "Celtic", "2": "St. Mirren" },
-    { "1": "Bayern München", "2": "RB Leipzig" },
-    { "1": "Atalanta", "2": "Hellas Verona" },
-    { "1": "Nantes", "2": "Montpellier" },
-    { "1": "Athletic Bilbao", "2": "Celta Vigo" },
-    { "1": "Almeria", "2": "Mallorca" },
-    { "1": "Getafe", "2": "Elche" },
-    { "1": "Brann", "2": "Lillestrøm" }
+    {
+      "1": "Liverpool",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "Nottingham Forest",
+      "2": "Arsenal"
+    },
+    {
+      "1": "Bournemouth",
+      "2": "Manchester United"
+    },
+    {
+      "1": "Fulham",
+      "2": "Crystal Palace"
+    },
+    {
+      "1": "Wolverhampton",
+      "2": "Everton"
+    },
+    {
+      "1": "Celtic",
+      "2": "St. Mirren"
+    },
+    {
+      "1": "Bayern München",
+      "2": "RB Leipzig"
+    },
+    {
+      "1": "Atalanta",
+      "2": "Hellas Verona"
+    },
+    {
+      "1": "Nantes",
+      "2": "Montpellier"
+    },
+    {
+      "1": "Athletic Bilbao",
+      "2": "Celta Vigo"
+    },
+    {
+      "1": "Almeria",
+      "2": "Mallorca"
+    },
+    {
+      "1": "Getafe",
+      "2": "Elche"
+    },
+    {
+      "1": "Brann",
+      "2": "Lillestrøm"
+    }
   ],
   "bets": [
     "0000200002002",
@@ -95,8 +142,272 @@
     "2222000000000"
   ],
   "odds": [
-    1.5, 4.7, 5.8, 5.2, 4.1, 1.62, 6.4, 4.9, 1.45, 2.4, 3.3, 3, 2.95, 3.3, 2.45,
-    1.15, 7.65, 15, 1.52, 4.7, 5.3, 1.55, 4.1, 5.8, 2.05, 3.55, 3.45, 1.7, 3.7,
-    5.2, 2.25, 3.3, 3.3, 1.52, 4, 6.7, 1.92, 3.6, 3.7
-  ]
+    1.5,
+    4.7,
+    5.8,
+    5.2,
+    4.1,
+    1.62,
+    6.4,
+    4.9,
+    1.45,
+    2.4,
+    3.3,
+    3,
+    2.95,
+    3.3,
+    2.45,
+    1.15,
+    7.65,
+    15,
+    1.52,
+    4.7,
+    5.3,
+    1.55,
+    4.1,
+    5.8,
+    2.05,
+    3.55,
+    3.45,
+    1.7,
+    3.7,
+    5.2,
+    2.25,
+    3.3,
+    3.3,
+    1.52,
+    4,
+    6.7,
+    1.92,
+    3.6,
+    3.7
+  ],
+  "lines": [
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "2",
+      "1"
+    ],
+    [
+      "2",
+      "2",
+      "1"
+    ],
+    [
+      "2",
+      "2",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      5,
+      2,
+      0,
+      11,
+      6,
+      7,
+      1,
+      9,
+      12
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 5,
+        "homeTeam": "Celtic",
+        "awayTeam": "St. Mirren",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 2,
+        "homeTeam": "Bournemouth",
+        "awayTeam": "Manchester United",
+        "pick": "2"
+      },
+      {
+        "position": 2,
+        "matchIndex": 0,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Aston Villa",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 11,
+        "homeTeam": "Getafe",
+        "awayTeam": "Elche",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 6,
+        "homeTeam": "Bayern München",
+        "awayTeam": "RB Leipzig",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 7,
+        "homeTeam": "Atalanta",
+        "awayTeam": "Hellas Verona",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 1,
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Arsenal",
+        "pick": "2"
+      },
+      {
+        "position": 7,
+        "matchIndex": 9,
+        "homeTeam": "Athletic Bilbao",
+        "awayTeam": "Celta Vigo",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 12,
+        "homeTeam": "Brann",
+        "awayTeam": "Lillestrøm",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

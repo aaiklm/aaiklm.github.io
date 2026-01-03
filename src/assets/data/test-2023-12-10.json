@@ -1,26 +1,106 @@
 {
   "result": "0200020110211",
-  "penge": { "10": 68, "11": 269, "12": 5360, "13": 50000 },
+  "penge": {
+    "10": 68,
+    "11": 269,
+    "12": 5360,
+    "13": 50000
+  },
   "matches": [],
   "teams": [
-    { "1": "Tottenham", "2": "Newcastle" },
-    { "1": "Luton", "2": "Manchester City" },
-    { "1": "Everton", "2": "Chelsea" },
-    { "1": "Fulham", "2": "West Ham" },
-    { "1": "Brøndby", "2": "AGF" },
-    { "1": "FC Barcelona", "2": "Girona" },
-    { "1": "Granada", "2": "Athletic Bilbao" },
-    { "1": "Cadiz", "2": "Osasuna" },
-    { "1": "Roma", "2": "Fiorentina" },
-    { "1": "Monza", "2": "Genoa" },
-    { "1": "Salernitana", "2": "Bologna" },
-    { "1": "FC Köln", "2": "Mainz" },
-    { "1": "Stuttgart", "2": "Leverkusen" }
+    {
+      "1": "Tottenham",
+      "2": "Newcastle"
+    },
+    {
+      "1": "Luton",
+      "2": "Manchester City"
+    },
+    {
+      "1": "Everton",
+      "2": "Chelsea"
+    },
+    {
+      "1": "Fulham",
+      "2": "West Ham"
+    },
+    {
+      "1": "Brøndby",
+      "2": "AGF"
+    },
+    {
+      "1": "FC Barcelona",
+      "2": "Girona"
+    },
+    {
+      "1": "Granada",
+      "2": "Athletic Bilbao"
+    },
+    {
+      "1": "Cadiz",
+      "2": "Osasuna"
+    },
+    {
+      "1": "Roma",
+      "2": "Fiorentina"
+    },
+    {
+      "1": "Monza",
+      "2": "Genoa"
+    },
+    {
+      "1": "Salernitana",
+      "2": "Bologna"
+    },
+    {
+      "1": "FC Köln",
+      "2": "Mainz"
+    },
+    {
+      "1": "Stuttgart",
+      "2": "Leverkusen"
+    }
   ],
   "odds": [
-    2.1, 3.85, 3.15, 16, 7.2, 1.18, 2.5, 3.4, 2.8, 2.15, 3.6, 3.25, 1.9, 3.7,
-    3.95, 1.52, 4.8, 5.4, 4.3, 3.6, 1.85, 2.9, 3.05, 2.65, 2, 3.3, 3.9, 2.2,
-    3.15, 3.45, 4.3, 3.4, 1.87, 2.55, 3.35, 2.7, 2.85, 3.6, 2.3
+    2.1,
+    3.85,
+    3.15,
+    16,
+    7.2,
+    1.18,
+    2.5,
+    3.4,
+    2.8,
+    2.15,
+    3.6,
+    3.25,
+    1.9,
+    3.7,
+    3.95,
+    1.52,
+    4.8,
+    5.4,
+    4.3,
+    3.6,
+    1.85,
+    2.9,
+    3.05,
+    2.65,
+    2,
+    3.3,
+    3.9,
+    2.2,
+    3.15,
+    3.45,
+    4.3,
+    3.4,
+    1.87,
+    2.55,
+    3.35,
+    2.7,
+    2.85,
+    3.6,
+    2.3
   ],
   "bets": [
     "0200002001222",
@@ -98,5 +178,233 @@
     "2220002200222",
     "2222002000202",
     "2222002200202"
-  ]
+  ],
+  "lines": [
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      1,
+      5,
+      6,
+      10,
+      4,
+      8,
+      0,
+      3,
+      9
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 1,
+        "homeTeam": "Luton",
+        "awayTeam": "Manchester City",
+        "pick": "2"
+      },
+      {
+        "position": 1,
+        "matchIndex": 5,
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "Girona",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 6,
+        "homeTeam": "Granada",
+        "awayTeam": "Athletic Bilbao",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 10,
+        "homeTeam": "Salernitana",
+        "awayTeam": "Bologna",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 4,
+        "homeTeam": "Brøndby",
+        "awayTeam": "AGF",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 8,
+        "homeTeam": "Roma",
+        "awayTeam": "Fiorentina",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 0,
+        "homeTeam": "Tottenham",
+        "awayTeam": "Newcastle",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 3,
+        "homeTeam": "Fulham",
+        "awayTeam": "West Ham",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 9,
+        "homeTeam": "Monza",
+        "awayTeam": "Genoa",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

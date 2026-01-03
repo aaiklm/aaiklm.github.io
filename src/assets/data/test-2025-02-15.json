@@ -1,10 +1,51 @@
 {
   "result": "0021212120202",
-  "penge": { "10": 30, "11": 87, "12": 1210, "13": 50000 },
+  "penge": {
+    "10": 30,
+    "11": 87,
+    "12": 1210,
+    "13": 50000
+  },
   "odds": [
-    1.96, 4, 3.4, 2.17, 3.3, 3.45, 2.37, 3.55, 2.85, 1.49, 4.75, 6, 5.75, 4.75, 1.49, 2.5, 3.25,
-    2.8, 3.25, 3.15, 2.2, 2.9, 2.9, 2.6, 2.4, 3.25, 2.9, 2.5, 3.25, 2.8, 2.35, 3.4, 2.9, 2.8, 3.4,
-    2.35, 3.75, 3.25, 2.05
+    1.96,
+    4,
+    3.4,
+    2.17,
+    3.3,
+    3.45,
+    2.37,
+    3.55,
+    2.85,
+    1.49,
+    4.75,
+    6,
+    5.75,
+    4.75,
+    1.49,
+    2.5,
+    3.25,
+    2.8,
+    3.25,
+    3.15,
+    2.2,
+    2.9,
+    2.9,
+    2.6,
+    2.4,
+    3.25,
+    2.9,
+    2.5,
+    3.25,
+    2.8,
+    2.35,
+    3.4,
+    2.9,
+    2.8,
+    3.4,
+    2.35,
+    3.75,
+    3.25,
+    2.05
   ],
   "matches": [],
   "bets": [
@@ -145,18 +186,285 @@
     "0200202002112"
   ],
   "teams": [
-    { "1": "Manchester City", "2": "Newcastle" },
-    { "1": "Fulham", "2": "Nottingham Forest" },
-    { "1": "West Ham", "2": "Brentford" },
-    { "1": "Aston Villa", "2": "Ipswich" },
-    { "1": "Southampton", "2": "Bournemouth" },
-    { "1": "Hull", "2": "Norwich" },
-    { "1": "Luton", "2": "Sheffield U" },
-    { "1": "Millwall", "2": "West Bromwich" },
-    { "1": "Sheffield W", "2": "Coventry" },
-    { "1": "Stoke", "2": "Swansea" },
-    { "1": "Barnsley", "2": "Huddersfield" },
-    { "1": "Reading", "2": "Rotherham" },
-    { "1": "Wigan", "2": "Stockport" }
-  ]
+    {
+      "1": "Manchester City",
+      "2": "Newcastle"
+    },
+    {
+      "1": "Fulham",
+      "2": "Nottingham Forest"
+    },
+    {
+      "1": "West Ham",
+      "2": "Brentford"
+    },
+    {
+      "1": "Aston Villa",
+      "2": "Ipswich"
+    },
+    {
+      "1": "Southampton",
+      "2": "Bournemouth"
+    },
+    {
+      "1": "Hull",
+      "2": "Norwich"
+    },
+    {
+      "1": "Luton",
+      "2": "Sheffield U"
+    },
+    {
+      "1": "Millwall",
+      "2": "West Bromwich"
+    },
+    {
+      "1": "Sheffield W",
+      "2": "Coventry"
+    },
+    {
+      "1": "Stoke",
+      "2": "Swansea"
+    },
+    {
+      "1": "Barnsley",
+      "2": "Huddersfield"
+    },
+    {
+      "1": "Reading",
+      "2": "Rotherham"
+    },
+    {
+      "1": "Wigan",
+      "2": "Stockport"
+    }
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "X",
+      "1"
+    ],
+    [
+      "1",
+      "X",
+      "1"
+    ],
+    [
+      "1",
+      "X",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "X",
+      "1"
+    ],
+    [
+      "1",
+      "X",
+      "1"
+    ],
+    [
+      "1",
+      "X",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "X",
+      "1"
+    ],
+    [
+      "2",
+      "X",
+      "1"
+    ],
+    [
+      "2",
+      "X",
+      "2"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      3,
+      4,
+      0,
+      12,
+      1,
+      6,
+      2,
+      10,
+      11
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 3,
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Ipswich",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 4,
+        "homeTeam": "Southampton",
+        "awayTeam": "Bournemouth",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 0,
+        "homeTeam": "Manchester City",
+        "awayTeam": "Newcastle",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 12,
+        "homeTeam": "Wigan",
+        "awayTeam": "Stockport",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 1,
+        "homeTeam": "Fulham",
+        "awayTeam": "Nottingham Forest",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 6,
+        "homeTeam": "Luton",
+        "awayTeam": "Sheffield U",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 2,
+        "homeTeam": "West Ham",
+        "awayTeam": "Brentford",
+        "pick": "2"
+      },
+      {
+        "position": 7,
+        "matchIndex": 10,
+        "homeTeam": "Barnsley",
+        "awayTeam": "Huddersfield",
+        "pick": "X"
+      },
+      {
+        "position": 8,
+        "matchIndex": 11,
+        "homeTeam": "Reading",
+        "awayTeam": "Rotherham",
+        "pick": "2"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

@@ -1,6 +1,11 @@
 {
   "result": "0020120021011",
-  "penge": { "10": 72, "11": 206, "12": 2065, "13": 50000 },
+  "penge": {
+    "10": 72,
+    "11": 206,
+    "12": 2065,
+    "13": 50000
+  },
   "matches": [],
   "bets": [
     "0020000000221",
@@ -155,23 +160,326 @@
     "2220101200122"
   ],
   "teams": [
-    { "1": "Crystal Palace", "2": "Aston Villa" },
-    { "1": "Brighton", "2": "West Ham" },
-    { "1": "Southampton", "2": "Fulham" },
-    { "1": "Wolverhampton", "2": "Leicester" },
-    { "1": "Cardiff", "2": "West Bromwich" },
-    { "1": "Hull", "2": "Derby" },
-    { "1": "Millwall", "2": "Swansea" },
-    { "1": "Oxford", "2": "Sunderland" },
-    { "1": "Preston", "2": "Plymouth" },
-    { "1": "Sheffield W", "2": "Portsmouth" },
-    { "1": "Exeter", "2": "Huddersfield" },
-    { "1": "Peterborough", "2": "Bolton" },
-    { "1": "Wigan", "2": "Blackpool" }
+    {
+      "1": "Crystal Palace",
+      "2": "Aston Villa"
+    },
+    {
+      "1": "Brighton",
+      "2": "West Ham"
+    },
+    {
+      "1": "Southampton",
+      "2": "Fulham"
+    },
+    {
+      "1": "Wolverhampton",
+      "2": "Leicester"
+    },
+    {
+      "1": "Cardiff",
+      "2": "West Bromwich"
+    },
+    {
+      "1": "Hull",
+      "2": "Derby"
+    },
+    {
+      "1": "Millwall",
+      "2": "Swansea"
+    },
+    {
+      "1": "Oxford",
+      "2": "Sunderland"
+    },
+    {
+      "1": "Preston",
+      "2": "Plymouth"
+    },
+    {
+      "1": "Sheffield W",
+      "2": "Portsmouth"
+    },
+    {
+      "1": "Exeter",
+      "2": "Huddersfield"
+    },
+    {
+      "1": "Peterborough",
+      "2": "Bolton"
+    },
+    {
+      "1": "Wigan",
+      "2": "Blackpool"
+    }
   ],
   "odds": [
-    3.25, 3.35, 2.25, 1.74, 4, 4.5, 5.25, 4, 1.62, 1.55, 4.25, 5.5, 2.15, 3.25,
-    3.25, 2.35, 3, 3.15, 2.3, 3.15, 3.15, 3.25, 3.15, 2.2, 1.83, 3.5, 4.25,
-    1.98, 3.65, 3.4, 3.15, 3.4, 2.2, 2.3, 3.75, 2.75, 2.8, 3.25, 2.45
-  ]
+    3.25,
+    3.35,
+    2.25,
+    1.74,
+    4,
+    4.5,
+    5.25,
+    4,
+    1.62,
+    1.55,
+    4.25,
+    5.5,
+    2.15,
+    3.25,
+    3.25,
+    2.35,
+    3,
+    3.15,
+    2.3,
+    3.15,
+    3.15,
+    3.25,
+    3.15,
+    2.2,
+    1.83,
+    3.5,
+    4.25,
+    1.98,
+    3.65,
+    3.4,
+    3.15,
+    3.4,
+    2.2,
+    2.3,
+    3.75,
+    2.75,
+    2.8,
+    3.25,
+    2.45
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "X"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "X"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "X"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "X"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ],
+    [
+      "1",
+      "2",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      3,
+      2,
+      1,
+      8,
+      9,
+      4,
+      10,
+      0,
+      7
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 3,
+        "homeTeam": "Wolverhampton",
+        "awayTeam": "Leicester",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 2,
+        "homeTeam": "Southampton",
+        "awayTeam": "Fulham",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 1,
+        "homeTeam": "Brighton",
+        "awayTeam": "West Ham",
+        "pick": "X"
+      },
+      {
+        "position": 3,
+        "matchIndex": 8,
+        "homeTeam": "Preston",
+        "awayTeam": "Plymouth",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 9,
+        "homeTeam": "Sheffield W",
+        "awayTeam": "Portsmouth",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 4,
+        "homeTeam": "Cardiff",
+        "awayTeam": "West Bromwich",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 10,
+        "homeTeam": "Exeter",
+        "awayTeam": "Huddersfield",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 0,
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Aston Villa",
+        "pick": "2"
+      },
+      {
+        "position": 8,
+        "matchIndex": 7,
+        "homeTeam": "Oxford",
+        "awayTeam": "Sunderland",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

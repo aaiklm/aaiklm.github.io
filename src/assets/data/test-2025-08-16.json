@@ -1,6 +1,11 @@
 {
   "result": "0102202001011",
-  "penge": { "10": 187, "11": 642, "12": 20000, "13": 50000 },
+  "penge": {
+    "10": 187,
+    "11": 642,
+    "12": 20000,
+    "13": 50000
+  },
   "filename": "test-2025-08-16.json",
   "teams": [
     {
@@ -57,9 +62,45 @@
     }
   ],
   "odds": [
-    1.54, 4.25, 5.75, 1.98, 3.65, 3.65, 3.3, 3.2, 2.28, 3.25, 3.25, 2.3, 2.25, 3.25, 3.4, 3.65, 3.4,
-    2.05, 3.25, 3.4, 2.25, 2.7, 3.25, 2.75, 2.05, 3.4, 3.75, 2.7, 3.5, 2.42, 2.85, 3.3, 2.41, 2.29,
-    3.3, 3.05, 2.95, 3.2, 2.37
+    1.54,
+    4.25,
+    5.75,
+    1.98,
+    3.65,
+    3.65,
+    3.3,
+    3.2,
+    2.28,
+    3.25,
+    3.25,
+    2.3,
+    2.25,
+    3.25,
+    3.4,
+    3.65,
+    3.4,
+    2.05,
+    3.25,
+    3.4,
+    2.25,
+    2.7,
+    3.25,
+    2.75,
+    2.05,
+    3.4,
+    3.75,
+    2.7,
+    3.5,
+    2.42,
+    2.85,
+    3.3,
+    2.41,
+    2.29,
+    3.3,
+    3.05,
+    2.95,
+    3.2,
+    2.37
   ],
   "bets": [
     "0022100002022",
@@ -97,9 +138,9 @@
     "high_confidence_threshold": 0.65,
     "medium_confidence_threshold": 0.55,
     "max_confidence": 0.95,
-    "form_win_weight": 3.0,
-    "form_draw_weight": 1.0,
-    "form_loss_weight": 0.0,
+    "form_win_weight": 3,
+    "form_draw_weight": 1,
+    "form_loss_weight": 0,
     "form_window": 5,
     "home_bias_min_odds": 1.3,
     "home_bias_max_odds": 8.800457333334151,
@@ -146,10 +187,238 @@
     "Team tendency tracking",
     "Contextual form analysis",
     "Deep opponent awareness",
-    "\ud83c\udd95 Odds difference analysis",
-    "\ud83c\udd95 Equal match performance tracking",
-    "\ud83c\udd95 Favorite/underdog pattern analysis",
-    "\ud83c\udd95 Odds bracket pattern analysis",
-    "\ud83d\udee1\ufe0f Data leakage prevention"
-  ]
+    "🆕 Odds difference analysis",
+    "🆕 Equal match performance tracking",
+    "🆕 Favorite/underdog pattern analysis",
+    "🆕 Odds bracket pattern analysis",
+    "🛡️ Data leakage prevention"
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "2"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      1,
+      8,
+      5,
+      4,
+      6,
+      2,
+      3,
+      11
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "Tottenham",
+        "awayTeam": "Burnley",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 1,
+        "homeTeam": "Brighton",
+        "awayTeam": "Fulham",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 8,
+        "homeTeam": "Watford",
+        "awayTeam": "Queens Park R",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 5,
+        "homeTeam": "Preston",
+        "awayTeam": "Leicester",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 4,
+        "homeTeam": "Millwall",
+        "awayTeam": "Middlesbrough",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 6,
+        "homeTeam": "Sheffield W",
+        "awayTeam": "Stoke",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 2,
+        "homeTeam": "Sunderland",
+        "awayTeam": "West Ham",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 3,
+        "homeTeam": "Blackburn",
+        "awayTeam": "Birmingham",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 11,
+        "homeTeam": "Doncaster",
+        "awayTeam": "Wycombe",
+        "pick": "2"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

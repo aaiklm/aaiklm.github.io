@@ -1,21 +1,68 @@
 {
-  "penge": { "10": 244, "11": 732, "12": 12690, "13": 50000 },
+  "penge": {
+    "10": 244,
+    "11": 732,
+    "12": 12690,
+    "13": 50000
+  },
   "result": "1201210001211",
-  "fav": [0, 2],
+  "fav": [
+    0,
+    2
+  ],
   "teams": [
-    { "1": "Brighton", "2": "Manchester City" },
-    { "1": "Fiorentina", "2": "Inter" },
-    { "1": "Real Madrid", "2": "Rayo Vallecano" },
-    { "1": "Espanyol", "2": "Atletico Madrid" },
-    { "1": "Betis", "2": "Getafe" },
-    { "1": "Elche", "2": "Sevilla" },
-    { "1": "Villarreal", "2": "Cadiz" },
-    { "1": "Aberdeen", "2": "St. Mirren" },
-    { "1": "Hibernian", "2": "Celtic" },
-    { "1": "Rangers", "2": "Hearts" },
-    { "1": "Dundee U", "2": "Kilmarnock" },
-    { "1": "Livingston", "2": "Motherwell" },
-    { "1": "Ross County", "2": "St.Johnstone" }
+    {
+      "1": "Brighton",
+      "2": "Manchester City"
+    },
+    {
+      "1": "Fiorentina",
+      "2": "Inter"
+    },
+    {
+      "1": "Real Madrid",
+      "2": "Rayo Vallecano"
+    },
+    {
+      "1": "Espanyol",
+      "2": "Atletico Madrid"
+    },
+    {
+      "1": "Betis",
+      "2": "Getafe"
+    },
+    {
+      "1": "Elche",
+      "2": "Sevilla"
+    },
+    {
+      "1": "Villarreal",
+      "2": "Cadiz"
+    },
+    {
+      "1": "Aberdeen",
+      "2": "St. Mirren"
+    },
+    {
+      "1": "Hibernian",
+      "2": "Celtic"
+    },
+    {
+      "1": "Rangers",
+      "2": "Hearts"
+    },
+    {
+      "1": "Dundee U",
+      "2": "Kilmarnock"
+    },
+    {
+      "1": "Livingston",
+      "2": "Motherwell"
+    },
+    {
+      "1": "Ross County",
+      "2": "St.Johnstone"
+    }
   ],
   "bets": [
     "0000000120001",
@@ -244,8 +291,272 @@
     "2222220020211"
   ],
   "odds": [
-    3.9, 4.2, 1.8, 4, 3.4, 1.97, 1.62, 4.2, 5.1, 2.9, 3.55, 2.35, 2.05, 3.25,
-    3.95, 3.9, 3.75, 1.9, 1.5, 4.5, 6.2, 1.92, 3.5, 3.8, 6.6, 4.9, 1.4, 1.32,
-    5.4, 8, 2.45, 3.35, 2.75, 3.05, 3.05, 2.4, 2.1, 3.3, 3.4
-  ]
+    3.9,
+    4.2,
+    1.8,
+    4,
+    3.4,
+    1.97,
+    1.62,
+    4.2,
+    5.1,
+    2.9,
+    3.55,
+    2.35,
+    2.05,
+    3.25,
+    3.95,
+    3.9,
+    3.75,
+    1.9,
+    1.5,
+    4.5,
+    6.2,
+    1.92,
+    3.5,
+    3.8,
+    6.6,
+    4.9,
+    1.4,
+    1.32,
+    5.4,
+    8,
+    2.45,
+    3.35,
+    2.75,
+    3.05,
+    3.05,
+    2.4,
+    2.1,
+    3.3,
+    3.4
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      9,
+      8,
+      6,
+      2,
+      0,
+      5,
+      7,
+      1,
+      4
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 9,
+        "homeTeam": "Rangers",
+        "awayTeam": "Hearts",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 8,
+        "homeTeam": "Hibernian",
+        "awayTeam": "Celtic",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 6,
+        "homeTeam": "Villarreal",
+        "awayTeam": "Cadiz",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 2,
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Rayo Vallecano",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 0,
+        "homeTeam": "Brighton",
+        "awayTeam": "Manchester City",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 5,
+        "homeTeam": "Elche",
+        "awayTeam": "Sevilla",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 7,
+        "homeTeam": "Aberdeen",
+        "awayTeam": "St. Mirren",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 1,
+        "homeTeam": "Fiorentina",
+        "awayTeam": "Inter",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 4,
+        "homeTeam": "Betis",
+        "awayTeam": "Getafe",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

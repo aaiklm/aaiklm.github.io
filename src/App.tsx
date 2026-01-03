@@ -4,16 +4,34 @@ import { useZoom } from "./hooks/useZoom";
 import { Tips } from "./tips/index.tsx";
 import { TipsLines } from "./tips-lines/index.tsx";
 import { GridChecker } from "./grid-checker/index.tsx";
+import { BetGame } from "./bet-game/index.tsx";
 
-type View = "tips" | "tips-lines" | "grid-checker";
+type View = "tips" | "tips-lines" | "grid-checker" | "bet-game";
 
 function App() {
-  const zoom = useZoom();
-  const [view, setView] = useState<View>("tips-lines");
+  const [view, setView] = useState<View>("bet-game");
+
+  // Only use zoom for non-bet-game views (they need fixed 1920x1080 layout)
+  const zoom = useZoom("fit");
+
+  // For bet-game: use responsive layout (no zoom, full viewport)
+  // For others: use the scaled fixed-size layout
+  const isBetGame = view === "bet-game";
 
   return (
-    <div className={styles.appRoot} style={{ zoom }}>
+    <div
+      className={isBetGame ? styles.appRootMobile : styles.appRoot}
+      style={isBetGame ? undefined : { zoom }}
+    >
       <div className={styles.viewToggle}>
+        <button
+          className={`${styles.viewButton} ${
+            view === "bet-game" ? styles.viewButtonActive : ""
+          }`}
+          onClick={() => setView("bet-game")}
+        >
+          🎰 Bet
+        </button>
         <button
           className={`${styles.viewButton} ${
             view === "tips" ? styles.viewButtonActive : ""
@@ -28,7 +46,7 @@ function App() {
           }`}
           onClick={() => setView("tips-lines")}
         >
-          Tips Lines
+          Lines
         </button>
         <button
           className={`${styles.viewButton} ${
@@ -36,9 +54,10 @@ function App() {
           }`}
           onClick={() => setView("grid-checker")}
         >
-          Grid Checker
+          Grid
         </button>
       </div>
+      {view === "bet-game" && <BetGame />}
       {view === "tips" && <Tips />}
       {view === "tips-lines" && <TipsLines />}
       {view === "grid-checker" && <GridChecker />}

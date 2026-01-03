@@ -1,6 +1,11 @@
 {
   "result": "2021002022212",
-  "penge": { "10": 0, "11": 10, "12": 112, "13": 8333 },
+  "penge": {
+    "10": 0,
+    "11": 10,
+    "12": 112,
+    "13": 8333
+  },
   "matches": [
     {
       "Slovakiet": [
@@ -1609,26 +1614,104 @@
       ]
     }
   ],
-  "fav": [0, 2],
+  "fav": [
+    0,
+    2
+  ],
   "teams": [
-    { "1": "Slovakiet", "2": "Portugal" },
-    { "1": "Kroatien", "2": "Letland" },
-    { "1": "Cypern", "2": "Skotland" },
-    { "1": "Tyrkiet", "2": "Armenien" },
-    { "1": "Luxembourg", "2": "Island" },
-    { "1": "Bosnien-Hercegovina", "2": "Liechtenstein" },
-    { "1": "Levante", "2": "Espanyol" },
-    { "1": "Willem II", "2": "Maastricht" },
-    { "1": "Cesena", "2": "SPAL" },
-    { "1": "Bray Wanderers", "2": "Galway FC" },
-    { "1": "Finn Harps", "2": "Waterford" },
-    { "1": "Kerry", "2": "Longford" },
-    { "1": "Treaty United", "2": "Wexford" }
+    {
+      "1": "Slovakiet",
+      "2": "Portugal"
+    },
+    {
+      "1": "Kroatien",
+      "2": "Letland"
+    },
+    {
+      "1": "Cypern",
+      "2": "Skotland"
+    },
+    {
+      "1": "Tyrkiet",
+      "2": "Armenien"
+    },
+    {
+      "1": "Luxembourg",
+      "2": "Island"
+    },
+    {
+      "1": "Bosnien-Hercegovina",
+      "2": "Liechtenstein"
+    },
+    {
+      "1": "Levante",
+      "2": "Espanyol"
+    },
+    {
+      "1": "Willem II",
+      "2": "Maastricht"
+    },
+    {
+      "1": "Cesena",
+      "2": "SPAL"
+    },
+    {
+      "1": "Bray Wanderers",
+      "2": "Galway FC"
+    },
+    {
+      "1": "Finn Harps",
+      "2": "Waterford"
+    },
+    {
+      "1": "Kerry",
+      "2": "Longford"
+    },
+    {
+      "1": "Treaty United",
+      "2": "Wexford"
+    }
   ],
   "odds": [
-    7.5, 4.5, 1.42, 1.09, 8.8, 24, 11, 5.3, 1.28, 1.25, 5.6, 12, 2.75, 3.15,
-    2.65, 1.03, 16, 38, 2.4, 3.15, 3, 1.37, 4.7, 6.6, 2.4, 3.15, 3, 6.8, 4.7,
-    1.35, 10.5, 5.4, 1.23, 4.7, 4.1, 1.55, 2.4, 3.45, 2.55
+    7.5,
+    4.5,
+    1.42,
+    1.09,
+    8.8,
+    24,
+    11,
+    5.3,
+    1.28,
+    1.25,
+    5.6,
+    12,
+    2.75,
+    3.15,
+    2.65,
+    1.03,
+    16,
+    38,
+    2.4,
+    3.15,
+    3,
+    1.37,
+    4.7,
+    6.6,
+    2.4,
+    3.15,
+    3,
+    6.8,
+    4.7,
+    1.35,
+    10.5,
+    5.4,
+    1.23,
+    4.7,
+    4.1,
+    1.55,
+    2.4,
+    3.45,
+    2.55
   ],
   "bets": [
     "0000200022220",
@@ -1706,5 +1789,233 @@
     "2020200002200",
     "2020200202000",
     "2020202002000"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      5,
+      1,
+      3,
+      10,
+      2,
+      9,
+      7,
+      0,
+      11
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 5,
+        "homeTeam": "Bosnien-Hercegovina",
+        "awayTeam": "Liechtenstein",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 1,
+        "homeTeam": "Kroatien",
+        "awayTeam": "Letland",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 3,
+        "homeTeam": "Tyrkiet",
+        "awayTeam": "Armenien",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 10,
+        "homeTeam": "Finn Harps",
+        "awayTeam": "Waterford",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 2,
+        "homeTeam": "Cypern",
+        "awayTeam": "Skotland",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 9,
+        "homeTeam": "Bray Wanderers",
+        "awayTeam": "Galway FC",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 7,
+        "homeTeam": "Willem II",
+        "awayTeam": "Maastricht",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 0,
+        "homeTeam": "Slovakiet",
+        "awayTeam": "Portugal",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 11,
+        "homeTeam": "Kerry",
+        "awayTeam": "Longford",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

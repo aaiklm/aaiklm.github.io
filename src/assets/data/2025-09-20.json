@@ -1,23 +1,326 @@
 {
   "teams": [
-    { "1": "Brighton", "2": "Tottenham" },
-    { "1": "Burnley", "2": "Nottingham Forest" },
-    { "1": "West Ham", "2": "Crystal Palace" },
-    { "1": "Wolverhampton", "2": "Leeds" },
-    { "1": "Blackburn", "2": "Ipswich" },
-    { "1": "Derby", "2": "Preston" },
-    { "1": "Hull", "2": "Southampton" },
-    { "1": "Norwich", "2": "Wrexham" },
-    { "1": "Portsmouth", "2": "Sheffield W" },
-    { "1": "Sheffield U", "2": "Charlton" },
-    { "1": "FC Midtjylland", "2": "Viborg" },
-    { "1": "Manchester United", "2": "Chelsea" },
-    { "1": "RB Leipzig", "2": "FC Köln" }
+    {
+      "1": "Brighton",
+      "2": "Tottenham"
+    },
+    {
+      "1": "Burnley",
+      "2": "Nottingham Forest"
+    },
+    {
+      "1": "West Ham",
+      "2": "Crystal Palace"
+    },
+    {
+      "1": "Wolverhampton",
+      "2": "Leeds"
+    },
+    {
+      "1": "Blackburn",
+      "2": "Ipswich"
+    },
+    {
+      "1": "Derby",
+      "2": "Preston"
+    },
+    {
+      "1": "Hull",
+      "2": "Southampton"
+    },
+    {
+      "1": "Norwich",
+      "2": "Wrexham"
+    },
+    {
+      "1": "Portsmouth",
+      "2": "Sheffield W"
+    },
+    {
+      "1": "Sheffield U",
+      "2": "Charlton"
+    },
+    {
+      "1": "FC Midtjylland",
+      "2": "Viborg"
+    },
+    {
+      "1": "Manchester United",
+      "2": "Chelsea"
+    },
+    {
+      "1": "RB Leipzig",
+      "2": "FC Köln"
+    }
   ],
   "odds": [
-    2.31, 3.55, 2.95, 3.35, 3.35, 2.21, 3.15, 3.3, 2.3, 2.75, 3.1, 2.75, 3.85,
-    3.4, 2, 2.35, 3.15, 3.25, 3, 3.65, 2.25, 1.93, 3.65, 3.85, 1.54, 4.25, 6,
-    1.87, 3.5, 4.25, 1.61, 4.5, 4.75, 2.55, 3.6, 2.6, 1.86, 4, 3.8
+    2.31,
+    3.55,
+    2.95,
+    3.35,
+    3.35,
+    2.21,
+    3.15,
+    3.3,
+    2.3,
+    2.75,
+    3.1,
+    2.75,
+    3.85,
+    3.4,
+    2,
+    2.35,
+    3.15,
+    3.25,
+    3,
+    3.65,
+    2.25,
+    1.93,
+    3.65,
+    3.85,
+    1.54,
+    4.25,
+    6,
+    1.87,
+    3.5,
+    4.25,
+    1.61,
+    4.5,
+    4.75,
+    2.55,
+    3.6,
+    2.6,
+    1.86,
+    4,
+    3.8
   ],
-  "matches": []
+  "matches": [],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      8,
+      10,
+      12,
+      9,
+      7,
+      4,
+      1,
+      6,
+      2
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 8,
+        "homeTeam": "Portsmouth",
+        "awayTeam": "Sheffield W",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 10,
+        "homeTeam": "FC Midtjylland",
+        "awayTeam": "Viborg",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 12,
+        "homeTeam": "RB Leipzig",
+        "awayTeam": "FC Köln",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 9,
+        "homeTeam": "Sheffield U",
+        "awayTeam": "Charlton",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 7,
+        "homeTeam": "Norwich",
+        "awayTeam": "Wrexham",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 4,
+        "homeTeam": "Blackburn",
+        "awayTeam": "Ipswich",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 1,
+        "homeTeam": "Burnley",
+        "awayTeam": "Nottingham Forest",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 6,
+        "homeTeam": "Hull",
+        "awayTeam": "Southampton",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 2,
+        "homeTeam": "West Ham",
+        "awayTeam": "Crystal Palace",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

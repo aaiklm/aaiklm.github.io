@@ -1,26 +1,109 @@
 {
-  "penge": { "10": 41, "11": 124, "12": 2101, "13": 50000 },
+  "penge": {
+    "10": 41,
+    "11": 124,
+    "12": 2101,
+    "13": 50000
+  },
   "result": "1101221220100",
-  "fav": [0, 2],
+  "fav": [
+    0,
+    2
+  ],
   "teams": [
-    { "1": "Chelsea", "2": "Liverpool" },
-    { "1": "Brentford", "2": "Tottenham" },
-    { "1": "Brøndby", "2": "Lyngby" },
-    { "1": "AGF", "2": "Silkeborg" },
-    { "1": "Randers", "2": "FC Nordsjælland" },
-    { "1": "Vejle", "2": "FC Midtjylland" },
-    { "1": "Getafe", "2": "FC Barcelona" },
-    { "1": "Villarreal", "2": "Betis" },
-    { "1": "Celta Vigo", "2": "Osasuna" },
-    { "1": "AZ Alkmaar", "2": "Go Ahead" },
-    { "1": "Feyenoord", "2": "Fortuna Sittard" },
-    { "1": "Hammarby", "2": "Elfsborg" },
-    { "1": "Häcken", "2": "Varberg" }
+    {
+      "1": "Chelsea",
+      "2": "Liverpool"
+    },
+    {
+      "1": "Brentford",
+      "2": "Tottenham"
+    },
+    {
+      "1": "Brøndby",
+      "2": "Lyngby"
+    },
+    {
+      "1": "AGF",
+      "2": "Silkeborg"
+    },
+    {
+      "1": "Randers",
+      "2": "FC Nordsjælland"
+    },
+    {
+      "1": "Vejle",
+      "2": "FC Midtjylland"
+    },
+    {
+      "1": "Getafe",
+      "2": "FC Barcelona"
+    },
+    {
+      "1": "Villarreal",
+      "2": "Betis"
+    },
+    {
+      "1": "Celta Vigo",
+      "2": "Osasuna"
+    },
+    {
+      "1": "AZ Alkmaar",
+      "2": "Go Ahead"
+    },
+    {
+      "1": "Feyenoord",
+      "2": "Fortuna Sittard"
+    },
+    {
+      "1": "Hammarby",
+      "2": "Elfsborg"
+    },
+    {
+      "1": "Häcken",
+      "2": "Varberg"
+    }
   ],
   "odds": [
-    2.8, 3.7, 2.35, 2.65, 3.5, 2.6, 1.92, 3.75, 3.8, 1.87, 3.6, 4.2, 3.6, 3.75,
-    1.97, 2.95, 3.4, 2.4, 6.3, 3.85, 1.58, 1.75, 3.8, 4.6, 2.1, 3.25, 3.8, 1.42,
-    4.6, 6.7, 1.14, 8.2, 15, 3.2, 3.5, 2.15, 1.27, 6, 9.5
+    2.8,
+    3.7,
+    2.35,
+    2.65,
+    3.5,
+    2.6,
+    1.92,
+    3.75,
+    3.8,
+    1.87,
+    3.6,
+    4.2,
+    3.6,
+    3.75,
+    1.97,
+    2.95,
+    3.4,
+    2.4,
+    6.3,
+    3.85,
+    1.58,
+    1.75,
+    3.8,
+    4.6,
+    2.1,
+    3.25,
+    3.8,
+    1.42,
+    4.6,
+    6.7,
+    1.14,
+    8.2,
+    15,
+    3.2,
+    3.5,
+    2.15,
+    1.27,
+    6,
+    9.5
   ],
   "bets": [
     "0000102101020",
@@ -173,5 +256,233 @@
     "2221010120001",
     "2221222020020",
     "2222011001020"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      10,
+      12,
+      9,
+      6,
+      7,
+      3,
+      2,
+      4,
+      8
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 10,
+        "homeTeam": "Feyenoord",
+        "awayTeam": "Fortuna Sittard",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 12,
+        "homeTeam": "Häcken",
+        "awayTeam": "Varberg",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 9,
+        "homeTeam": "AZ Alkmaar",
+        "awayTeam": "Go Ahead",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 6,
+        "homeTeam": "Getafe",
+        "awayTeam": "FC Barcelona",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 7,
+        "homeTeam": "Villarreal",
+        "awayTeam": "Betis",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 3,
+        "homeTeam": "AGF",
+        "awayTeam": "Silkeborg",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 2,
+        "homeTeam": "Brøndby",
+        "awayTeam": "Lyngby",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 4,
+        "homeTeam": "Randers",
+        "awayTeam": "FC Nordsjælland",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 8,
+        "homeTeam": "Celta Vigo",
+        "awayTeam": "Osasuna",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }

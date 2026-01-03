@@ -1,0 +1,430 @@
+/* Clean, functional betting tracker UI */
+.container {
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: linear-gradient(180deg, #0f0c1d 0%, #1a1333 50%, #0d0a18 100%);
+  padding: 16px 12px 100px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-top: 60px;
+  }
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.dateNav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.navButton {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.05);
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.navButton:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.navButton:active {
+  transform: scale(0.95);
+}
+
+.dateDisplay {
+  text-align: center;
+}
+
+.dateValue {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
+
+.resetBtn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.resetBtn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Grid Container */
+.gridContainer {
+  margin-bottom: 24px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.gridRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.gridCell {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  padding: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cellPending {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.cellCorrect {
+  background: rgba(0, 255, 136, 0.1);
+  border-color: rgba(0, 255, 136, 0.5);
+}
+
+.cellWrong {
+  background: rgba(255, 68, 102, 0.1);
+  border-color: rgba(255, 68, 102, 0.4);
+}
+
+.cellTeams {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 42px;
+}
+
+.teamName {
+  font-size: 11px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.teamVs {
+  font-size: 9px;
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.cellBet {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.betLabel {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.betValue {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.betHome {
+  color: #60a5fa;
+}
+
+.betAway {
+  color: #f472b6;
+}
+
+.betDraw {
+  color: #fbbf24;
+}
+
+/* Result Selector */
+.resultSelector {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+}
+
+.resultBtn {
+  padding: 8px 4px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.5);
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+
+.resultBtn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.resultBtnActive {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.resultBtnCorrect {
+  background: rgba(0, 255, 136, 0.25) !important;
+  border-color: rgba(0, 255, 136, 0.5) !important;
+  color: #00ff88 !important;
+}
+
+.resultBtnWrong {
+  background: rgba(255, 68, 102, 0.2) !important;
+  border-color: rgba(255, 68, 102, 0.4) !important;
+  color: #ff4466 !important;
+}
+
+/* Column Labels */
+.columnLabels {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.columnLabels span {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Lines Section */
+.linesSection {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  padding: 14px;
+  margin-bottom: 16px;
+}
+
+.linesHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.linesTitle {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.linesCount {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.wonColor {
+  color: #00ff88;
+}
+
+.aliveColor {
+  color: #a78bfa;
+}
+
+/* Lines List */
+.linesList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+
+.lineRoute {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 4px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.03);
+  gap: 2px;
+}
+
+.lineNodes {
+  display: flex;
+  align-items: center;
+}
+
+.lineRouteWon {
+  background: rgba(0, 255, 136, 0.15);
+}
+
+.lineRouteAlive {
+  background: rgba(167, 139, 250, 0.12);
+}
+
+.lineRouteDead {
+  opacity: 0.35;
+}
+
+.lineNode {
+  display: flex;
+  align-items: center;
+}
+
+.nodeBox {
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: "Archivo Narrow", sans-serif;
+}
+
+.nodeCorrect {
+  background: rgba(0, 255, 136, 0.4);
+  color: #00ff88;
+}
+
+.nodeWrong {
+  background: rgba(255, 68, 102, 0.4);
+  color: #ff4466;
+}
+
+.nodePending {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.nodeArrow {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.25);
+  margin: 0 2px;
+}
+
+.linePayout {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.lineRouteWon .linePayout {
+  color: rgba(0, 255, 136, 0.6);
+}
+
+.lineRouteAlive .linePayout {
+  color: rgba(167, 139, 250, 0.5);
+}
+
+/* Winnings Bar */
+.winningsBar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 16px 24px;
+  background: linear-gradient(to top, rgba(0, 255, 136, 0.15), transparent);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid rgba(0, 255, 136, 0.3);
+}
+
+.winningsLabel {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.7);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.winningsValue {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #00ff88;
+}
+
+/* Empty State */
+.emptyState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.emptyIcon {
+  font-size: 60px;
+  margin-bottom: 16px;
+}
+
+.emptyState h2 {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 22px;
+  margin: 0 0 8px 0;
+  color: white;
+}
+
+.emptyState p {
+  font-size: 14px;
+  margin: 0;
+}
+
+/* Desktop */
+@media (min-width: 500px) {
+  .container {
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 60px 24px 100px;
+  }
+
+  .gridCell {
+    padding: 14px;
+  }
+
+  .teamName {
+    font-size: 12px;
+  }
+
+  .linesList {
+    gap: 8px;
+  }
+}

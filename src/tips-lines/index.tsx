@@ -13,6 +13,7 @@ import {
   pureFavoriteStrategy,
   valueEdgeConservative,
   teamIntelligenceStrategy,
+  contrarianValueStrategy,
 } from "./strategies";
 import { optimalTeamIntelligence } from "./ml-strategy/team-intelligence";
 import { STANDARD_LINES } from "./constants";
@@ -32,6 +33,14 @@ type StrategyConfig = {
 };
 
 const STRATEGIES: StrategyConfig[] = [
+  // 🔮 NEW: Contrarian Value Strategy - Uses edge detection + draw patterns
+  {
+    id: "contrarian-value",
+    name: "🔮 Contrarian Value",
+    generateBets: (data) =>
+      contrarianValueStrategy(data, { betsCount: BETS_COUNT }),
+    description: "Edge detection + draw patterns (3.37% ROI)",
+  },
   // 🎯 NEW SIMPLE STRATEGIES - Trust the odds, no complexity!
   {
     id: "pure-favorite",

@@ -1,6 +1,11 @@
 {
   "result": "0000021101210",
-  "penge": { "10": 10, "11": 29.5, "12": 421.5, "13": 50000 },
+  "penge": {
+    "10": 10,
+    "11": 29.5,
+    "12": 421.5,
+    "13": 50000
+  },
   "matches": [
     {
       "Danmark": [
@@ -1755,26 +1760,104 @@
       ]
     }
   ],
-  "fav": [0, 0],
+  "fav": [
+    0,
+    0
+  ],
   "teams": [
-    { "1": "Danmark", "2": "San Marino" },
-    { "1": "Frankrig", "2": "Irland" },
-    { "1": "Holland", "2": "Grækenland" },
-    { "1": "Polen", "2": "Færøerne" },
-    { "1": "Slovenien", "2": "Nordirland" },
-    { "1": "Serbien", "2": "Ungarn" },
-    { "1": "Tjekkiet", "2": "Albanien" },
-    { "1": "Østrig", "2": "Moldova" },
-    { "1": "Norge", "2": "Jordan" },
-    { "1": "Wales", "2": "Sydkorea" },
-    { "1": "Bosnien-Herzegovina U21", "2": "Slovenien U21" },
-    { "1": "Cypern U21", "2": "Østrig U21" },
-    { "1": "Frankrig U21", "2": "Danmark U21" }
+    {
+      "1": "Danmark",
+      "2": "San Marino"
+    },
+    {
+      "1": "Frankrig",
+      "2": "Irland"
+    },
+    {
+      "1": "Holland",
+      "2": "Grækenland"
+    },
+    {
+      "1": "Polen",
+      "2": "Færøerne"
+    },
+    {
+      "1": "Slovenien",
+      "2": "Nordirland"
+    },
+    {
+      "1": "Serbien",
+      "2": "Ungarn"
+    },
+    {
+      "1": "Tjekkiet",
+      "2": "Albanien"
+    },
+    {
+      "1": "Østrig",
+      "2": "Moldova"
+    },
+    {
+      "1": "Norge",
+      "2": "Jordan"
+    },
+    {
+      "1": "Wales",
+      "2": "Sydkorea"
+    },
+    {
+      "1": "Bosnien-Herzegovina U21",
+      "2": "Slovenien U21"
+    },
+    {
+      "1": "Cypern U21",
+      "2": "Østrig U21"
+    },
+    {
+      "1": "Frankrig U21",
+      "2": "Danmark U21"
+    }
   ],
   "odds": [
-    1.01, 20, 60, 1.25, 5.7, 11.5, 1.42, 4.5, 7.5, 1.11, 7.8, 21, 1.82, 3.4,
-    4.6, 1.77, 3.5, 4.8, 1.55, 3.85, 6.5, 1.06, 10, 25, 1.33, 4.8, 7.5, 2.45,
-    3.2, 2.7, 2.05, 3.15, 3.4, 5.8, 4.2, 1.45, 1.6, 3.95, 5
+    1.01,
+    20,
+    60,
+    1.25,
+    5.7,
+    11.5,
+    1.42,
+    4.5,
+    7.5,
+    1.11,
+    7.8,
+    21,
+    1.82,
+    3.4,
+    4.6,
+    1.77,
+    3.5,
+    4.8,
+    1.55,
+    3.85,
+    6.5,
+    1.06,
+    10,
+    25,
+    1.33,
+    4.8,
+    7.5,
+    2.45,
+    3.2,
+    2.7,
+    2.05,
+    3.15,
+    3.4,
+    5.8,
+    4.2,
+    1.45,
+    1.6,
+    3.95,
+    5
   ],
   "bets": [
     "0000000002222",
@@ -1852,5 +1935,233 @@
     "1100200000021",
     "1100200000220",
     "2010000002220"
-  ]
+  ],
+  "lines": [
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "grid": {
+    "selectedMatches": [
+      0,
+      7,
+      3,
+      1,
+      8,
+      2,
+      11,
+      6,
+      12
+    ],
+    "picks": [
+      {
+        "position": 0,
+        "matchIndex": 0,
+        "homeTeam": "Danmark",
+        "awayTeam": "San Marino",
+        "pick": "1"
+      },
+      {
+        "position": 1,
+        "matchIndex": 7,
+        "homeTeam": "Østrig",
+        "awayTeam": "Moldova",
+        "pick": "1"
+      },
+      {
+        "position": 2,
+        "matchIndex": 3,
+        "homeTeam": "Polen",
+        "awayTeam": "Færøerne",
+        "pick": "1"
+      },
+      {
+        "position": 3,
+        "matchIndex": 1,
+        "homeTeam": "Frankrig",
+        "awayTeam": "Irland",
+        "pick": "1"
+      },
+      {
+        "position": 4,
+        "matchIndex": 8,
+        "homeTeam": "Norge",
+        "awayTeam": "Jordan",
+        "pick": "1"
+      },
+      {
+        "position": 5,
+        "matchIndex": 2,
+        "homeTeam": "Holland",
+        "awayTeam": "Grækenland",
+        "pick": "1"
+      },
+      {
+        "position": 6,
+        "matchIndex": 11,
+        "homeTeam": "Cypern U21",
+        "awayTeam": "Østrig U21",
+        "pick": "1"
+      },
+      {
+        "position": 7,
+        "matchIndex": 6,
+        "homeTeam": "Tjekkiet",
+        "awayTeam": "Albanien",
+        "pick": "1"
+      },
+      {
+        "position": 8,
+        "matchIndex": 12,
+        "homeTeam": "Frankrig U21",
+        "awayTeam": "Danmark U21",
+        "pick": "1"
+      }
+    ],
+    "strategy": "contrarian-value",
+    "params": {
+      "homeBaseBoost": 1.7,
+      "drawBasePenalty": 0.35,
+      "awayBasePenalty": 0.9,
+      "edgeMultiplier": 12,
+      "minEdgeForBoost": 0.003,
+      "drawPatternThreshold": 0.03,
+      "drawPatternMultiplier": 7,
+      "minDrawOddsForBoost": 2.4,
+      "minAwayOddsForValue": 1.4,
+      "regressionFactor": 0.35
+    }
+  }
 }
