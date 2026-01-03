@@ -98,19 +98,6 @@ export function BetGame() {
     [selectedFile?.result, manualResults]
   );
 
-  // Toggle result for a match (cycles: none → 1 → X → 2 → none)
-  const cycleResult = useCallback((matchIndex: number) => {
-    setManualResults((prev) => {
-      const current = prev[matchIndex];
-      if (!current) return { ...prev, [matchIndex]: "1" };
-      if (current === "1") return { ...prev, [matchIndex]: "X" };
-      if (current === "X") return { ...prev, [matchIndex]: "2" };
-      // Remove the result (back to pending)
-      const next = { ...prev };
-      delete next[matchIndex];
-      return next;
-    });
-  }, []);
 
   // Set specific result
   const setResult = useCallback((matchIndex: number, result: string | null) => {
@@ -137,7 +124,7 @@ export function BetGame() {
   // Calculate line status and potential payout for all 27 lines
   const lineStatus = useMemo(() => {
     if (!selectedFile?.grid) return [];
-    
+
     return STANDARD_LINES.map((positions) => {
       const statuses = positions.map((pos) => pickStatus[pos]);
       const correctCount = statuses.filter((s) => s === true).length;
@@ -154,8 +141,10 @@ export function BetGame() {
         payout *= selectedFile.odds[oddsIdx];
       }
 
-      if (wrongCount > 0) return { status: "dead" as const, correctCount, pendingCount, payout };
-      if (pendingCount === 0) return { status: "won" as const, correctCount, pendingCount, payout };
+      if (wrongCount > 0)
+        return { status: "dead" as const, correctCount, pendingCount, payout };
+      if (pendingCount === 0)
+        return { status: "won" as const, correctCount, pendingCount, payout };
       return { status: "alive" as const, correctCount, pendingCount, payout };
     });
   }, [pickStatus, selectedFile]);
@@ -272,8 +261,8 @@ export function BetGame() {
                       status === true
                         ? styles.cellCorrect
                         : status === false
-                          ? styles.cellWrong
-                          : styles.cellPending
+                        ? styles.cellWrong
+                        : styles.cellPending
                     }`}
                   >
                     <div className={styles.cellTeams}>
@@ -289,8 +278,8 @@ export function BetGame() {
                           pick.pick === "1"
                             ? styles.betHome
                             : pick.pick === "2"
-                              ? styles.betAway
-                              : styles.betDraw
+                            ? styles.betAway
+                            : styles.betDraw
                         }`}
                       >
                         {pick.pick}
@@ -308,8 +297,8 @@ export function BetGame() {
                             outcome === r && pick.pick === r
                               ? styles.resultBtnCorrect
                               : outcome === r && pick.pick !== r
-                                ? styles.resultBtnWrong
-                                : ""
+                              ? styles.resultBtnWrong
+                              : ""
                           }`}
                           onClick={() =>
                             setResult(pick.matchIndex, outcome === r ? null : r)
@@ -357,8 +346,8 @@ export function BetGame() {
                   status.status === "won"
                     ? styles.lineRouteWon
                     : status.status === "alive"
-                      ? styles.lineRouteAlive
-                      : styles.lineRouteDead
+                    ? styles.lineRouteAlive
+                    : styles.lineRouteDead
                 }`}
               >
                 <div className={styles.lineNodes}>
@@ -372,8 +361,8 @@ export function BetGame() {
                             pickStatus[pos] === true
                               ? styles.nodeCorrect
                               : pickStatus[pos] === false
-                                ? styles.nodeWrong
-                                : styles.nodePending
+                              ? styles.nodeWrong
+                              : styles.nodePending
                           }`}
                         >
                           {teamAbbr}
