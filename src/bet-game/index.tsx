@@ -362,22 +362,26 @@ export function BetGame() {
                 }`}
               >
                 <div className={styles.lineNodes}>
-                  {positions.map((pos, i) => (
-                    <span key={pos} className={styles.lineNode}>
-                      <span
-                        className={`${styles.nodeBox} ${
-                          pickStatus[pos] === true
-                            ? styles.nodeCorrect
-                            : pickStatus[pos] === false
-                              ? styles.nodeWrong
-                              : styles.nodePending
-                        }`}
-                      >
-                        {pos}
+                  {positions.map((pos, i) => {
+                    const pick = picks[pos];
+                    const teamAbbr = pick.homeTeam.slice(0, 3).toUpperCase();
+                    return (
+                      <span key={pos} className={styles.lineNode}>
+                        <span
+                          className={`${styles.nodeBox} ${
+                            pickStatus[pos] === true
+                              ? styles.nodeCorrect
+                              : pickStatus[pos] === false
+                                ? styles.nodeWrong
+                                : styles.nodePending
+                          }`}
+                        >
+                          {teamAbbr}
+                        </span>
+                        {i < 2 && <span className={styles.nodeArrow}>→</span>}
                       </span>
-                      {i < 2 && <span className={styles.nodeArrow}>→</span>}
-                    </span>
-                  ))}
+                    );
+                  })}
                 </div>
                 <span className={styles.linePayout}>
                   {status.payout.toFixed(0)}kr
