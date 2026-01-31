@@ -33,6 +33,40 @@ This will:
 
 Each line connects one cell from each column = 3×3×3 = **27 lines**.
 
+### Update Result Strings
+
+Updates game data files with result strings based on team match data from the `teams/` folder.
+
+```bash
+npm run update:results
+```
+
+**To update a specific file:**
+```bash
+npm run update:results -- 2025-09-13.json
+```
+
+**Result format:**
+- Each character represents one match result
+- `0` = Home victory
+- `1` = Draw
+- `2` = Away win
+- `?` = Match not found (may be from leagues not in our data)
+
+Example result: `"0110021201222"` means:
+- Match 0: Home win (0)
+- Match 1: Draw (1)
+- Match 2: Draw (1)
+- Match 3: Home win (0)
+- etc.
+
+**How it works:**
+1. Loads all team data from `src/assets/data/teams/`
+2. For each match in the game file, finds the corresponding match in team data (searches ±2 days to handle date variations)
+3. Determines the result from the home team's perspective
+4. Builds a result string and adds it to the file
+5. Automatically skips files dated today or in the future
+
 ### Other Scripts
 
 | Script | Description |
