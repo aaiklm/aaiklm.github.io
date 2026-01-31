@@ -2,8 +2,44 @@
   "teamName": "Wrexham",
   "matches": [
     {
+      "date": "2026-01-24",
+      "opponent": "Queens Park Rangers",
+      "isHome": false,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-20",
+      "opponent": "Leicester City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-17",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-04",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2026-01-01",
-      "opponent": "Blackburn",
+      "opponent": "Blackburn Rovers",
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 0,
@@ -12,7 +48,7 @@
     },
     {
       "date": "2025-12-29",
-      "opponent": "Preston",
+      "opponent": "Preston North End",
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
@@ -57,7 +93,7 @@
     },
     {
       "date": "2025-12-06",
-      "opponent": "Preston",
+      "opponent": "Preston North End",
       "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
@@ -66,7 +102,7 @@
     },
     {
       "date": "2025-11-29",
-      "opponent": "Blackburn",
+      "opponent": "Blackburn Rovers",
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
@@ -93,7 +129,7 @@
     },
     {
       "date": "2025-11-08",
-      "opponent": "Charlton Ath",
+      "opponent": "Charlton Athletic",
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 0,
@@ -183,7 +219,7 @@
     },
     {
       "date": "2025-09-13",
-      "opponent": "QPR",
+      "opponent": "Queens Park Rangers",
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 3,
@@ -210,7 +246,7 @@
     },
     {
       "date": "2025-08-16",
-      "opponent": "West Brom",
+      "opponent": "West Bromwich Albion",
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 3,
@@ -228,11 +264,11 @@
     }
   ],
   "stats": {
-    "played": 25,
-    "wins": 9,
-    "draws": 10,
-    "losses": 6,
-    "goalsFor": 36,
-    "goalsAgainst": 31
+    "played": 29,
+    "wins": 11,
+    "draws": 11,
+    "losses": 7,
+    "goalsFor": 43,
+    "goalsAgainst": 37
   }
 }

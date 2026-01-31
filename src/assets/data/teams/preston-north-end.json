@@ -1,36 +1,45 @@
 {
-  "teamName": "Watford",
+  "teamName": "Preston North End",
   "matches": [
     {
       "date": "2026-01-24",
-      "opponent": "Blackburn Rovers",
+      "opponent": "Middlesbrough",
       "isHome": false,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "result": "D",
-      "league": "Championship"
-    },
-    {
-      "date": "2026-01-21",
-      "opponent": "Portsmouth",
-      "isHome": true,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "result": "D",
-      "league": "Championship"
-    },
-    {
-      "date": "2026-01-17",
-      "opponent": "Millwall",
-      "isHome": true,
       "goalsFor": 0,
-      "goalsAgainst": 2,
+      "goalsAgainst": 4,
       "result": "L",
       "league": "Championship"
     },
     {
+      "date": "2026-01-20",
+      "opponent": "Hull City",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-17",
+      "opponent": "Derby County",
+      "isHome": true,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2026-01-04",
+      "opponent": "Bristol City",
+      "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
       "date": "2026-01-01",
-      "opponent": "Birmingham City",
+      "opponent": "Sheffield Weds",
       "isHome": true,
       "goalsFor": 3,
       "goalsAgainst": 0,
@@ -39,16 +48,34 @@
     },
     {
       "date": "2025-12-29",
-      "opponent": "Norwich City",
+      "opponent": "Wrexham",
       "isHome": false,
       "goalsFor": 1,
-      "goalsAgainst": 0,
-      "result": "W",
+      "goalsAgainst": 2,
+      "result": "L",
       "league": "Championship"
     },
     {
       "date": "2025-12-26",
-      "opponent": "Leicester City",
+      "opponent": "Stoke City",
+      "isHome": false,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-20",
+      "opponent": "Norwich City",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-12-13",
+      "opponent": "Oxford United",
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 1,
@@ -56,26 +83,8 @@
       "league": "Championship"
     },
     {
-      "date": "2025-12-20",
-      "opponent": "Stoke City",
-      "isHome": true,
-      "goalsFor": 1,
-      "goalsAgainst": 0,
-      "result": "W",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-12-13",
-      "opponent": "Wrexham",
-      "isHome": false,
-      "goalsFor": 2,
-      "goalsAgainst": 2,
-      "result": "D",
-      "league": "Championship"
-    },
-    {
       "date": "2025-12-09",
-      "opponent": "Sheffield Weds",
+      "opponent": "Coventry City",
       "isHome": true,
       "goalsFor": 1,
       "goalsAgainst": 1,
@@ -84,79 +93,52 @@
     },
     {
       "date": "2025-12-06",
-      "opponent": "Norwich City",
+      "opponent": "Wrexham",
       "isHome": true,
-      "goalsFor": 3,
-      "goalsAgainst": 2,
-      "result": "W",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
       "league": "Championship"
     },
     {
-      "date": "2025-12-01",
-      "opponent": "Birmingham City",
+      "date": "2025-11-29",
+      "opponent": "Sheffield Weds",
       "isHome": false,
-      "goalsFor": 1,
+      "goalsFor": 3,
       "goalsAgainst": 2,
-      "result": "L",
+      "result": "W",
       "league": "Championship"
     },
     {
       "date": "2025-11-25",
-      "opponent": "Preston North End",
-      "isHome": true,
+      "opponent": "Watford",
+      "isHome": false,
       "goalsFor": 1,
       "goalsAgainst": 1,
       "result": "D",
       "league": "Championship"
     },
     {
-      "date": "2025-11-22",
-      "opponent": "Derby County",
-      "isHome": false,
-      "goalsFor": 3,
+      "date": "2025-11-21",
+      "opponent": "Blackburn Rovers",
+      "isHome": true,
+      "goalsFor": 1,
       "goalsAgainst": 2,
-      "result": "W",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-11-07",
-      "opponent": "Bristol City",
-      "isHome": true,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "result": "D",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-11-04",
-      "opponent": "Ipswich Town",
-      "isHome": false,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "result": "D",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-11-01",
-      "opponent": "Middlesbrough",
-      "isHome": true,
-      "goalsFor": 3,
-      "goalsAgainst": 0,
-      "result": "W",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-10-25",
-      "opponent": "Coventry City",
-      "isHome": false,
-      "goalsFor": 1,
-      "goalsAgainst": 3,
       "result": "L",
       "league": "Championship"
     },
     {
-      "date": "2025-10-22",
-      "opponent": "West Bromwich Albion",
+      "date": "2025-11-08",
+      "opponent": "Millwall",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-11-05",
+      "opponent": "Swansea City",
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
@@ -164,26 +146,53 @@
       "league": "Championship"
     },
     {
-      "date": "2025-10-18",
-      "opponent": "Sheffield United",
+      "date": "2025-11-01",
+      "opponent": "Southampton",
       "isHome": false,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-10-24",
+      "opponent": "Sheffield United",
+      "isHome": true,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "result": "W",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-10-21",
+      "opponent": "Birmingham City",
+      "isHome": true,
       "goalsFor": 0,
       "goalsAgainst": 1,
       "result": "L",
       "league": "Championship"
     },
     {
+      "date": "2025-10-18",
+      "opponent": "West Bromwich Albion",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L",
+      "league": "Championship"
+    },
+    {
       "date": "2025-10-04",
-      "opponent": "Oxford United",
+      "opponent": "Charlton Athletic",
       "isHome": true,
       "goalsFor": 2,
-      "goalsAgainst": 1,
+      "goalsAgainst": 0,
       "result": "W",
       "league": "Championship"
     },
     {
-      "date": "2025-10-01",
-      "opponent": "Portsmouth",
+      "date": "2025-09-30",
+      "opponent": "Hull City",
       "isHome": false,
       "goalsFor": 2,
       "goalsAgainst": 2,
@@ -192,34 +201,25 @@
     },
     {
       "date": "2025-09-27",
-      "opponent": "Hull City",
+      "opponent": "Bristol City",
       "isHome": true,
-      "goalsFor": 2,
-      "goalsAgainst": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-09-20",
+      "opponent": "Derby County",
+      "isHome": false,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
       "result": "W",
       "league": "Championship"
     },
     {
-      "date": "2025-09-22",
-      "opponent": "Millwall",
-      "isHome": false,
-      "goalsFor": 0,
-      "goalsAgainst": 1,
-      "result": "L",
-      "league": "Championship"
-    },
-    {
       "date": "2025-09-13",
-      "opponent": "Blackburn Rovers",
-      "isHome": true,
-      "goalsFor": 0,
-      "goalsAgainst": 1,
-      "result": "L",
-      "league": "Championship"
-    },
-    {
-      "date": "2025-08-30",
-      "opponent": "Southampton",
+      "opponent": "Middlesbrough",
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 2,
@@ -227,17 +227,26 @@
       "league": "Championship"
     },
     {
-      "date": "2025-08-23",
-      "opponent": "Swansea City",
+      "date": "2025-08-30",
+      "opponent": "Portsmouth",
       "isHome": false,
-      "goalsFor": 1,
+      "goalsFor": 0,
       "goalsAgainst": 1,
-      "result": "D",
+      "result": "L",
+      "league": "Championship"
+    },
+    {
+      "date": "2025-08-23",
+      "opponent": "Ipswich Town",
+      "isHome": true,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W",
       "league": "Championship"
     },
     {
       "date": "2025-08-16",
-      "opponent": "Queens Park Rangers",
+      "opponent": "Leicester City",
       "isHome": true,
       "goalsFor": 2,
       "goalsAgainst": 1,
@@ -246,20 +255,20 @@
     },
     {
       "date": "2025-08-09",
-      "opponent": "Charlton Athletic",
+      "opponent": "Queens Park Rangers",
       "isHome": false,
-      "goalsFor": 0,
+      "goalsFor": 1,
       "goalsAgainst": 1,
-      "result": "L",
+      "result": "D",
       "league": "Championship"
     }
   ],
   "stats": {
-    "played": 28,
+    "played": 29,
     "wins": 11,
     "draws": 10,
-    "losses": 7,
-    "goalsFor": 39,
+    "losses": 8,
+    "goalsFor": 36,
     "goalsAgainst": 33
   }
 }

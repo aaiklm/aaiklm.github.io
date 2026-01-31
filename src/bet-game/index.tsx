@@ -70,7 +70,13 @@ const dataFiles: DataFile[] = Object.entries(dataModules)
     return { ...data, filename, date };
   })
   .filter((d) => d.grid !== undefined)
-  .sort((a, b) => b.date.localeCompare(a.date));
+  .sort((a, b) => {
+    // Sort by date descending (newest first)
+    // Use Date objects for proper comparison
+    const dateA = new Date(a.date);
+    const dateB = new Date(b.date);
+    return dateB.getTime() - dateA.getTime();
+  });
 
 // Convert result char to outcome
 function resultToOutcome(resultChar: string): string {

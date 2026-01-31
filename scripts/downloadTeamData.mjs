@@ -25,26 +25,26 @@ const LEAGUES = [
         year: "2025-26",
         url: "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
       },
-      {
-        year: "2024-25",
-        url: "https://fbref.com/en/comps/9/2024-2025/schedule/2024-2025-Premier-League-Scores-and-Fixtures",
-      },
-      {
-        year: "2023-24",
-        url: "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
-      },
-      {
-        year: "2022-23",
-        url: "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures",
-      },
-      {
-        year: "2021-22",
-        url: "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures",
-      },
-      {
-        year: "2020-21",
-        url: "https://fbref.com/en/comps/9/2020-2021/schedule/2020-2021-Premier-League-Scores-and-Fixtures",
-      },
+      // {
+      //   year: "2024-25",
+      //   url: "https://fbref.com/en/comps/9/2024-2025/schedule/2024-2025-Premier-League-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2023-24",
+      //   url: "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2022-23",
+      //   url: "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2021-22",
+      //   url: "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2020-21",
+      //   url: "https://fbref.com/en/comps/9/2020-2021/schedule/2020-2021-Premier-League-Scores-and-Fixtures",
+      // },
     ],
   },
   {
@@ -55,26 +55,26 @@ const LEAGUES = [
         year: "2025-26",
         url: "https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures",
       },
-      {
-        year: "2024-25",
-        url: "https://fbref.com/en/comps/10/2024-2025/schedule/2024-2025-Championship-Scores-and-Fixtures",
-      },
-      {
-        year: "2023-24",
-        url: "https://fbref.com/en/comps/10/2023-2024/schedule/2023-2024-Championship-Scores-and-Fixtures",
-      },
-      {
-        year: "2022-23",
-        url: "https://fbref.com/en/comps/10/2022-2023/schedule/2022-2023-Championship-Scores-and-Fixtures",
-      },
-      {
-        year: "2021-22",
-        url: "https://fbref.com/en/comps/10/2021-2022/schedule/2021-2022-Championship-Scores-and-Fixtures",
-      },
-      {
-        year: "2020-21",
-        url: "https://fbref.com/en/comps/10/2020-2021/schedule/2020-2021-Championship-Scores-and-Fixtures",
-      },
+      // {
+      //   year: "2024-25",
+      //   url: "https://fbref.com/en/comps/10/2024-2025/schedule/2024-2025-Championship-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2023-24",
+      //   url: "https://fbref.com/en/comps/10/2023-2024/schedule/2023-2024-Championship-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2022-23",
+      //   url: "https://fbref.com/en/comps/10/2022-2023/schedule/2022-2023-Championship-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2021-22",
+      //   url: "https://fbref.com/en/comps/10/2021-2022/schedule/2021-2022-Championship-Scores-and-Fixtures",
+      // },
+      // {
+      //   year: "2020-21",
+      //   url: "https://fbref.com/en/comps/10/2020-2021/schedule/2020-2021-Championship-Scores-and-Fixtures",
+      // },
     ],
   },
 ];
@@ -95,31 +95,31 @@ function parseFBrefHTML(html, league) {
 
     // Extract gameweek
     const weekMatch = row.match(
-      /<th[^>]*data-stat="gameweek"[^>]*>(\d+)<\/th>/
+      /<th[^>]*data-stat="gameweek"[^>]*>(\d+)<\/th>/,
     );
     const week = weekMatch ? weekMatch[1] : null;
 
     // Extract date - look for the date inside an anchor tag or as text
     const dateMatch = row.match(
-      /<td[^>]*data-stat="date"[^>]*>(?:<a[^>]*>)?(\d{4}-\d{2}-\d{2})(?:<\/a>)?<\/td>/
+      /<td[^>]*data-stat="date"[^>]*>(?:<a[^>]*>)?(\d{4}-\d{2}-\d{2})(?:<\/a>)?<\/td>/,
     );
     const dateStr = dateMatch ? dateMatch[1].trim() : null;
 
     // Extract home team from anchor tag
     const homeMatch = row.match(
-      /<td[^>]*data-stat="home_team"[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>/
+      /<td[^>]*data-stat="home_team"[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>/,
     );
     const homeTeam = homeMatch ? homeMatch[1].trim() : null;
 
     // Extract away team from anchor tag
     const awayMatch = row.match(
-      /<td[^>]*data-stat="away_team"[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>/
+      /<td[^>]*data-stat="away_team"[^>]*>[\s\S]*?<a[^>]*>([^<]+)<\/a>/,
     );
     const awayTeam = awayMatch ? awayMatch[1].trim() : null;
 
     // Extract score - only matches with actual scores (format: "2–1" with en-dash or "2-1" with hyphen)
     const scoreMatch = row.match(
-      /<td[^>]*data-stat="score"[^>]*>(?:<a[^>]*>)?(\d+)[–\-](\d+)(?:<\/a>)?<\/td>/
+      /<td[^>]*data-stat="score"[^>]*>(?:<a[^>]*>)?(\d+)[–\-](\d+)(?:<\/a>)?<\/td>/,
     );
 
     // Skip if no score (future/unplayed match)
@@ -170,17 +170,28 @@ async function fetchSeasonData(browser, seasonInfo, leagueName) {
 
     // Set user agent to look like a real browser
     await page.setUserAgent(
-      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     );
+
+    // Remove webdriver property to avoid detection
+    await page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, 'webdriver', {
+        get: () => undefined,
+      });
+    });
+
+    console.log(`    ⏳ Opening ${seasonInfo.url}`);
+    console.log(`    👤 Solve any CAPTCHA if it appears...`);
 
     // Navigate to page and wait for table to load
     await page.goto(seasonInfo.url, {
-      waitUntil: "networkidle2",
-      timeout: 60000,
+      waitUntil: "domcontentloaded",
+      timeout: 120000, // 2 minutes to allow manual CAPTCHA solving
     });
 
-    // Wait for the schedule table to be present
-    await page.waitForSelector('table[id^="sched"]', { timeout: 30000 });
+    // Wait for the schedule table to be present (with longer timeout for CAPTCHA solving)
+    console.log(`    ⏳ Waiting for table to load (you have up to 2 minutes to solve CAPTCHA)...`);
+    await page.waitForSelector('table[id^="sched"]', { timeout: 120000 });
 
     // Get the full HTML
     const html = await page.content();
@@ -202,7 +213,7 @@ function filterByTeam(matches, teamName) {
     .filter(
       (m) =>
         m.homeTeam.toLowerCase().includes(normalized) ||
-        m.awayTeam.toLowerCase().includes(normalized)
+        m.awayTeam.toLowerCase().includes(normalized),
     )
     .map((m) => {
       const isHome = m.homeTeam.toLowerCase().includes(normalized);
@@ -264,9 +275,17 @@ async function main() {
 
   // Launch browser
   console.log("🚀 Launching browser...\n");
+  console.log("⚠️  If Cloudflare CAPTCHA appears, solve it manually in the browser window\n");
   const browser = await puppeteer.launch({
-    headless: true,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    headless: false,
+    defaultViewport: null,
+    args: [
+      "--start-maximized",
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-blink-features=AutomationControlled",
+      "--disable-dev-shm-usage",
+    ],
   });
 
   const allMatches = [];
@@ -341,7 +360,7 @@ async function main() {
     const filepath = join(DATA_DIR, filename);
     writeFileSync(filepath, JSON.stringify(teamHistory, null, 2));
     console.log(
-      `  ✓ ${team}: ${teamHistory.stats.played}P ${teamHistory.stats.wins}W ${teamHistory.stats.draws}D ${teamHistory.stats.losses}L`
+      `  ✓ ${team}: ${teamHistory.stats.played}P ${teamHistory.stats.wins}W ${teamHistory.stats.draws}D ${teamHistory.stats.losses}L`,
     );
   }
 
